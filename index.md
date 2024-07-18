@@ -19,9 +19,9 @@ Esta es la bienvenida.
 
 Esto son novedades
 
-- [Ciber - 2024-06-01](Otros/2024-06-01)
-- [Ciber - 2024-06-02](Otros/2024-06-02)
-- [Otros - Menu1](ciber/Menu)
+- [Ciber - 2024-06-01](Ciber/2024-06-01/)
+- [Ciber - 2024-06-02](Ciber/2024-06-02/)
+- [Otros - Menu1](ciber/Menu/)
 
 
 
