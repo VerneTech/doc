@@ -1,8 +1,8 @@
 ---
+title: Newsletter - Ciberseguridad
 layout: default
-title: newsletter - Ciberseguridad
-has_children: true
 nav_order: 1
+has_children: true
 ---
 
 Ejemplo de índice

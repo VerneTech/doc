@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Code
+layout: default
 parent: Menu - Otros
-has_children: false
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Artículo 1 ciberseguridad
+layout: default
 nav_order: 2
 ---
 
