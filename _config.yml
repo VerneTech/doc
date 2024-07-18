@@ -7,19 +7,19 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+collections:
+  ciber:
+    permalink: "/:collection/:path/"
+    output: true
+  otros:
+    permalink: "/:collection/:path/"
+    output: true
+    
+just_the_docs:
   collections:
     ciber:
-      permalink: "/:collection/:path/"
-      output: true
+      name: Ciberseguridad
+      nav_fold: true
     otros:
-      permalink: "/:collection/:path/"
-      output: true
-      
-  just_the_docs:
-    collections:
-      ciber:
-        name: Ciberseguridad
-        nav_fold: true
-      otros:
-        name: Otros
-        nav_fold: false
+      name: Otros
+      nav_fold: false
