@@ -5,15 +5,6 @@ parent: Menu - Comunidad
 nav_order: 2
 ---
 
-<details open markdown="block">
-  <summary>Tabla de Contenidos</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
-
 # Usar Just the Docs
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
