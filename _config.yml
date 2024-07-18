@@ -1,11 +1,17 @@
-title: VTG newsletter
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Verne Tech
+description: Verne Tech tips!
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vernetech.github.io/newsletter/
 
 aux_links:
-  newsletter on Github: https://github.com/vernetech/newsletter
+  VTG on Github: https://github.com/vernetech/newsletter
+
+search_enabled: true
+search.button: true
+
+search.previews: 3 -- default
 
 collections:
   ciber:
@@ -19,14 +25,14 @@ just_the_docs:
   collections:
     ciber:
       name: Ciberseguridad
+      nav_exclude: false
       nav_fold: true
+      search_exclude: false
     otros:
       name: Otros
+      nav_exclude: false
       nav_fold: false
-
-relative_links:
-  enabled: true
-  collections: true
+      search_exclude: false
 
 
 callouts_level: quiet # or loud
@@ -51,6 +57,5 @@ callouts:
     title: 🆕 New
     color: purple
 
-  
 mermaid:
   version: '10.3.1'
