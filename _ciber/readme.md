@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Labels
-parent: Ciber
+parent: Ciberseguridad
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Ciberseguridad
 nav_order: 1
 ---
 
