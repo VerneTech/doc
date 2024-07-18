@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: Otros
+parent: Menu - Otros
 has_children: false
 nav_order: 1
 ---

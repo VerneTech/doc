@@ -1,7 +1,8 @@
 ---
 title: Usar Just the Docs
 layout: default
-nav_order: 3
+parent: Menu - Comunidad
+nav_order: 2
 ---
 
 <details open markdown="block">

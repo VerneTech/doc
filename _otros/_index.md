@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Otros
-nav_order: 1
+title: Menu - Otros
 has_children: true
 nav_order: 1
 has_toc: false 

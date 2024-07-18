@@ -1,7 +1,8 @@
 ---
 title: Instalación 101 - Just the Docs
 layout: default
-nav_order: 2
+parent: Menu - Comunidad
+nav_order: 1
 ---
 
 Resumen rápido de cómo instalar Just the Docs. Instrucciones fáciles para instalar jekyll en local.
