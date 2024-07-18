@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Buttons
-parent: UI Components
-nav_order: 1
+parent: Otros
+nav_order: 2
 ---
 
 # Buttons

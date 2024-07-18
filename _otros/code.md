@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: Otros
 nav_order: 2
 ---
 

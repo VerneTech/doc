@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Index
-parent: UI Components
+parent: Ciber
 nav_order: 1
 ---
 
