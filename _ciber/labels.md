@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Labels
-parent: Ciber
 nav_order: 2
 ---
 

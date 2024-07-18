@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Buttons
-parent: Otros
 nav_order: 2
 ---
 
