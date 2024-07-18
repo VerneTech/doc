@@ -1,6 +1,18 @@
 ---
-title: Home
 layout: default
+title: newsletter - Ciberseguridad
+has_children: true
+nav_order: 1
+---
+
+Ejemplo de índice
+
+
+
+
+---
+title: Home
+layout: home
 ---
 
 # Bienvenido
@@ -30,3 +42,4 @@ Esto son novedades
 Estas son las secciones
 
 ---
+

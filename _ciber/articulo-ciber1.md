@@ -1,14 +1,10 @@
 ---
-title: Newsletter Ciberseguridad - 2024-06-01
 layout: default
-parent: newsletter - Ciberseguridad
-has_children: false
-nav_order: 1
-has_toc: false 
-## por defecto se pone has_toc: false porque añadimos manualmente el TOC (vre <details open markdown=""block>... )
---- 
+title: Artículo 1 ciberseguridad
+nav_order: 2
+---
 
-# Newsletter Ciberseguridad - 2024-06-01
+# Artículo 1 ciberseguridad
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel augue ac elit auctor rhoncus non ut ex. Vestibulum ut orci vitae nisl venenatis tincidunt at a tortor. Sed non ante vel sapien auctor elementum
 
@@ -40,12 +36,6 @@ Aliquam quis neque commodo, fermentum lectus non, viverra augue. Suspendisse orn
 
 ## Nam porta gravida eleifend
 Nam porta gravida eleifend. Duis tempus leo sed odio ultricies, non tempor orci feugiat. Suspendisse non purus risus. Integer vel tempus mi. Quisque sed ex sit amet ex euismod fringilla. Suspendisse pretium lorem ex, vel rhoncus ligula lobortis vitae. Curabitur ultricies sollicitudin tortor auctor tincidunt. Nulla cursus dolor metus, a consequat eros elementum eget. Mauris a quam imperdiet, tincidunt orci nec, congue nisi. Integer rhoncus leo a metus vestibulum, iaculis egestas ligula pharetra. Sed leo justo, condimentum id augue vitae, pretium commodo nisl. Praesent vulputate cursus mattis. Aliquam pretium lorem est, non dictum elit eleifend vitae. Phasellus et mattis massa, eu porta massa. Vivamus mattis nunc est, vel faucibus risus blandit vel. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-
-## Class aptent taciti sociosqu
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean ac ullamcorper leo, eget lobortis dui. Duis sodales enim id dui tempor scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus sed ipsum ipsum. Ut sodales nunc nulla, in porta justo rutrum ac. Ut nibh risus, hendrerit nec diam non, viverra luctus tellus.
-
-### In et ante lacus
-In et ante lacus. In posuere massa vel tortor tempor, in condimentum diam maximus. Sed aliquam erat quis libero commodo, non lacinia eros tristique. Donec id sodales ligula, a ornare arcu. Duis ut accumsan mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non euismod nisi. Vestibulum id felis ante. Cras et neque lacinia ipsum fermentum semper. Duis aliquet risus id ex vehicula, et maximus mauris auctor. Vivamus aliquet nisi sit amet dui elementum pellentesque. Aenean commodo pellentesque ultricies. Donec molestie porttitor mauris et tempus. Praesent dignissim vestibulum mi. Curabitur finibus, nunc et lobortis dapibus, neque felis ultrices enim, quis auctor felis nisl a lacus. Duis nec cursus nisl.
 
 ## Aenean tortor justo
 Aenean tortor justo, aliquet vel quam ut, dapibus tempor tellus. Praesent ultricies porttitor erat placerat laoreet. Donec commodo ornare tortor, eleifend porta tortor rhoncus id. Donec ullamcorper, massa eu finibus dictum, mi erat congue elit, placerat dignissim leo mi ut nisl. Cras in arcu sodales, convallis turpis et, commodo ipsum. Suspendisse neque orci, molestie ut massa id, laoreet ultricies felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus sollicitudin magna velit, eget aliquet justo condimentum eu. Phasellus tincidunt non eros ac dignissim. Morbi at ipsum urna. Morbi consequat urna sit amet cursus facilisis. Etiam viverra commodo mauris, non dictum mauris auctor sed. In hac habitasse platea dictumst. Vestibulum a nulla sed erat dictum sodales. Aliquam nec metus imperdiet, porttitor tellus nec, tempor ligula.

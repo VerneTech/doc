@@ -1,7 +1,16 @@
 ---
 title: Usar Just the Docs
 layout: default
-nav_order: 1
+nav_order: 3
+---
+
+<details open markdown="block">
+  <summary>Tabla de Contenidos</summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ---
 
 # Usar Just the Docs

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Code
+parent: Otros
+has_children: false
 nav_order: 2
 ---
 

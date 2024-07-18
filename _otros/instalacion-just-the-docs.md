@@ -4,6 +4,19 @@ layout: default
 nav_order: 2
 ---
 
+Resumen rápido de cómo instalar Just the Docs. Instrucciones fáciles para instalar jekyll en local.
+
+---
+
+<details open markdown="block">
+  <summary>Tabla de Contenidos</summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 # Instalación 101 - Just the Docs
 
 Integrar este modelo de documentación en github es sencillo:

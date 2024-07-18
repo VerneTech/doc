@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Buttons
-nav_order: 2
+parent: Otros
+has_children: false
+nav_order: 1
 ---
 
 # Buttons
