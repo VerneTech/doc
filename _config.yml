@@ -14,3 +14,12 @@ aux_links:
     otros:
       permalink: "/:collection/:path/"
       output: true
+      
+  just_the_docs:
+    collections:
+      ciber:
+        name: Ciberseguridad
+        nav_fold: true
+      otros:
+        name: Otros
+        nav_fold: false
