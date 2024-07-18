@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  newsletter on Github: https://github.com/vernetech/newsletter
 
 collections:
   ciber:
@@ -23,3 +23,34 @@ just_the_docs:
     otros:
       name: Otros
       nav_fold: false
+
+relative_links:
+  enabled: true
+  collections: true
+
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  highlight-green:
+    color: green
+  note:
+    title: 🚩 Note
+    color: yellow
+  tip:
+    title: 💡 Tip
+    color: blue
+  important:
+    title: ✨ Important
+    color: blue
+  warning:
+    title: ⚠️ Warning
+    color: red
+  new:
+    title: 🆕 New
+    color: purple
+
+  
+mermaid:
+  version: '10.3.1'
