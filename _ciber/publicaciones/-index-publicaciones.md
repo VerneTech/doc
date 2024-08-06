@@ -1,15 +1,20 @@
 ---
-title: Home
+title: Publicaciones
 layout: default
+nav_order: 2
+has_children: true
 ---
 
-# Newsletter Verne Tech!
+Ejemplo de índice
 
+---
+title: Home
+layout: home
+---
 
-Queremos que este sitio sea una fuente de inspiración para todos.
+# Bienvenido
 
-
-Esta es la bienvenidA.
+Esta es la bienvenida.
 
 <details open markdown="block">
   <summary>Tabla de Contenidos</summary>
@@ -19,18 +24,19 @@ Esta es la bienvenidA.
 </details>
 ---
 
+### Novedades
 
----
-
-# Novedades
-
-Novedades más recientes:
+Esto son novedades
 
 - [Ciber - 2024-06-01](ciber/2024-06-01/)
 - [Ciber - 2024-06-02](ciber/2024-06-02/)
 - [Otros - index](otros/index/)
 
 
+
 ### Secciones
 
 Estas son las secciones
+
+---
+

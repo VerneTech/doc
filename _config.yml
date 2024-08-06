@@ -1,5 +1,5 @@
 title: Verne Tech
-description: Verne Tech tips!
+description: Verne Tech Newsletter!
 theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
@@ -17,7 +17,16 @@ collections:
   ciber:
     permalink: "/:collection/:path/"
     output: true
-  otros:
+  azure:
+    permalink: "/:collection/:path/"
+    output: true
+  sqlserver:
+    permalink: "/:collection/:path/"
+    output: true
+  mysql:
+    permalink: "/:collection/:path/"
+    output: true
+  nosotros:
     permalink: "/:collection/:path/"
     output: true
     
@@ -25,15 +34,16 @@ just_the_docs:
   collections:
     ciber:
       name: Ciberseguridad
-      nav_exclude: false
-      nav_fold: true
-      search_exclude: false
-    otros:
-      name: Otros
-      nav_exclude: false
-      nav_fold: false
-      search_exclude: false
-
+      expanded: true
+    azure:
+      name: Azure
+      expanded: true
+    sqlserver:
+      name: SQL Server
+      expanded: true
+    nosotros:
+      name: Nosotros
+      expanded: false
 
 callouts_level: quiet # or loud
 callouts:
@@ -42,7 +52,7 @@ callouts:
   highlight-green:
     color: green
   note:
-    title: 🚩 Note
+    title: 🚩 Nota
     color: yellow
   tip:
     title: 💡 Tip
@@ -57,12 +67,10 @@ callouts:
     title: 🆕 New
     color: purple
 
+highlighter: rouge
+
 mermaid:
   version: '10.3.1'
 
-
-
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-
