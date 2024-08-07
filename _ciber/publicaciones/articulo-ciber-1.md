@@ -2,8 +2,8 @@
 title: Publicacion 1
 layout: default
 parent: Publicaciones
+nav_exclude: false
 nav_order: 2
-
 ---
 
 # Publicación 1 ciberseguridad

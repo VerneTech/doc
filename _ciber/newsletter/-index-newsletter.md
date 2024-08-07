@@ -28,9 +28,10 @@ Esta es la bienvenida.
 
 Esto son novedades
 
-- [Ciber - 2024-06-01](ciber/2024-06-01/)
-- [Ciber - 2024-06-02](ciber/2024-06-02/)
-- [Otros - index](otros/index/)
+- [Ciber - 2024-06-01](/ciber/newsletter/2024-06-01/)
+- [Ciber - 2024-07-01](/ciber/newsletter/2024-07-01/)
+- [Ciber - 2024-07-02](/ciber/newsletter/2024-07-02/)
+- [Otros - index](/ciber/newsletter/-numeros-anteriores/)
 
 
 

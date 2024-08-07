@@ -28,10 +28,7 @@ Esta es la bienvenida.
 
 Esto son novedades
 
-- [Ciber - 2024-06-01](ciber/2024-06-01/)
-- [Ciber - 2024-06-02](ciber/2024-06-02/)
-- [Otros - index](otros/index/)
-
+- [artículo ciber 1](/ciber/publicaciones/articulo-ciber-1/)
 
 
 ### Secciones
