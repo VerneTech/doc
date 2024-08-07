@@ -5,39 +5,12 @@ nav_order: 1
 has_children: true
 ---
 
-Ejemplo de índice
+# Índice de newsletters
 
----
-title: Home
-layout: home
----
+## PDF
 
-# Bienvenido
-
-Esta es la bienvenida.
-
-<details open markdown="block">
-  <summary>Tabla de Contenidos</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
----
-
-### Novedades
-
-Esto son novedades
-
-- [Ciber - 2024-06-01](/ciber/newsletter/2024-06-01/)
-- [Ciber - 2024-07-01](/ciber/newsletter/2024-07-01/)
-- [Ciber - 2024-07-02](/ciber/newsletter/2024-07-02/)
-- [Otros - index](/ciber/newsletter/-numeros-anteriores/)
-
-
-
-### Secciones
-
-Estas son las secciones
-
----
+- [Ciber - 2024-28](/ciber/newsletter/pdfs/Newsletter-semana-2024-28.pdf).
+- [Ciber - 2024-29](/ciber/newsletter/pdfs/Newsletter-semana-2024-29.pdf).
+- [Ciber - 2024-30](/ciber/newsletter/pdfs/Newsletter-semana-2024-30.pdf).
+- [Ciber - 2024-31](/ciber/newsletter/pdfs/Newsletter-semana-2024-31.pdf).
 

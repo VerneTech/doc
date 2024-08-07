@@ -7,11 +7,6 @@ has_children: true
 
 Ejemplo de índice
 
----
-title: Home
-layout: home
----
-
 # Bienvenido
 
 Esta es la bienvenida.
