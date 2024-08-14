@@ -3,10 +3,10 @@ description: Verne Tech Newsletter!
 theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
-url: https://vernetech.github.io/newsletter/
+url: https://vernetech.github.io/doc/
 
 aux_links:
-  VTG on Github: https://github.com/vernetech/newsletter
+  VTG on Github: https://github.com/vernetech/doc
 
 search_enabled: true
 search.button: true
