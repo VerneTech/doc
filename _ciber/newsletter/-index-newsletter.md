@@ -7,7 +7,7 @@ has_children: true
 
 # Índice de newsletters
 
-## PDF
+## PDF 
 
 - [Ciber - 2024-28](/ciber/newsletter/pdfs/Newsletter-semana-2024-28.pdf).
 - [Ciber - 2024-29](/ciber/newsletter/pdfs/Newsletter-semana-2024-29.pdf).
