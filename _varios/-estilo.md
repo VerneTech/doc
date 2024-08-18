@@ -1,10 +1,8 @@
 ---
-title: Menu - Otros
+title: Estilo
 layout: default
 has_children: true
 nav_order: 1
-has_toc: false 
-## por defecto se pone has_toc: false porque añadimos manualmente el TOC (vre <details open markdown=""block>... )
 --- 
 
 # Otros

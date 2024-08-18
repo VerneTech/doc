@@ -20,16 +20,13 @@ collections:
   azure:
     permalink: "/:collection/:path/"
     output: true
-  sqlserver:
+  data:
     permalink: "/:collection/:path/"
     output: true
-  mysql:
+  varios:
     permalink: "/:collection/:path/"
     output: true
-  nosotros:
-    permalink: "/:collection/:path/"
-    output: true
-    
+
 just_the_docs:
   collections:
     ciber:
@@ -38,11 +35,11 @@ just_the_docs:
     azure:
       name: Azure
       expanded: true
-    sqlserver:
-      name: SQL Server
+    data:
+      name: Data
       expanded: true
-    nosotros:
-      name: Nosotros
+    varios:
+      name: Varios
       expanded: false
 
 callouts_level: quiet # or loud

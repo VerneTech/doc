@@ -1,8 +1,8 @@
 ---
-title: Guia de formato
+title: Guía de formato
 layout: default
-parent: About
-nav_order: 3
+parent: Estilo
+nav_order: 2
 ---
 
 # Guía de formato

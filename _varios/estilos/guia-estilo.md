@@ -1,8 +1,8 @@
 ---
-title: Guia de estilo
+title: Guía de estilo
 layout: default
-parent: About
-nav_order: 2
+parent: Estilo
+nav_order: 1
 ---
 
 # Guía de estilo
@@ -95,7 +95,7 @@ Es una forma de escribir ideal para tutoriales, guías paso a paso, o cualquier 
 
 
 
-## Referencias Oficiales
+## Referencias de estilo de grandes corporaciones
 
 - [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 - [Apple Style Guide - 2022](https://support.apple.com/es-es/guide/applestyleguide/apsg1eef9171/web)

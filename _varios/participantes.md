@@ -1,8 +1,8 @@
 ---
-title: Sobre nosotros
+title: Participantes
 layout: default
-parent: About
-nav_order: 4
+parent: Estilo
+nav_order: 9
 ---
 
 # Quienes participan en este repositorio
