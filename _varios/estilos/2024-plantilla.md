@@ -23,12 +23,12 @@ nav_order: 99
 ### Segmentación
 
 | Fecha                          | valor |
-| [Importancia](/refs/criticidades/)                     | <label class="label label-blue">Baja</label><label class="label label-yellow">Media</label><label class="label label-red">Alta</label> | 
-| [Categoría](/refs/categorias/)                      | valor |
-| [Nombre vulnerabilidad](/refs/vulnerabilidades/)    | valor |
-| [Brecha](/refs/brechas/)                          | valor |
-| [Recursos afectados](/refs/recursos-afectados/)                          | valor |
-| [Fuente](/refs/fuentes/)                              | valor | 
+| [Importancia](/refs/ciber/importancia/)                     | <label class="label label-blue">Baja</label><label class="label label-yellow">Media</label><label class="label label-red">Alta</label> | 
+| [Categoría](/refs/ciber/categorias/)                      | valor |
+| [Nombre vulnerabilidad](/refs/ciber/vulnerabilidades/)    | valor |
+| [Brecha](/refs/ciber/brechas/)                          | valor |
+| [Recursos afectados](/refs/ciber/recursos-afectados/)                          | valor |
+| [Fuente](/refs/ciber/fuentes/)                              | valor | 
 
 ---
 
@@ -48,12 +48,12 @@ Desarrollo del detalle.
 ### Segmentación
 
 | Fecha                          | valor |
-| [Importancia](/refs/criticidades/)                     | <label class="label label-blue">Baja</label><label class="label label-yellow">Media</label><label class="label label-red">Alta</label> | 
-| [Categoría](/refs/categorias/)                      | valor |
-| [Nombre vulnerabilidad](/refs/vulnerabilidades/)    | valor |
-| [Brecha](/refs/brechas/)                          | valor |
-| [Recursos afectados](/refs/recursos-afectados/)                          | valor |
-| [Fuente](/refs/fuentes/)                              | valor | 
+| [Importancia](/refs/ciber/importancia/)                     | <label class="label label-blue">Baja</label><label class="label label-yellow">Media</label><label class="label label-red">Alta</label> | 
+| [Categoría](/refs/ciber/categorias/)                      | valor |
+| [Nombre vulnerabilidad](/refs/ciber/vulnerabilidades/)    | valor |
+| [Brecha](/refs/ciber/brechas/)                          | valor |
+| [Recursos afectados](/refs/ciber/recursos-afectados/)                          | valor |
+| [Fuente](/refs/ciber/fuentes/)                              | valor | 
 
 ---
 
