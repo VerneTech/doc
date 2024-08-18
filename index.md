@@ -5,24 +5,11 @@ layout: default
 
 # Newsletter Verne Tech!
 
+Información técnica del equipo de Verne Tech!
 
-Queremos que este sitio sea una fuente de inspiración para todos.
+Esta es la bienvenida.
 
-
-Esta es la bienvenidA.
-
-<details open markdown="block">
-  <summary>Tabla de Contenidos</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
----
-
-
----
-
-# Novedades
+## Novedades
 
 Novedades más recientes:
 
@@ -32,5 +19,4 @@ Novedades más recientes:
 
 
 ### Secciones
-
 Estas son las secciones

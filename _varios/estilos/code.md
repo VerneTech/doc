@@ -1,18 +1,19 @@
 ---
 title: Code
 layout: default
-parent: Menu - Otros
-nav_order: 2 
+parent: Estilo
+nav_order: 6
 ---
 
 # Code
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>Tabla de Contenidos</summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ---
 

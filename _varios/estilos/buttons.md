@@ -1,18 +1,18 @@
 ---
 title: Buttons
 layout: default
-parent: Menu - Otros
-nav_order: 1
+parent: Estilo
+nav_order: 3
 ---
 
 # Buttons
-{: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>Tabla de Contenidos</summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 ---
 
@@ -22,20 +22,16 @@ nav_order: 1
 
 <div class="code-example" markdown="1">
 [Link button](https://just-the-docs.com){: .btn }
-
 [Link button](https://just-the-docs.com){: .btn .btn-purple }
 [Link button](https://just-the-docs.com){: .btn .btn-blue }
 [Link button](https://just-the-docs.com){: .btn .btn-green }
-
 [Link button](https://just-the-docs.com){: .btn .btn-outline }
 </div>
 ```markdown
 [Link button](https://just-the-docs.com){: .btn }
-
 [Link button](https://just-the-docs.com){: .btn .btn-purple }
 [Link button](https://just-the-docs.com){: .btn .btn-blue }
 [Link button](https://just-the-docs.com){: .btn .btn-green }
-
 [Link button](https://just-the-docs.com){: .btn .btn-outline }
 ```
 
@@ -50,6 +46,3 @@ GitHub Flavored Markdown does not support the `button` element, so you'll have t
 <button type="button" name="button" class="btn">Button element</button>
 ```
 
----
-
-## Using utilities with buttons

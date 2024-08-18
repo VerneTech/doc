@@ -1,13 +1,13 @@
 ---
-title: Introducción
+title: Sobre nosotros
 layout: default
-parent: About
-nav_order: 1
+parent: Estilo
+nav_order: 8
 ---
 
 # Newsletter de Verne Tech
 
-Queremos darte la bienvenida a nuestra newsletter, un proyecto diseñado para compartir conocimientos, experiencias y tendencias relevantes en el ámbito de nuestro día a día. Nuestras especialidades son Azure, SQL Server, y Ciberseguridad.
+Queremos darte la bienvenida a nuestra newsletter, un proyecto diseñado para compartir conocimientos, experiencias y tendencias relevantes en el ámbito de nuestro día a día. Nuestras especialidades son Azure, Data, y Ciberseguridad.
 
 ### ¿Qué pueden esperar?
 
