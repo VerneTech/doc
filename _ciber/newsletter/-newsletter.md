@@ -9,8 +9,8 @@ has_children: true
 
 ## PDF
 
-- [Ciber - 2024-28](/refs/ciber/pdfs/newsletter-2024-28.pdf).
-- [Ciber - 2024-29](/refs/ciber/pdfs/newsletter-2024-29.pdf).
-- [Ciber - 2024-30](/refs/ciber/pdfs/newsletter-2024-30.pdf).
-- [Ciber - 2024-31](/refs/ciber/pdfs/newsletter-2024-31.pdf).
+- [Ciber - 2024-28](/doc/refs/ciber/pdfs/newsletter-2024-28.pdf).
+- [Ciber - 2024-29](/doc/refs/ciber/pdfs/newsletter-2024-29.pdf).
+- [Ciber - 2024-30](/doc/refs/ciber/pdfs/newsletter-2024-30.pdf).
+- [Ciber - 2024-31](/doc/refs/ciber/pdfs/newsletter-2024-31.pdf).
 
