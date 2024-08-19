@@ -13,10 +13,9 @@ Esta es la bienvenida.
 
 Novedades más recientes:
 
-- [Ciber - 2024-06-01](ciber/2024-06-01/)
-- [Ciber - 2024-06-02](ciber/2024-06-02/)
-- [Otros - index](otros/index/)
-
+- [Ciber - 2024-30](ciber/newsletter/2024-30/)
+- [Ciber - 2024-31](ciber/newsletter/2024-31/)
+- [Ciber - 2024-32](ciber/newsletter/2024-32/)
 
 ### Secciones
 Estas son las secciones
