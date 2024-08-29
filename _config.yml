@@ -3,6 +3,8 @@ description: Verne Tech Newsletter!
 theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
+# Configuración para GitHub Pages
+baseurl: "/doc" # Indica la subcarpeta del repositorio en GitHub Pages
 url: https://vernetech.github.io/doc/
 
 aux_links:
