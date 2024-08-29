@@ -7851,3 +7851,9 @@ body, p, span, div {
   color: #000000;
 }
 
+.css-imagen {
+  float: left; /* o right para que flote a la derecha */
+  margin-right: 25px; /* Espacio a la derecha de la imagen */
+  margin-bottom: 10px; /* Espacio abajo de la imagen */
+  max-width: 35%; /* Ajusta el tamaño de la imagen */
+}

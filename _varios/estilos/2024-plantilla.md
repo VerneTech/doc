@@ -35,7 +35,9 @@ Resumen de la noticia. máximo 5 líneas de texto.
 ---
 
 ### Descripción
+![Imagen noticia 1](/ciber/newsletter/img/2024-35-img1.jpg){: .css-imagen}
 Desarrollo de la noticia.
+
 ### Solución
 Desarrollo de la solución.
 ### Detalle
@@ -62,7 +64,10 @@ Resumen de la noticia. máximo 5 líneas de texto.
 ---
 
 ### Descripción
+![Imagen noticia 2](/ciber/newsletter/img/2024-35-img2.jpg){: .css-imagen}
+
 Desarrollo de la noticia.
+
 ### Solución
 Desarrollo de la solución.
 ### Detalle
