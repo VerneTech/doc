@@ -1,5 +1,5 @@
 ---
-title: Publicaciones
+title: Cyberciclopedia
 layout: default
 nav_order: 2
 has_children: true
@@ -19,7 +19,7 @@ Esta es la bienvenida.
 </details>
 ---
 
-### Novedades
+### Categorías
 
 Esto son novedades
 

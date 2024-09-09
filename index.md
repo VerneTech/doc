@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Newsletter Verne Tech!
+# ¡Newsletter Verne Tech!
 
 ¡Bienvenidos a nuestra newsletter semanal de ciberseguridad! Nos complace tenerte con nosotros en este viaje hacia un entorno digital más seguro y protegido. Cada semana, nuestro equipo multidisciplinar, compuesto por expertos en diversas áreas de la ciberseguridad, se dedica a traerte las últimas novedades, consejos formativos y actualizaciones normativas en el mundo de la ciberseguridad.
 
@@ -19,22 +19,12 @@ Esperamos que disfrutes de esta edición y encuentres útil la información prop
 
 ## Novedades
 
-Últimos artículos:
+En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [Campaña de malware que suplanta el software VPN de Palo Alto Networks]({{ site.baseurl }}/ciber/newsletter/2024-36/#campa%C3%B1a-de-malware-que-suplanta-el-software-vpn-de-palo-alto-networks)
-En junio de 2024, una campaña de malware utilizó el envenenamiento SEO para distribuir WikiLoader, un cargador de malware que suplanta el software GlobalProtect de Palo Alto Networks. Esta táctica marca un cambio respecto al phishing tradicional, aprovechando anuncios en Google que redirigen a páginas falsas de GlobalProtect.
-### [Intento de extorsión fallido por ex-empleado]({{ site.baseurl }}/ciber/newsletter/2024-36/#intento-de-extorsi%C3%B3n-fallido-por-ex-empleado)
-
-### [Vulnerabilidad Crítica en Versa Director]({{ site.baseurl }}/ciber/newsletter/2024-36/#vulnerabilidad-cr%C3%ADtica-en-versa-director)
-
-### [Punchmade Dev y sus actividades ilícitas]({{ site.baseurl }}/ciber/newsletter/2024-36/#punchmade-dev-y-sus-actividades-il%C3%ADcitas)
-
-### [Ciberseguridad en evolución: Alinear la estrategia con el crecimiento empresarial]({{ site.baseurl }}/ciber/newsletter/2024-36/#ciberseguridad-en-evoluci%C3%B3n-alinear-la-estrategia-con-el-crecimiento-empresarial)
-
-### [Vulnerabilidades en Aplicaciones de Microsoft para macOS]({{ site.baseurl }}/ciber/newsletter/2024-36/#vulnerabilidades-en-aplicaciones-de-microsoft-para-macos)
-
-### [RansomHub: Un nuevo actor en el ransomware]({{ site.baseurl }}/ciber/newsletter/2024-36/#ransomhub-un-nuevo-actor-en-el-ransomware)
-
+### [¡Ya se ha publicado la semana 36!]({{ site.baseurl }}ciber/newsletter/2024-36/)
+![Week 36]({{ site.baseurl }}/ciber/newsletter/img/36-0.jpg){: .css-imagenindex}Ya tienes a tu alcance los artículos de la newsletter de ciberseguridad correspondientes a la semana 36. En esta edición, nos enfocamos especialmente en el malware, proporcionando un análisis de las últimas amenazas y técnicas de ataque. Sin embargo, no dejamos de lado otras categorías relevantes, ofreciendo también actualizaciones y recomendaciones sobre vulnerabilidades y tendencias emergentes en el campo de la ciberseguridad. ¡No te lo pierdas! Sigue leyendo para estar al tanto de las noticias más importantes y proteger tu entorno digital.
 
 ### Secciones
 Estas son las secciones
+- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
+- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
