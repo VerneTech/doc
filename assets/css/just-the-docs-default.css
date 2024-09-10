@@ -7857,3 +7857,9 @@ body, p, span, div {
   margin-bottom: 10px; /* Espacio abajo de la imagen */
   max-width: 35%; /* Ajusta el tamaño de la imagen */
 }
+
+.css-imagenindex {
+  float: left; /* o right para que flote a la derecha */
+  display: inline;
+  margin-right: 25px; /* Espacio a la derecha de la imagen */
+}
