@@ -5,33 +5,59 @@ nav_order: 1
 has_children: true
 ---
 
-# Índice de newsletters
+# Últimos artículos
 
-### [Campaña de malware que suplanta el software VPN de Palo Alto Networks]({{ site.baseurl }}/ciber/newsletter/2024-36/#campa%C3%B1a-de-malware-que-suplanta-el-software-vpn-de-palo-alto-networks)
-En junio de 2024, una campaña de malware utilizó el envenenamiento SEO para distribuir WikiLoader, un cargador de malware que suplanta el software GlobalProtect de Palo Alto Networks. Esta táctica marca un cambio respecto al phishing tradicional, aprovechando anuncios en Google que redirigen a páginas falsas de GlobalProtect.
-### [Intento de extorsión fallido por ex-empleado]({{ site.baseurl }}/ciber/newsletter/2024-36/#intento-de-extorsi%C3%B3n-fallido-por-ex-empleado)
-Un hombre de 57 años en Missouri fue arrestado por intentar extorsionar a su antiguo empleador, una empresa industrial. Daniel Rhyne es acusado de acceder ilegalmente a los sistemas de la empresa, cambiar contraseñas y amenazar con apagar servidores a menos que se le pagaran 20 bitcoins. Enfrenta hasta 35 años de prisión.
+## [Campaña de Malware en Dispositivos Android]({{ site.baseurl }}/ciber/newsletter/2024-37/#campa%C3%B1a-de-malware-en-dispositivos-android)
 
-### [Vulnerabilidad Crítica en Versa Director]({{ site.baseurl }}/ciber/newsletter/2024-36/#vulnerabilidad-cr%C3%ADtica-en-versa-director)
-El grupo APT chino Volt Typhoon está explotando una vulnerabilidad de día cero (CVE-2024-39717) en servidores Versa Director para atacar infraestructura crítica en EE. UU. desde junio de 2024. Utilizan una web shell llamada "VersaMem" para robar credenciales y acceder a redes downstream.
+Una nueva campaña de malware móvil, dirigida inicialmente a usuarios de Android en Corea del Sur y recientemente extendida al Reino Unido, ha introducido la amenaza denominada SpyAgent. Este malware utiliza aplicaciones falsas de Android para robar datos sensibles, incluyendo claves mnemónicas mediante el reconocimiento óptico de caracteres (OCR).
 
-### [Punchmade Dev y sus actividades ilícitas]({{ site.baseurl }}/ciber/newsletter/2024-36/#punchmade-dev-y-sus-actividades-il%C3%ADcitas)
-Punchmade Dev, un rapero que glorifica el cibercrimen, ha sido vinculado a tiendas en línea que venden datos robados. Devon Turner, su identidad real, enfrenta acusaciones tras intentar transferir $75,000, lo que llevó a su banco a cerrar su cuenta por actividad sospechosa.
+---
 
-### [Ciberseguridad en evolución: Alinear la estrategia con el crecimiento empresarial]({{ site.baseurl }}/ciber/newsletter/2024-36/#ciberseguridad-en-evoluci%C3%B3n-alinear-la-estrategia-con-el-crecimiento-empresarial)
-La ciberseguridad debe ser vista como un habilitador del negocio, con un enfoque en la gestión de riesgos flexible y sostenible. Además, la comunicación efectiva entre equipos técnicos y ejecutivos es clave para tomar decisiones informadas y mejorar la madurez de los programas de seguridad.
+## [Microsoft Advierte sobre Problema de Seguridad con la Función "Recall" en Windows]({{ site.baseurl }}/ciber/newsletter/2024-37/#microsoft-advierte-sobre-problema-de-seguridad-con-la-funci%C3%B3n-recall-en-windows)
 
-### [Vulnerabilidades en Aplicaciones de Microsoft para macOS]({{ site.baseurl }}/ciber/newsletter/2024-36/#vulnerabilidades-en-aplicaciones-de-microsoft-para-macos)
-Ocho vulnerabilidades en aplicaciones de Microsoft para macOS podrían permitir a atacantes elevar privilegios y acceder a datos sensibles eludiendo el sistema de permisos TCC de Apple. Afectan a aplicaciones como Outlook, Teams y Word, permitiendo la inyección de librerías maliciosas que aprovechan los permisos ya otorgados.
+La función "Recall" de Windows, diseñada para facilitar la desinstalación de aplicaciones y la eliminación de archivos asociados, presenta un fallo en las versiones recientes de Windows 10 y 11 que impide la correcta eliminación de estos archivos. Esto deja restos de datos en el sistema, lo que puede ser recuperado fácilmente y representa un riesgo de seguridad, especialmente para aquellos manejando información sensible.
 
-### [RansomHub: Un nuevo actor en el ransomware]({{ site.baseurl }}/ciber/newsletter/2024-36/#ransomhub-un-nuevo-actor-en-el-ransomware)
-RansomHub, un grupo de ransomware activo desde febrero de 2024, ha atacado a más de 210 víctimas en sectores críticos como salud, servicios financieros y manufactura. Es una variante de ransomware-as-a-service (RaaS) relacionada con Cyclops y Knight, y ha atraído a afiliados de alto perfil de otros grupos.
+---
+
+## [‘Terrorgram’ Terrorismo a través de Telegram]({{ site.baseurl }}/ciber/newsletter/2024-37/#crecimiento-y-fragmentaci%C3%B3n-de-los-grupos-de-ransomware-en-2024)
+
+El crecimiento en el uso de aplicaciones de mensajería cifrada ha proporcionado un refugio seguro para grupos extremistas que utilizan estas plataformas para difundir propaganda, coordinar actividades violentas y reclutar nuevos miembros.
+
+---
+
+## [Vulnerabilidades críticas en Cisco Smart Licensing Utility]({{ site.baseurl }}/ciber/newsletter/2024-37/#vulnerabilidades-cr%C3%ADticas-en-cisco-smart-licensing-utility)
+
+Cisco ha alertado a sus clientes sobre dos vulnerabilidades críticas en su producto Smart Licensing Utility, instando a aplicar actualizaciones de software para protegerse de posibles ataques. Con una puntuación CVSS de 9.8, estas vulnerabilidades podrían permitir a un atacante remoto no autenticado acceder a información sensible o controlar servicios en el sistema afectado.
+
+---
+
+## [Crecimiento y fragmentación de los grupos de ransomware en 2024]({{ site.baseurl }}/ciber/newsletter/2024-37/#terrorgram-terrorismo-a-trav%C3%A9s-de-telegram)
+
+El informe de Searchlight Cyber revela un aumento del 56% en la actividad de grupos de ransomware en el primer semestre de 2024, pasando de 46 a 73 grupos activos en comparación con el mismo período de 2023. Este crecimiento refleja una mayor fragmentación en el panorama del ransomware, con la aparición de nuevos grupos más pequeños y altamente dirigidos, complicando el trabajo de los profesionales de ciberseguridad.
+
+---
+
+## [Inteligencia Artificial en Ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-37/#microsoft-advierte-sobre-problema-de-seguridad-con-la-funci%C3%B3n-recall-en-windows)
+
+La inteligencia artificial (IA) ha transformado la ciberseguridad, enfrentando amenazas cibernéticas cada vez más avanzadas con una eficacia que supera a los métodos tradicionales. Al analizar grandes volúmenes de datos a alta velocidad, la IA puede identificar patrones y anomalías que podrían señalar amenazas potenciales.
+
+---
+
+## [Una encuesta de Verizon revela el aumento de los riesgos de seguridad de los dispositivos móviles e IoT]({{ site.baseurl }}/ciber/newsletter/2024-37/#campa%C3%B1a-de-malware-en-dispositivos-android)
+
+El informe de Searchlight Cyber revela un aumento del 56% en la actividad de grupos de ransomware en el primer semestre de 2024, pasando de 46 a 73 grupos activos en comparación con el mismo período de 2023. Este crecimiento refleja una mayor fragmentación en el panorama del ransomware, con la aparición de nuevos grupos más pequeños y altamente dirigidos, complicando el trabajo de los profesionales de ciberseguridad.
+
 
 ## Ediciones Anteriores
 ¿Buscas alguna edición anterior? Aquí tienes los enlaces a las semanas anteriores.
 
 - [Ciber - 2024-28]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-28.pdf).
 - [Ciber - 2024-29]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-29.pdf).
-- [Ciber - 2024-30]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-30.pdf).
-- [Ciber - 2024-31]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-31.pdf).
-
+- [Ciber - 2024-30]({{ site.baseurl }}/ciber/newsletter/2024-30)
+- [Ciber - 2024-31]({{ site.baseurl }}/ciber/newsletter/2024-31)
+- [Ciber - 2024-32]({{ site.baseurl }}/ciber/newsletter/2024-32)
+- [Ciber - 2024-33]({{ site.baseurl }}/ciber/newsletter/2024-33)
+- [Ciber - 2024-34]({{ site.baseurl }}/ciber/newsletter/2024-34)
+- [Ciber - 2024-35]({{ site.baseurl }}/ciber/newsletter/2024-35)
+- [Ciber - 2024-36]({{ site.baseurl }}/ciber/newsletter/2024-36)
+- [Ciber - 2024-37]({{ site.baseurl }}/ciber/newsletter/2024-37)

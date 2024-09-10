@@ -7860,6 +7860,6 @@ body, p, span, div {
 
 .css-imagenindex {
   float: left; /* o right para que flote a la derecha */
-  display: inline;
+  display: block;
   margin-right: 25px; /* Espacio a la derecha de la imagen */
 }
