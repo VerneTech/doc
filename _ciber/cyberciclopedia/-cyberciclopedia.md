@@ -9,7 +9,7 @@ has_children: true
 
 En la era digital en la que vivimos, la ciberseguridad se ha convertido en un pilar fundamental para proteger la información y garantizar la integridad de los sistemas que usamos a diario. Esta enciclopedia ha sido diseñada para proporcionar una guía comprensiva y accesible sobre los conceptos clave, mejores prácticas, y herramientas esenciales en el ámbito de la ciberseguridad.
 
-**¿Qué encontrarás aquí?**
+## ¿Qué encontrarás aquí?
 
 1. **Introducción a la Ciberseguridad:** Comenzamos con una visión general de la ciberseguridad, explicando su importancia y desglosando las áreas principales que conforman este vasto campo.
 
@@ -24,4 +24,3 @@ En la era digital en la que vivimos, la ciberseguridad se ha convertido en un pi
 **Nuestro objetivo** es ofrecer un recurso que no solo eduque, sino que también capacite a usuarios de todos los niveles para navegar el complejo panorama de la seguridad digital. Ya sea que estés comenzando tu viaje en ciberseguridad o que seas un profesional experimentado, esta enciclopedia está diseñada para ser tu compañera de confianza en la protección de la información en el mundo digital.
 
 ---
-
