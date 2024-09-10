@@ -11,7 +11,9 @@ En la era digital en la que vivimos, la ciberseguridad se ha convertido en un pi
 
 ## ¿Qué encontrarás aquí?
 
-1. **Introducción a la Ciberseguridad:** Comenzamos con una visión general de la ciberseguridad, explicando su importancia y desglosando las áreas principales que conforman este vasto campo.
+### [Introducción a la Ciberseguridad:]({{ site.baseurl }}/ciber/cyberciclopedia/introduccion-ciberseguridad)
+
+Comenzamos con una visión general de la ciberseguridad, explicando su importancia y desglosando las áreas principales que conforman este vasto campo.
 
 2. **Fundamentos de Ciberseguridad:** Una sección dedicada a las bases que todo interesado en la ciberseguridad debe conocer, desde terminología básica hasta buenas prácticas y herramientas esenciales.
 

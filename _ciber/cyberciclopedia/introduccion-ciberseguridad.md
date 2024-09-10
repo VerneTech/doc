@@ -1,12 +1,14 @@
 ---
-title: Publicacion 1
+title: Introducción a la ciberseguridad
 layout: default
-parent: Publicaciones
+parent: Cyberciclopedia
 nav_exclude: false
 nav_order: 2
 ---
 
 # Publicación 1 ciberseguridad
+
+<label class="label label-red">Alta</label>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel augue ac elit auctor rhoncus non ut ex. Vestibulum ut orci vitae nisl venenatis tincidunt at a tortor. Sed non ante vel sapien auctor elementum
 
