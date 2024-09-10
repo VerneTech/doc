@@ -22,7 +22,7 @@ Esperamos que disfrutes de esta edición y encuentres útil la información prop
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
 ### [¡Ya se ha publicado la semana 36!]({{ site.baseurl }}ciber/newsletter/2024-36/)
-![Week 36]({{ site.baseurl }}/ciber/newsletter/img/36-0.jpg){: .css-imagenindex}Ya tienes a tu alcance los artículos de la newsletter de ciberseguridad correspondientes a la semana 36. En esta edición, nos enfocamos especialmente en el malware, proporcionando un análisis de las últimas amenazas y técnicas de ataque. Sin embargo, no dejamos de lado otras categorías relevantes, ofreciendo también actualizaciones y recomendaciones sobre vulnerabilidades y tendencias emergentes en el campo de la ciberseguridad. ¡No te lo pierdas! Sigue leyendo para estar al tanto de las noticias más importantes y proteger tu entorno digital.
+![Week 36]({{ site.baseurl }}/ciber/newsletter/img/36/36-0.jpg){: .css-imagenindex}Ya tienes a tu alcance los artículos de la newsletter de ciberseguridad correspondientes a la semana 36. En esta edición, nos enfocamos especialmente en el malware, proporcionando un análisis de las últimas amenazas y técnicas de ataque. Sin embargo, no dejamos de lado otras categorías relevantes, ofreciendo también actualizaciones y recomendaciones sobre vulnerabilidades y tendencias emergentes en el campo de la ciberseguridad. ¡No te lo pierdas! Sigue leyendo para estar al tanto de las noticias más importantes y proteger tu entorno digital.
 
 ### Secciones
 Estas son las secciones
