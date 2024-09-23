@@ -3,17 +3,14 @@ title: Introducción a la ciberseguridad
 layout: default
 parent: Cyberciclopedia
 nav_exclude: false
-nav_order: 2
+nav_order: 41
 ---
 
-# Publicación 1 ciberseguridad
+# Introducción a la Ciberseguridad
 
-<label class="label label-red">Alta</label>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel augue ac elit auctor rhoncus non ut ex. Vestibulum ut orci vitae nisl venenatis tincidunt at a tortor. Sed non ante vel sapien auctor elementum
+La ciberseguridad es una disciplina clave en la protección de datos y sistemas ante amenazas cibernéticas. Este artículo explora los fundamentos de la ciberseguridad, dividiendo las estrategias en tres enfoques principales: **Blue Team**, encargado de la defensa, **Red Team**, que realiza ataques simulados para detectar vulnerabilidades, y **Purple Team**, que mejora la colaboración entre ambos equipos para optimizar la seguridad. La interacción entre estos equipos es crucial para enfrentar los desafíos actuales y futuros en el ámbito de la seguridad digital.
 
 ---
-
 <details open markdown="block">
   <summary>Tabla de Contenidos</summary>
   {: .text-delta }
@@ -22,29 +19,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel augue ac elit
 </details>
 
 ---
+## Visión General y su Relevancia en las Empresas
 
-# Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel augue ac elit auctor rhoncus non ut ex. Vestibulum ut orci vitae nisl venenatis tincidunt at a tortor. Sed non ante vel sapien auctor elementum. Proin suscipit fringilla malesuada. Donec bibendum lectus sit amet efficitur pharetra. Praesent et risus eget diam efficitur luctus eget sit amet magna. Quisque dui mi, suscipit et nibh id, luctus scelerisque purus. Vivamus id consequat mi.
+La ciberseguridad se refiere al conjunto de prácticas, tecnologías y procesos diseñados para proteger sistemas, redes, y datos de ataques, daños o accesos no autorizados. En un mundo cada vez más digitalizado, la ciberseguridad se ha convertido en un componente crucial no solo para proteger la privacidad individual, sino también para salvaguardar los intereses empresariales y gubernamentales.
 
-## Cras pellentesque
-Cras pellentesque, sapien non euismod elementum, lacus nisl pulvinar massa, id bibendum massa metus vel nunc. Donec faucibus ipsum at orci consequat cursus. Sed auctor ac ipsum nec interdum. Ut scelerisque purus non elit rutrum, in commodo orci malesuada. Etiam pretium dignissim sem, sed tempus libero rhoncus quis. Integer lacus leo, congue ac urna quis, molestie blandit nisl. Quisque imperdiet magna nec iaculis gravida. Integer tempor, dolor ac ultricies cursus, ex mi imperdiet ante, non blandit risus urna quis libero. Sed ultricies sit amet risus et varius.
+Para las empresas, la ciberseguridad es esencial. Con la creciente dependencia de la tecnología para operaciones diarias, ventas, comunicación y almacenamiento de datos sensibles, las organizaciones enfrentan una serie de amenazas que pueden comprometer su reputación, finanzas y estabilidad operativa. Un ciberataque exitoso puede resultar en la pérdida de datos críticos, interrupciones en los servicios y, en muchos casos, severas consecuencias legales.
 
-## Donec sit amet nulla quam
-Donec sit amet nulla quam. Curabitur lobortis, lectus ac facilisis vulputate, ipsum leo iaculis sem, sed laoreet libero turpis eget mi. Nunc quis tristique sapien. Proin sit amet dolor elit. Praesent et tellus vitae sem sollicitudin commodo sed et tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a nisi sapien. Phasellus at mauris egestas, mattis mi nec, accumsan nibh. Sed tristique, sem ac convallis vulputate, mauris massa euismod dui, eu faucibus nunc eros ut dui.
+Además, la adopción de tecnologías emergentes, como el Internet de las Cosas (IoT), la inteligencia artificial y la nube, ha ampliado el espectro de vulnerabilidades que las empresas deben gestionar. Por lo tanto, la ciberseguridad no es solo un aspecto técnico; es una parte integral de la estrategia de negocio y gestión de riesgos de cualquier organización moderna.
 
-# Duis congue diam nec sem dapibus
-Duis congue diam nec sem dapibus, sit amet sollicitudin neque elementum. Donec sem lacus, posuere et velit eu, venenatis ullamcorper nisi. Integer metus velit, interdum euismod pulvinar ac, tempor non nisl. Integer vehicula tristique elit, id rutrum est vehicula id. Aliquam vulputate nec velit sed tristique. Morbi et suscipit enim. Aenean iaculis efficitur augue, et pharetra massa elementum in. Proin vel auctor ex. Donec elementum mauris id mi blandit fermentum. Integer libero metus, sodales sed arcu nec, dapibus vehicula lorem. Donec ultrices dictum semper. Sed pellentesque feugiat convallis. Donec et posuere velit.
+## Principales Áreas de la Ciberseguridad según sus Divisiones
 
-## Aliquam quis neque commodo
-Aliquam quis neque commodo, fermentum lectus non, viverra augue. Suspendisse ornare massa at eros vehicula, sed imperdiet dolor blandit. Duis consequat, enim in consequat cursus, metus libero consectetur tortor, non pellentesque mauris eros eget felis. Nullam quis molestie est, non elementum quam. In mauris justo, consequat quis interdum non, auctor id erat. Donec vel placerat dui. Etiam sit amet maximus eros, nec ultrices lorem. Vivamus finibus urna eu rutrum convallis.
+![security divisions]({{ site.baseurl }}/ciber/cyberciclopedia/img/Purple_Team_1.png){: .css-imagen-cabecera}
+<p class="caption">Blue, Red y Purple Team. Fuente: AttackIQ Academy</p>
 
-## Nam porta gravida eleifend
-Nam porta gravida eleifend. Duis tempus leo sed odio ultricies, non tempor orci feugiat. Suspendisse non purus risus. Integer vel tempus mi. Quisque sed ex sit amet ex euismod fringilla. Suspendisse pretium lorem ex, vel rhoncus ligula lobortis vitae. Curabitur ultricies sollicitudin tortor auctor tincidunt. Nulla cursus dolor metus, a consequat eros elementum eget. Mauris a quam imperdiet, tincidunt orci nec, congue nisi. Integer rhoncus leo a metus vestibulum, iaculis egestas ligula pharetra. Sed leo justo, condimentum id augue vitae, pretium commodo nisl. Praesent vulputate cursus mattis. Aliquam pretium lorem est, non dictum elit eleifend vitae. Phasellus et mattis massa, eu porta massa. Vivamus mattis nunc est, vel faucibus risus blandit vel. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+### **Blue Team (Defensa)**
 
-## Aenean tortor justo
-Aenean tortor justo, aliquet vel quam ut, dapibus tempor tellus. Praesent ultricies porttitor erat placerat laoreet. Donec commodo ornare tortor, eleifend porta tortor rhoncus id. Donec ullamcorper, massa eu finibus dictum, mi erat congue elit, placerat dignissim leo mi ut nisl. Cras in arcu sodales, convallis turpis et, commodo ipsum. Suspendisse neque orci, molestie ut massa id, laoreet ultricies felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus sollicitudin magna velit, eget aliquet justo condimentum eu. Phasellus tincidunt non eros ac dignissim. Morbi at ipsum urna. Morbi consequat urna sit amet cursus facilisis. Etiam viverra commodo mauris, non dictum mauris auctor sed. In hac habitasse platea dictumst. Vestibulum a nulla sed erat dictum sodales. Aliquam nec metus imperdiet, porttitor tellus nec, tempor ligula.
+El Blue Team es responsable de las defensas de la organización. Se encargan de proteger, monitorear y responder ante incidentes de seguridad. Algunas áreas clave bajo su responsabilidad incluyen:
 
-## Integer ac libero fermentum
-Integer ac libero fermentum, fringilla nisi eu, fringilla leo. Nunc laoreet rutrum sem in maximus. Duis eu eros et eros euismod dignissim. Aliquam quis arcu risus. Maecenas bibendum ornare interdum. Sed eget sapien a odio vehicula ultricies a non elit. In ut velit in sem volutpat tristique eu sit amet justo. Duis ipsum magna, rhoncus eget augue id, maximus pellentesque orci. Nullam eget mi lobortis, semper sapien sed, tincidunt velit. Etiam pellentesque lacus eget varius porttitor. Curabitur at interdum arcu. Fusce dapibus justo ac felis placerat, in faucibus urna hendrerit.
+- **Seguridad de Redes:** La principal tarea del Blue Team es proteger la infraestructura de redes. Implementan firewalls, sistemas de detección y prevención de intrusiones (IDS/IPS), y herramientas de monitorización para prevenir accesos no autorizados. También aseguran que las comunicaciones internas y externas sean seguras.
+
+- **Seguridad de Aplicaciones:** Este equipo también se encarga de supervisar y mejorar la seguridad de las aplicaciones de la empresa. Identifican vulnerabilidades y trabajan con los equipos de desarrollo para mitigarlas antes de que sean explotadas. Su objetivo es prevenir ataques que puedan comprometer los sistemas internos.
+
+- **Seguridad en la Nube:** A medida que las organizaciones migran a la nube, el Blue Team tiene la tarea de garantizar que los datos alojados en servicios en la nube estén seguros. Implementan cifrados, políticas de acceso y herramientas de monitorización para detectar actividades sospechosas en la nube.
+
+- **Gestión de Identidades y Accesos (IAM):** Esta área también está bajo la responsabilidad del Blue Team. Aseguran que los usuarios solo tengan los permisos necesarios y supervisan actividades sospechosas, como intentos fallidos de inicio de sesión o cambios en los privilegios.
+
+### **Red Team (Ataque)**
+
+El Red Team se especializa en simular ataques cibernéticos contra la organización para identificar vulnerabilidades y mejorar la postura de seguridad. Sus actividades suelen incluir:
+
+- **Pruebas de Penetración:** El Red Team utiliza técnicas de hacking ético para probar la resistencia de los sistemas y aplicaciones de la empresa. Realizan pruebas de penetración (pen testing) para identificar posibles vulnerabilidades antes de que los atacantes las descubran.
+
+- **Ingeniería Social y Phishing:** El Red Team también puede probar la resiliencia de los empleados ante ataques de ingeniería social, como el phishing. Realizan simulaciones de ataques para ver cómo responden los usuarios y recomendar mejoras en la formación.
+
+- **Análisis de Vulnerabilidades:** Utilizan herramientas automatizadas y técnicas manuales para detectar puntos débiles en los sistemas de la organización. Una vez identificadas, proponen medidas correctivas para mitigar estos riesgos.
+
+### **Purple Team (Colaboración entre Blue y Red Team)**
+
+El Purple Team integra las habilidades del Red y Blue Team para optimizar la seguridad mediante la colaboración constante. Este equipo no es sólo la integración del red team y el blue team, el Purple Team mejora la comunicación entre los equipos ofensivos y defensivos, ajustando sus estrategias de manera más efectiva. Se realizan simulaciones donde ambos equipos colaboran para identificar debilidades y perfeccionar las defensas, generando una retroalimentación continua que fortalece la postura de seguridad de la organización. Este equipo es el pilar fundamental en la mejora continua.
+
+- **Ciberinteligencia y Análisis Forense:** El Purple Team utiliza la ciberinteligencia no solo para identificar amenazas potenciales, sino también para analizar incidentes después de que ocurren. El análisis forense les ayuda a comprender cómo ocurrió el ataque, qué fallos permitieron la intrusión, y cómo fortalecer la defensa en el futuro.
+
+- **Técnicas de Simulación:** Uno de los roles clave del Purple Team es llevar a cabo ejercicios de simulación de ataques, donde tanto el Red Team como el Blue Team interactúan en un entorno controlado para aprender mutuamente. Esto ayuda a cerrar brechas en la defensa, perfeccionando tanto las estrategias ofensivas como defensivas.
+
+En resumen, las áreas principales de la ciberseguridad pueden agruparse bajo estas tres divisiones. Mientras que el **Blue Team** se enfoca en la defensa, el **Red Team** trabaja en pruebas ofensivas para identificar debilidades, y el **Purple Team** facilita la colaboración entre ambos, optimizando las estrategias de ciberseguridad de la organización.
 
 ---
