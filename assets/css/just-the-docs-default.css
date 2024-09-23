@@ -7863,3 +7863,17 @@ body, p, span, div {
   display: block;
   margin-right: 25px; /* Espacio a la derecha de la imagen */
 }
+
+.css-imagen-cabecera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%; /* Ajusta el tamaño de la imagen para que no exceda el contenedor */
+}
+
+.caption {
+  text-align: center;
+  font-size: 0.9em; /* Esto hace que el texto sea más pequeño */
+  color: #555; /* Color opcional para diferenciar el texto */
+  margin-top: 10px; /* Espacio entre la imagen y el texto */
+}
