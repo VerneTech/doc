@@ -25,7 +25,7 @@ La ciberseguridad se refiere al conjunto de prácticas, tecnologías y procesos 
 
 Para las empresas, la ciberseguridad es esencial. Con la creciente dependencia de la tecnología para operaciones diarias, ventas, comunicación y almacenamiento de datos sensibles, las organizaciones enfrentan una serie de amenazas que pueden comprometer su reputación, finanzas y estabilidad operativa. Un ciberataque exitoso puede resultar en la pérdida de datos críticos, interrupciones en los servicios y, en muchos casos, severas consecuencias legales.
 
-Además, la adopción de tecnologías emergentes, como el Internet de las Cosas (IoT), la inteligencia artificial y la nube, ha ampliado el espectro de vulnerabilidades que las empresas deben gestionar. Por lo tanto, la ciberseguridad no es solo un aspecto técnico; es una parte integral de la estrategia de negocio y gestión de riesgos de cualquier organización moderna.
+Además, la adopción de tecnologías emergentes, como el Internet de las Cosas (IoT), la inteligencia artificial y la nube, ha ampliado el espectro de vulnerabilidades que las empresas deben gestionar. Por lo tanto, la ciberseguridad no es solo un aspecto técnico, es una parte integral de la estrategia de negocio y gestión de riesgos de cualquier organización moderna.
 
 ## Principales Áreas de la Ciberseguridad según sus Divisiones
 
