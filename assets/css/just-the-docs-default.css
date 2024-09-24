@@ -7859,9 +7859,9 @@ body, p, span, div {
 }
 
 .css-imagenindex {
-  float: left; /* o right para que flote a la derecha */
-  display: block;
-  margin-right: 25px; /* Espacio a la derecha de la imagen */
+  max-width: 100px; /* Ajusta el tamaño de la imagen */
+  height: auto; /* Mantiene la relación de aspecto */
+  margin-right: 20px; /* Espacio entre la imagen y el texto */
 }
 
 .css-imagen-cabecera {

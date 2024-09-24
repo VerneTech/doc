@@ -15,19 +15,23 @@ La formación constante es esencial para mantenerse al día en un campo tan din�
 
 Mirando hacia el futuro, estamos emocionados de anunciar que continuaremos nuestro proyecto integrando noticias sobre el mundo de Azure. Exploraremos cómo esta plataforma puede mejorar la seguridad y eficiencia de tus operaciones, y te mantendremos informado sobre las últimas actualizaciones y mejores prácticas en su uso.
 
-Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones. ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
+Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones. 
+
+No te pierdas nuestras secciones:
+- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
+- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
+
+¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
 
 ## Novedades
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
+### [¡Atentos a la semana 39!]({{ site.baseurl }}/ciber/newsletter/2024-39)
+![Week 39]({{ site.baseurl }}/ciber/newsletter/img/39/39-0.jpg){: .css-imagen-cabecera}
+Esta semana se presenta muy activa en el área de la ciberseguridad. Por un lado, tenemos una creciente amenaza que se está propagando por GitHub y por otro han salido los reportes anuales de Ransomware y las cifras producen escalofríos. ¡No te la pierdas!
+
+
 ### [¡Semana 38 en el aire!]({{ site.baseurl }}/ciber/newsletter/2024-38)
-![Week 38]({{ site.baseurl }}/ciber/newsletter/img/38/38-0.jpg){: .css-imagenindex}Una semana más tenemos a nuestro alcance la newsletter. Esta semana abordamos la concienciación como nuestro tema principal. Destacamos los riesgos de la suplantación de identidad y cómo mantener nuestra empresa segura.
-
-### [¡Tenemos la semana 37!]({{ site.baseurl }}/ciber/newsletter/2024-37)
-![Week 37]({{ site.baseurl }}/ciber/newsletter/img/37/37-0.jpg){: .css-imagenindex}Seguimos adelante con nuestras publicaciones, para la semana 37 tenemos artículos realmente curiosos. Has notado el auge de las IA's, ¿verdad? Nosotros también. Siempre hablamos de lo negativo, pero esta semana hablaremos de cómo nos ayuda en nuestro día a día. ¡No te lo pierdas! Accede ya a la semana 37 y sigue adelante con este y otros temas interesantes.
-
-### Secciones
-Estas son las secciones
-- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
-- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
+![Week 38]({{ site.baseurl }}/ciber/newsletter/img/38/38-0.jpg){: .css-imagen-cabecera}
+Una semana más tenemos a nuestro alcance la newsletter. Esta semana abordamos la concienciación como nuestro tema principal. Destacamos los riesgos de la suplantación de identidad y cómo mantener nuestra empresa segura.
