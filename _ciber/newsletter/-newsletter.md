@@ -7,42 +7,23 @@ has_children: true
 
 # Últimos artículos
 
-## [Acusación contra ciudadano chino por campaña de spear-phishing]({{ site.baseurl }}/ciber/newsletter/2024-38/#acusaci%C3%B3n-contra-ciudadano-chino-por-campa%C3%B1a-de-spear-phishing)
+## [Desafíos de ciberseguridad en gemelos digitales: amenazas y salvaguardas]({{ site.baseurl }}/ciber/newsletter/2024-39/#desaf%C3%ADos-de-ciberseguridad-en-gemelos-digitales-amenazas-y-salvaguardas)
+Los gemelos digitales, representaciones virtuales de objetos físicos, permiten optimizar procesos y prever fallos, pero presentan un desafío clave en términos de ciberseguridad. Su interconexión con sistemas reales los convierte en puntos vulnerables a ataques que podrían comprometer la operatividad y seguridad industrial. Las organizaciones deben implementar medidas específicas para proteger estos modelos digitales.
 
-Un ingeniero chino ha sido acusado en EE.UU. de spear-phishing para obtener software y código fuente de la NASA y otras entidades. El ingeniero se enfrenta a múltiples cargos penales ante la actividad delictiva.
+## [Ataques facilitados por un grupo vinculado a Irán en redes de Oriente Medio]({{ site.baseurl }}/ciber/newsletter/2024-39/#ataques-facilitados-por-un-grupo-vinculado-a-ir%C3%A1n-en-redes-de-oriente-medio)
+UNC1860, un grupo de amenazas vinculado al Ministerio de Inteligencia de Irán, está facilitando ataques cibernéticos en redes de Oriente Medio, apuntando a gobiernos y telecomunicaciones. Utilizan herramientas avanzadas, como un controlador del kernel de Windows modificado, para establecer acceso persistente y evitar la detección.
 
----
+## [Empresas pagan múltiples veces a atacantes de ransomware]({{ site.baseurl }}/ciber/newsletter/2024-39/#empresas-pagan-m%C3%BAltiples-veces-a-atacantes-de-ransomware)
+Un informe de Semperis revela que casi un tercio de las empresas afectadas por ransomware pagaron rescates múltiples veces el año pasado. El 32% de las organizaciones realizaron varios pagos, y más de un tercio no recibió claves de descifrado funcionales. 
 
-## [Nuevas características de seguridad en Google Chrome]({{ site.baseurl }}/ciber/newsletter/2024-38/#nuevas-caracter%C3%ADsticas-de-seguridad-en-google-chrome)
+## [Este phishing de Windows PowerShell tiene un potencial aterrador]({{ site.baseurl }}/ciber/newsletter/2024-39/#este-phishing-de-windows-powershell-tiene-un-potencial-aterrador)
+Esta semana, un ataque de phishing dirigido a usuarios de GitHub ha revelado la creciente sofisticación de las amenazas cibernéticas. A través de correos electrónicos que aparentan ser de la seguridad de GitHub, los atacantes han intentado engañar a los usuarios para que visiten un sitio web malicioso, donde se les solicita realizar acciones peligrosas.
 
-Google ha lanzado nuevas características en Chrome para **mejorar el control de datos y la seguridad en línea**. La última versión permite una **verificación de seguridad mejorada**, facilita la gestión de notificaciones no deseadas y ofrece **permisos selectivos** para sitios web.
+## [Ransomware 2024: Una amenaza fuera de control que podría destruir empresas y gobiernos]({{ site.baseurl }}/ciber/newsletter/2024-39/#acusaci%C3%B3n-contra-ciudadano-chino-por-campa%C3%B1a-de-spear-phishing)
+El ransomware en 2024 ha alcanzado niveles alarmantes. Estamos ante una amenaza global que está arrasando con empresas, instituciones y sectores críticos en todo el mundo. No es una exageración decir que, si no se toman acciones inmediatas, muchas organizaciones enfrentarán un desastre financiero y operativo del que podría ser imposible recuperarse.
 
----
+## [AT&T pagará 13 millones de dólares para zanjar el caso de la FCC por la filtración de datos de 2023]({{ site.baseurl }}/ciber/newsletter/2024-39/#ransomware-2024-una-amenaza-fuera-de-control-que-podr%C3%ADa-destruir-empresas-y-gobiernos)
+AT&T se enfrenta a un pago de $13 millones tras una investigación de la Comisión Federal de Comunicaciones (FCC) por la inadecuada protección de los datos de sus clientes, afectando a aproximadamente 9 millones de usuarios en un ataque a su proveedor de servicios en la nube. Este incidente pone de relieve la creciente vulnerabilidad de la cadena de suministro y la importancia de la seguridad en un entorno digital cada vez más interconectado. 
 
-## [Vulnerabilidad crítica en VMware vCenter Server]({{ site.baseurl }}/ciber/newsletter/2024-38/#vulnerabilidad-cr%C3%ADtica-en-vmware-vcenter-server)
-
-Broadcom ha lanzado actualizaciones críticas para VMware vCenter Server, abordando una vulnerabilidad de desbordamiento de montón (CVE-2024-38812) que podría permitir la ejecución remota de código.
-
----
-
-## [Sextortion: Vieja estafa con nuevos trucos]({{ site.baseurl }}/ciber/newsletter/2024-38/#sextortion-vieja-estafa-con-nuevos-trucos)
-
-Una antigua estafa de "sextorsión" por correo electrónico ha resurgido con un toque más personalizado. Los estafadores ahora incluyen fotos del hogar de la víctima, tomadas de aplicaciones de mapas en línea, para hacer sus amenazas más creíbles. Los correos electrónicos afirman que un malware ha capturado imágenes comprometedoras a través de la webcam y exigen un rescate en Bitcoin para no divulgar los videos.
-
----
-
-## [Seguridad Cibernética en la Era Digital]({{ site.baseurl }}/ciber/newsletter/2024-38/#seguridad-cibern%C3%A9tica-en-la-era-digital)
-
-En la era digital actual, la ciberseguridad es esencial para individuos y empresas. Las empresas, en particular, enfrentan riesgos significativos debido a la digitalización, que las hace vulnerables a amenazas como el phishing, el ransomware y las contraseñas débiles. Implementar medidas de seguridad robustas y entrenar a los empleados en la detección de amenazas es crucial para proteger la información sensible y mantener la integridad de los sistemas.
-
----
-
-## [Microsoft estudia nuevas herramientas de seguridad para Windows tras la caída de CrowdStrike]({{ site.baseurl }}/ciber/newsletter/2024-38/#microsoft-estudia-nuevas-herramientas-de-seguridad-para-windows-tras-la-ca%C3%ADda-de-crowdstrike)
-
-En julio, una actualización defectuosa de CrowdStrike afectó a más de 8,5 millones de sistemas Windows, causando pérdidas millonarias a empresas, incluidas muchas de la lista Fortune 500. Este incidente ha llevado a Microsoft a reevaluar la interacción de los proveedores de seguridad con Windows.
-
----
-
-## [Botnet Gafgyt: Contraseñas SSH débiles para minar GPUs]({{ site.baseurl }}/ciber/newsletter/2024-38/#botnet-gafgyt-contrase%C3%B1as-ssh-d%C3%A9biles-para-minar-gpus)
-
-Investigadores de ciberseguridad han descubierto una nueva variante del botnet Gafgyt, que apunta a máquinas con contraseñas SSH débiles para la minería de criptomonedas. La amenaza subraya la importancia de implementar medidas de seguridad robustas para proteger la infraestructura contra accesos no autorizados y ataques avanzados.
+## [Desafíos de ciberseguridad en gemelos digitales: amenazas y salvaguardas]({{ site.baseurl }}/ciber/newsletter/2024-39/#att-pagar%C3%A1-13-millones-de-d%C3%B3lares-para-zanjar-el-caso-de-la-fcc-por-la-filtraci%C3%B3n-de-datos-de-2023)
+a
