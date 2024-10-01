@@ -23,6 +23,18 @@ No te pierdas nuestras secciones:
 
 ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
 
+## Suscribirse
+
+¿Te gusta lo que has visto hasta ahora? No te pierdas ninguna novedad.
+
+<form action="https://formspree.io/mkgwlerd" method="POST" class="flex-form">
+  <label for="email">
+    <i class="ion-email"></i>
+  </label>
+  <input type="email" id="email" name="email" placeholder="Introduce tu correo" required>
+  <input type="submit" value="Suscribirse">
+</form>
+
 ## Novedades
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
