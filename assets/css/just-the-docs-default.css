@@ -7878,25 +7878,65 @@ body, p, span, div {
   margin-top: 10px; /* Espacio entre la imagen y el texto */
 }
 
-form {
+/* Estilos principales del formulario */
+.flex-form {
   display: flex;
-  flex-direction: column;
-  max-width: 300px;
+  z-index: 10;
+  position: relative;
+  width: 500px;
+  box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.3);
+  margin: 20px auto; /* Centra el formulario */
+  padding: 10px; /* Añade un poco de espacio interno */
+  background: #B4BD10; /* Color de fondo */
+  border-radius: 10px; /* Esquinas redondeadas */
 }
 
-input[type="email"] {
-  margin-bottom: 10px;
-  padding: 8px;
+.flex-form input[type="email"] {
+  flex: 1; /* Permite que el campo de email ocupe el espacio disponible */
+  margin-right: 10px; /* Espacio entre el campo y el botón */
+  padding: 10px; /* Espacio interno para el campo de email */
+  border: 1px solid #ccc; /* Bordes del campo */
+  border-radius: 5px; /* Esquinas redondeadas */
+  outline: none; /* Sin contorno */
 }
 
-button {
-  padding: 8px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  cursor: pointer;
+/* Estilos del botón */
+.flex-form input[type="submit"] {
+  background: #4CAF50; /* Color de fondo del botón */
+  border: 1px solid #4CAF50; /* Bordes del botón */
+  color: #fff; /* Color del texto del botón */
+  padding: 10px 20px; /* Espacio interno del botón */
+  cursor: pointer; /* Cambia el cursor al pasar por encima */
+  transition: background 0.3s ease, border 0.3s ease; /* Transición suave */
+  border-radius: 5px; /* Esquinas redondeadas */
 }
 
-button:hover {
-  background-color: #0056b3;
+.flex-form input[type="submit"]:hover {
+  background: #45a049; /* Color de fondo al pasar el ratón */
+  border: 1px solid #45a049; /* Bordes del botón al pasar el ratón */
+}
+
+/* Estilos responsivos */
+@media all and (max-width:800px) {
+  .flex-form {
+    width: 100%; /* Ancho completo en pantallas pequeñas */
+  }
+
+  .flex-form > * {
+    font-size: 0.9rem; /* Tamaño de fuente más pequeño */
+  }
+}
+
+@media all and (max-width:360px) {
+  .flex-form {
+    flex-direction: column; /* Cambia a columna en pantallas pequeñas */
+  }
+
+  .flex-form input[type="email"] {
+    margin-right: 0; /* Elimina el margen derecho */
+  }
+
+  label {
+    display: none; /* Oculta la etiqueta */
+  }
 }
