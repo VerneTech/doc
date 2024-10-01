@@ -27,11 +27,10 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
+### [¡Semana 40 publicada!]({{ site.baseurl }}/ciber/newsletter/2024-38)
+![Week 40]({{ site.baseurl }}/ciber/newsletter/img/40/40-0.jpg){: .css-imagen-cabecera}
+¿Están seguros tus datos? ¿Microsoft y Azure son invulnerables? En esta semana nos centramos en la seguridad del dato. Cada vez son más las empresas y los particulares que se ven afectados por robos de datos. ¡Sigue adelante para encontrarte con estas y más noticias!
+
 ### [¡Atentos a la semana 39!]({{ site.baseurl }}/ciber/newsletter/2024-39)
 ![Week 39]({{ site.baseurl }}/ciber/newsletter/img/39/39-0.jpg){: .css-imagen-cabecera}
 Esta semana se presenta muy activa en el área de la ciberseguridad. Por un lado, tenemos una creciente amenaza que se está propagando por GitHub y por otro han salido los reportes anuales de Ransomware y las cifras producen escalofríos. ¡No te la pierdas!
-
-
-### [¡Semana 38 en el aire!]({{ site.baseurl }}/ciber/newsletter/2024-38)
-![Week 38]({{ site.baseurl }}/ciber/newsletter/img/38/38-0.jpg){: .css-imagen-cabecera}
-Una semana más tenemos a nuestro alcance la newsletter. Esta semana abordamos la concienciación como nuestro tema principal. Destacamos los riesgos de la suplantación de identidad y cómo mantener nuestra empresa segura.
