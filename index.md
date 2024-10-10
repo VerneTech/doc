@@ -15,13 +15,23 @@ La formación constante es esencial para mantenerse al día en un campo tan din�
 
 Mirando hacia el futuro, estamos emocionados de anunciar que continuaremos nuestro proyecto integrando noticias sobre el mundo de Azure. Exploraremos cómo esta plataforma puede mejorar la seguridad y eficiencia de tus operaciones, y te mantendremos informado sobre las últimas actualizaciones y mejores prácticas en su uso.
 
-Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones. 
+Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones.
 
 No te pierdas nuestras secciones:
+
 - [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
 - [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
 
 ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
+
+## Novedades
+
+En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
+
+### [¡Semana 41 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 41]({{ site.baseurl }}/ciber/newsletter/img/41/41-0.jpg){: .css-imagen-cabecera}
+
+Cuidado con el malware. Esta semana el malware ha dado mucho que hablar, desde robo de información en una conocida empresa hasta la caída de un conocido grupo de Ransomware ¡No te lo pierdas!
 
 ## Suscribirse
 
@@ -34,15 +44,3 @@ No te pierdas nuestras secciones:
   <input type="email" id="email" name="email" placeholder="Introduce tu correo" required>
   <input type="submit" value="Suscribirse">
 </form>
-
-## Novedades
-
-En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
-
-### [¡Semana 40 publicada!]({{ site.baseurl }}/ciber/newsletter/2024-38)
-![Week 40]({{ site.baseurl }}/ciber/newsletter/img/40/40-0.jpg){: .css-imagen-cabecera}
-¿Están seguros tus datos? ¿Microsoft y Azure son invulnerables? En esta semana nos centramos en la seguridad del dato. Cada vez son más las empresas y los particulares que se ven afectados por robos de datos. ¡Sigue adelante para encontrarte con estas y más noticias!
-
-### [¡Atentos a la semana 39!]({{ site.baseurl }}/ciber/newsletter/2024-39)
-![Week 39]({{ site.baseurl }}/ciber/newsletter/img/39/39-0.jpg){: .css-imagen-cabecera}
-Esta semana se presenta muy activa en el área de la ciberseguridad. Por un lado, tenemos una creciente amenaza que se está propagando por GitHub y por otro han salido los reportes anuales de Ransomware y las cifras producen escalofríos. ¡No te la pierdas!

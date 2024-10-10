@@ -7,27 +7,32 @@ has_children: true
 
 # Últimos artículos
 
-## [Ataque de Ransomware a Microsoft 365]({{ site.baseurl }}/ciber/newsletter/2024-40/#ataque-de-ransomware-a-microsoft-365)
-Microsoft 365 es el corazón de la productividad empresarial, pero su popularidad también lo convierte en un objetivo atractivo para los ciberataques. Este artículo explora cómo los delincuentes aprovechan sus vulnerabilidades, desde ataques de ransomware hasta exploits de día cero, y qué estrategias de protección pueden implementarse. Destaca la importancia de soluciones de respaldo como Backupify y las medidas de seguridad en capas para mitigar los riesgos, asegurando la continuidad del negocio frente a amenazas crecientes.
+## [Un fallo crítico en el SDK de Apache Avro permite la ejecución remota de código en aplicaciones Java]({{ site.baseurl }}/ciber/newsletter/2024-41/#un-fallo-cr%C3%ADtico-en-el-sdk-de-apache-avro-permite-la-ejecuci%C3%B3n-remota-de-c%C3%B3digo-en-aplicaciones-java)
 
-## [Descubierta app maliciosa que roba criptomonedas en Google Play Store]({{ site.baseurl }}/ciber/newsletter/2024-40/#descubierta-app-maliciosa-que-roba-criptomonedas-en-google-play-store)
-Investigadores de ciberseguridad descubrieron una aplicación maliciosa en Google Play que robó aproximadamente $70,000 en criptomonedas mediante engaños a los usuarios. La aplicación, que se hacía pasar por WalletConnect, utilizó reseñas falsas para alcanzar más de 10,000 descargas. Una vez instalada, redirigía a los usuarios a sitios fraudulentos donde robaba credenciales de billeteras y realizaba transacciones maliciosas. Aunque ya fue retirada de la tienda, el caso destaca los riesgos de descargar aplicaciones desde fuentes no oficiales y la creciente amenaza de ataques dirigidos a criptomonedas en dispositivos móviles.
+Una falla crítica en Apache Avro Java SDK, identificada como CVE-2024-47561, permite la ejecución de código arbitrario en versiones anteriores a la 1.11.4. Se recomienda actualizar a las versiones 1.11.4 o 1.12.0 para mitigar el riesgo. ¡Lee la noticia completa!
 
-## [Nueva campaña de Cryptojacking dirigida a Docker]({{ site.baseurl }}/ciber/newsletter/2024-40/#nueva-campa%C3%B1a-de-cryptojacking-dirigida-a-docker)
-Investigadores de ciberseguridad han detectado una campaña de cryptojacking que ataca la API del Docker Engine, comprometiendo instancias para unirse a un Docker Swarm malicioso. Los atacantes utilizan esta infraestructura para minar criptomonedas y ejecutar movimientos laterales hacia otros servidores Docker, Kubernetes o SSH vulnerables. Los ataques se apoyan en herramientas de escaneo para identificar APIs expuestas, desplegando mineros como XMRig y ocultando su actividad con rootkits. Aunque no se conoce al grupo responsable, las tácticas recuerdan a las empleadas por el grupo TeamTNT.
+## [Descubrimiento de nueva familia de malware botnet: Gorilla]({{ site.baseurl }}/ciber/newsletter/2024-41/#descubrimiento-de-nueva-familia-de-malware-botnet-gorilla)
 
-## [Fuxnet: el malware que paralizó sistemas SCI]({{ site.baseurl }}/ciber/newsletter/2024-40/#fuxnet-el-malware-que-paraliz%C3%B3-sistemas-sci)
+Investigadores han descubierto una nueva familia de malware llamada Gorilla, inspirada en el código fuente de Mirai. Ha lanzado más de 300,000 comandos de ataque en menos de un mes, afectando a más de 100 países. Descubre más sobre esta amenaza y cómo protegerte.
 
-En los últimos años, el sector industrial ha sido objeto de crecientes ciberataques con el potencial de interrumpir servicios esenciales, como electricidad y agua, e incluso paralizar completamente operaciones empresariales. Aunque muchas infraestructuras industriales no están conectadas directamente a Internet, lo que las hace más difíciles de atacar, los incidentes recientes, como el ciberataque perpetrado por el grupo de hackers Blackjack con el malware Fuxnet, demuestran que las amenazas son reales y avanzadas.
+## [Vulnerabilidades en Traccar GPS]({{ site.baseurl }}/ciber/newsletter/2024-41/#vulnerabilidades-en-traccar-gps)
 
-## [Alerta de Ciberseguridad en EE.UU.]({{ site.baseurl }}/ciber/newsletter/2024-40/#alerta-de-ciberseguridad-en-eeuu)
+Descubiertas dos vulnerabilidades críticas en el sistema de rastreo GPS Traccar, permitiendo a atacantes no autenticados ejecutar código remoto. Estos fallos afectan las versiones 5.1 a 5.12. Lee más para saber cómo proteger tu sistema.
 
-Las advertencias constantes de la Agencia de Seguridad de Infraestructura y Ciberseguridad (CISA) y la Administración Biden sobre las crecientes amenazas cibernéticas, especialmente desde Rusia, han elevado los niveles de alerta en las agencias y empresas de Estados Unidos. La propuesta de presupuesto para el año fiscal 2023 refleja el compromiso del gobierno federal con la ciberseguridad, destinando fondos adicionales para enfrentar estas amenazas.
+## [Universal Music Group: Brecha de Datos]({{ site.baseurl }}/ciber/newsletter/2024-41/#universal-music-group-brecha-de-datos)
 
-## [Vulnerabilidad en el NVIDIA Container Toolkit]({{ site.baseurl }}/ciber/newsletter/2024-40/#vulnerabilidad-en-el-nvidia-container-toolkit)
+Universal Music Group ha confirmado una brecha de datos que pudo haber expuesto información personal de 680 residentes en EE. UU. La investigación, iniciada tras la detección de actividad no autorizada el 15 de julio de 2024, concluyó en agosto sin evidencia de mal uso de la información comprometida. Lee más sobre cómo UMG está gestionando esta situación y las medidas de protección ofrecidas a los afectados.
 
-Se ha descubierto una vulnerabilidad crítica en el NVIDIA Container Toolkit (CVE-2024-0132) que podría permitir a los atacantes escapar de entornos contenedorizados, comprometiendo así datos y sistemas sensibles. La falla, identificada por investigadores de Wiz, afecta tanto a aplicaciones de IA basadas en la nube como a infraestructuras locales, exponiendo a las organizaciones a riesgos de brechas de datos y pérdida de control sobre su infraestructura.
+## [Microsoft y el Gobierno de EE.UU. desmantelan infraestructura de Star Blizzard]({{ site.baseurl }}/ciber/newsletter/2024-41/#microsoft-y-el-gobierno-de-eeuu-desmantelan-infraestructura-de-star-blizzard)
 
-## [Vulnerabilidad crítica en cámaras Hikvision expone a miles de organizaciones]({{ site.baseurl }}/ciber/newsletter/2024-40/#vulnerabilidad-cr%C3%ADtica-en-c%C3%A1maras-hikvision-expone-a-miles-de-organizaciones)
+Microsoft y el Departamento de Justicia de EE.UU. han incautado más de 100 dominios utilizados por el grupo de hackers Star Blizzard, presuntamente vinculado al FSB ruso. Esta acción busca interrumpir sus operaciones antes de las elecciones en EE.UU. en noviembre. ¡Descubre más detalles sobre esta operación y su impacto!
 
-Una nueva investigación ha revelado que más de 80,000 cámaras de vigilancia Hikvision alrededor del mundo siguen siendo vulnerables a una vulnerabilidad crítica (CVE-2021-36260) descubierta hace 11 meses. Este fallo de inyección de comandos, que tiene una calificación de gravedad de 9.8 sobre 10 según el NIST, afecta a cámaras de videovigilancia utilizadas en más de 100 países, incluidos Estados Unidos, donde Hikvision ha sido considerado un riesgo de seguridad nacional.
+## [Amenaza Cibernética: El Caso de la Vulnerabilidad 0-Day de Cisco y el Ant Velvet Chino]({{ site.baseurl }}/ciber/newsletter/2024-41/#amenaza-cibern%C3%A9tica-el-caso-de-la-vulnerabilidad-0-day-de-cisco-y-el-ant-velvet-chino)
+
+Un grupo de ciberespionaje chino ha sido detectado utilizando una vulnerabilidad zero-day en los switches de Cisco para desplegar malware personalizado. Este ataque permite a los intrusos mantener un acceso prolongado a redes comprometidas. ¡No te pierdas los detalles en la noticia completa!
+
+## [Descubren grupo cibercriminal Greasy Opal]({{ site.baseurl }}/ciber/newsletter/2024-41/#descubren-grupo-cibercriminal-greasy-opal)
+
+Investigadores han identificado a Greasy Opal, un grupo operando desde 2009 que ofrece servicios para evadir CAPTCHAs, facilitando ataques cibernéticos. Este grupo, basado en la República Checa, genera ingresos significativos a través de herramientas avanzadas de reconocimiento de imágenes y caracteres. ¿Quieres saber más sobre cómo operan y sus impactos? ¡Lee la noticia completa!
+
+---
