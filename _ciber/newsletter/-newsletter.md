@@ -7,32 +7,32 @@ has_children: true
 
 # Últimos artículos
 
-## [Un fallo crítico en el SDK de Apache Avro permite la ejecución remota de código en aplicaciones Java]({{ site.baseurl }}/ciber/newsletter/2024-41/#un-fallo-cr%C3%ADtico-en-el-sdk-de-apache-avro-permite-la-ejecuci%C3%B3n-remota-de-c%C3%B3digo-en-aplicaciones-java)
+## [Actualización de Seguridad en Jetpack WordPress]({{ site.baseurl }}/ciber/newsletter/2024-42/#vulnerabilidad-cr%C3%ADtica-en-el-plugin-jetpack-de-wordpress)
 
-Una falla crítica en Apache Avro Java SDK, identificada como CVE-2024-47561, permite la ejecución de código arbitrario en versiones anteriores a la 1.11.4. Se recomienda actualizar a las versiones 1.11.4 o 1.12.0 para mitigar el riesgo. ¡Lee la noticia completa!
+Los desarrolladores del plugin Jetpack de WordPress han lanzado una actualización de seguridad para corregir una vulnerabilidad crítica que permitía a usuarios logueados acceder a formularios enviados por otros. La falla ha estado presente desde 2016 y ya ha sido solucionada en múltiples versiones. ¡Lee la noticia completa para conocer más detalles y asegurarte de estar protegido!
 
-## [Descubrimiento de nueva familia de malware botnet: Gorilla]({{ site.baseurl }}/ciber/newsletter/2024-41/#descubrimiento-de-nueva-familia-de-malware-botnet-gorilla)
+## [DOJ acusa a 18 personas y organizaciones en una estafa de criptomonedas]({{ site.baseurl }}/ciber/newsletter/2024-42/#doj-crea-la-firma-nexfundai-en-una-operaci%C3%B3n-encubierta-contra-el-fraude-criptogr%C3%A1fico)
 
-Investigadores han descubierto una nueva familia de malware llamada Gorilla, inspirada en el código fuente de Mirai. Ha lanzado más de 300,000 comandos de ataque en menos de un mes, afectando a más de 100 países. Descubre más sobre esta amenaza y cómo protegerte.
+El Departamento de Justicia de EE.UU. creó una empresa ficticia y criptomonedas para atrapar a individuos y entidades que inflaban ilegalmente el valor de los tokens y los vendían a precios aumentados. Leer más para entender cómo operaban y las implicaciones legales.
 
-## [Vulnerabilidades en Traccar GPS]({{ site.baseurl }}/ciber/newsletter/2024-41/#vulnerabilidades-en-traccar-gps)
+## [Investigadores descubren cientos de apps falsas en Google Play]({{ site.baseurl }}/ciber/newsletter/2024-42/#aumento-de-aplicaciones-maliciosas-en-google-play)
 
-Descubiertas dos vulnerabilidades críticas en el sistema de rastreo GPS Traccar, permitiendo a atacantes no autenticados ejecutar código remoto. Estos fallos afectan las versiones 5.1 a 5.12. Lee más para saber cómo proteger tu sistema.
+Expertos en seguridad han identificado más de 200 aplicaciones maliciosas en Google Play, afectando a millones de usuarios con malware como Joker y adware. Este hallazgo subraya la creciente amenaza de apps fraudulentas en plataformas aparentemente seguras. ¡No te pierdas los detalles completos en la noticia!
 
-## [Universal Music Group: Brecha de Datos]({{ site.baseurl }}/ciber/newsletter/2024-41/#universal-music-group-brecha-de-datos)
+## [Crece la Red de Estafadores en Plataformas de Reservas]({{ site.baseurl }}/ciber/newsletter/2024-42/#creciente-red-de-estafadores-en-plataformas-de-reservas-de-alojamiento)
 
-Universal Music Group ha confirmado una brecha de datos que pudo haber expuesto información personal de 680 residentes en EE. UU. La investigación, iniciada tras la detección de actividad no autorizada el 15 de julio de 2024, concluyó en agosto sin evidencia de mal uso de la información comprometida. Lee más sobre cómo UMG está gestionando esta situación y las medidas de protección ofrecidas a los afectados.
+Un grupo de ciberdelincuentes, utilizando la herramienta Telekopye, está atacando a usuarios de Booking.com y Airbnb con campañas de phishing sofisticadas. Los estafadores comprometen cuentas legítimas de alojamientos para engañar a las víctimas y obtener sus datos de pago. ¡Lee más sobre cómo protegerte!
 
-## [Microsoft y el Gobierno de EE.UU. desmantelan infraestructura de Star Blizzard]({{ site.baseurl }}/ciber/newsletter/2024-41/#microsoft-y-el-gobierno-de-eeuu-desmantelan-infraestructura-de-star-blizzard)
+## [Fuga de datos en Game Freak]({{ site.baseurl }}/ciber/newsletter/2024-42/#game-freak-sufre-una-brecha-de-seguridad)
 
-Microsoft y el Departamento de Justicia de EE.UU. han incautado más de 100 dominios utilizados por el grupo de hackers Star Blizzard, presuntamente vinculado al FSB ruso. Esta acción busca interrumpir sus operaciones antes de las elecciones en EE.UU. en noviembre. ¡Descubre más detalles sobre esta operación y su impacto!
+El desarrollador de videojuegos japonés Game Freak, conocido por la franquicia Pokémon, ha sufrido una brecha de seguridad que expuso datos de 2606 empleados y socios. La filtración, denominada 'TeraLeak', incluye información confidencial sobre futuros videojuegos. ¡Descubre todos los detalles!
 
-## [Amenaza Cibernética: El Caso de la Vulnerabilidad 0-Day de Cisco y el Ant Velvet Chino]({{ site.baseurl }}/ciber/newsletter/2024-41/#amenaza-cibern%C3%A9tica-el-caso-de-la-vulnerabilidad-0-day-de-cisco-y-el-ant-velvet-chino)
+## [La gestión de identidades y accesos: Clave para la ciberseguridad en 2024]({{ site.baseurl }}/ciber/newsletter/2024-42/#gesti%C3%B3n-de-identidad-y-acceso-en-la-ciberseguridad-moderna)
 
-Un grupo de ciberespionaje chino ha sido detectado utilizando una vulnerabilidad zero-day en los switches de Cisco para desplegar malware personalizado. Este ataque permite a los intrusos mantener un acceso prolongado a redes comprometidas. ¡No te pierdas los detalles en la noticia completa!
+La gestión de identidades y accesos (IAM) es crucial para proteger a las organizaciones contra amenazas cibernéticas. Con el aumento de ataques como la suplantación de credenciales y la ingeniería social, los líderes de IAM deben adaptarse y reforzar la seguridad de los sistemas. Descubre por qué Gartner identifica IAM como una tendencia clave para 2024. ¡Lee la noticia completa!
 
-## [Descubren grupo cibercriminal Greasy Opal]({{ site.baseurl }}/ciber/newsletter/2024-41/#descubren-grupo-cibercriminal-greasy-opal)
+## [Nueva campaña de malware: Hijack Loader ataca de nuevo]({{ site.baseurl }}/ciber/newsletter/2024-42/#nueva-campa%C3%B1a-de-malware-con-hijack-loader)
 
-Investigadores han identificado a Greasy Opal, un grupo operando desde 2009 que ofrece servicios para evadir CAPTCHAs, facilitando ataques cibernéticos. Este grupo, basado en la República Checa, genera ingresos significativos a través de herramientas avanzadas de reconocimiento de imágenes y caracteres. ¿Quieres saber más sobre cómo operan y sus impactos? ¡Lee la noticia completa!
+Investigadores de ciberseguridad han descubierto una campaña de malware que utiliza certificados de firma de código legítimos para distribuir Hijack Loader. Este malware, también conocido como DOILoader, engaña a los usuarios para que descarguen software malicioso bajo la apariencia de archivos legítimos. ¡Lee la noticia completa para conocer los detalles!
 
 ---

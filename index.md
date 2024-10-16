@@ -28,10 +28,12 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 41 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
-![Week 41]({{ site.baseurl }}/ciber/newsletter/img/41/41-0.jpg){: .css-imagen-cabecera}
+### [¡Semana 42 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 42]({{ site.baseurl }}/ciber/newsletter/img/42/42-0.jpg){: .css-imagen-cabecera}
 
-Cuidado con el malware. Esta semana el malware ha dado mucho que hablar, desde robo de información en una conocida empresa hasta la caída de un conocido grupo de Ransomware ¡No te lo pierdas!
+En este mes dedicado a la ciberseguridad, nos enfrentamos a noticias alarmantes, como la **creciente difusión de malware a través de Google Play**. Sorprendentemente, casi el **48% de las aplicaciones en la categoría de Herramientas** resultan ser maliciosas. Es una realidad preocupante que resalta la importancia de estar siempre alerta.
+
+Accede a esta y otras noticias relevantes en nuestra publicación de esta semana.
 
 ## Suscribirse
 
