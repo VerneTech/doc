@@ -25,9 +25,7 @@ nav_order: 3
 
 Un Copilot, como Azure Costs Management Copilot (ACM Copilot), **simplifica el proceso de seguimiento y control de gastos en la nube** al traducir datos financieros complejos en información clara y comprensible. Esta herramienta **permite a los usuarios interactuar en lenguaje natural**, haciéndole preguntas directas sobre **los gastos, `presupuestos` y uso de recursos**, sin necesidad de un conocimiento técnico profundo ni de navegar por interfaces complicadas. Al utilizar un enfoque conversacional, los equipos pueden tomar decisiones informadas basadas en los datos disponibles de forma rápida y eficiente.
 
-Una de las principales ventajas de utilizar un Copilot es la **accesibilidad** a los datos financieros en tiempo real, ya que el asistente puede proporcionar informes detallados y visualizaciones de costos agrupados por suscripción, grupos de recursos, centros de costos y otras métricas relevantes. De este modo, se fomenta la transparencia en la gestión de costos, facilitando la identificación de oportunidades de optimización y promoviendo una cultura de responsabilidad financiera dentro de la organización.
-
-Además, el Copilot ofrece un **soporte personalizado** a los usuarios, proporcionando recomendaciones basadas en las necesidades específicas de cada equipo o departamento. Estas recomendaciones pueden incluir guías para la configuración de `presupuestos`, estrategias de optimización financiera o alertas sobre desviaciones de costos. Con un Copilot, las organizaciones pueden maximizar el valor de su inversión en Azure, optimizando recursos y alineando sus decisiones con los objetivos estratégicos de negocio.
+Una de las principales ventajas de utilizar un Copilot es la **accesibilidad** a los datos de costes de forma agregada mensualmente, ya que el asistente puede proporcionar informes detallados y visualizaciones de costos agrupados por suscripción, grupos de recursos, centros de costos y otras métricas relevantes. De este modo, se fomenta la transparencia en la gestión de costos, facilitando la identificación de oportunidades de optimización y promoviendo una cultura de responsabilidad financiera dentro de la organización.
 
 A diferencia del Copilot de Microsoft, el ACM Copilot de Verne Tech hace especial **hincapié en la gestión de `presupuestos`, las desviaciones de gasto y las segmentaciones de valor del cliente**. Esto incluye la capacidad de analizar **centros de costes, propietarios de recursos y la privacidad de grupos de recursos** mediante un etiquetado eficiente. Al estructurar y clasificar los datos de esta forma, se mejora la precisión del análisis y se facilita el control granular de los costos, alineando las inversiones tecnológicas con las prioridades y necesidades específicas de cada organización.
 
@@ -64,8 +62,6 @@ Para quienes deseen profundizar en FinOps, ACM Copilot incluye enlaces a **recur
 - **Microsoft Cost Management Documentation**: Una guía completa para el uso de las herramientas de análisis y control de costes en Azure, incluyendo configuraciones avanzadas y prácticas recomendadas. Puedes acceder a esta guía [aquí](https://docs.microsoft.com/en-us/azure/cost-management/).
 - **Azure Well-Architected Framework - Cost Optimization**: Un conjunto de mejores prácticas para optimizar los costes en la nube, basado en el enfoque de Microsoft hacia la arquitectura eficiente. Más información [aquí](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/).
 - **FinOps Foundation**: Organización dedicada a promover y desarrollar prácticas de FinOps, con acceso a webinars, eventos y recursos adicionales. Visita su página [aquí](https://www.finops.org/).
-
-Al ofrecer esta combinación de soporte práctico y acceso a recursos de Microsoft, ACM Copilot se convierte en un aliado clave para cualquier organización que desee **adoptar una práctica de FinOps** exitosa, logrando una **gestión financiera eficiente** y un **uso optimizado** de los recursos en Azure.
 
 ## Ejemplos de conversaciones
 
@@ -140,7 +136,7 @@ Trabajar de manera efectiva con ACM Copilot implica conocer algunos trucos y mej
 
 5. **Usa `etiquetas` para filtrar resultados:** Si tu organización ha implementado políticas de etiquetado, realiza búsquedas utilizando estas `etiquetas`. Es común buscar por equipos de trabajo, propietarios o cargas de trabajo, lo que permite obtener resultados segmentados y alineados con los objetivos organizacionales.
 
-Además de estos trucos, es importante ajustar correctamente la "temperatura" del modelo para obtener respuestas más precisas y evitar desviaciones especulativas, así como reformular las consultas en diferentes formatos si no estás seguro de que se haya entendido correctamente la pregunta. Al aplicar estos consejos, podrás aprovechar al máximo las capacidades de ACM Copilot para optimizar la gestión financiera en Azure.
+Además de estos trucos, es importante ajustar correctamente la `temperatura` del modelo para obtener respuestas más precisas y evitar desviaciones especulativas, así como reformular las consultas en diferentes formatos si no estás seguro de que se haya entendido correctamente la pregunta. Al aplicar estos consejos, podrás aprovechar al máximo las capacidades de ACM Copilot para optimizar la gestión financiera en Azure. En la versión actual, los ajustes de `temperatura` no los puede hacer el usuario. En el mapa del producto tenemos incluido que el usuario pueda decidir en parámetros como la `temperatura`, `subscripciones` por defecto, `idioma`, anonimización de datos, y seguridad a nivel de registro (`RLS`).
 
 ## Modelo de datos de costes
 
