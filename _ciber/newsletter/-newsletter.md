@@ -7,57 +7,32 @@ has_children: true
 
 # Últimos artículos
 
-## [Campaña de Malware en Dispositivos Android]({{ site.baseurl }}/ciber/newsletter/2024-37/#campa%C3%B1a-de-malware-en-dispositivos-android)
+## [Actualización de Seguridad en Jetpack WordPress]({{ site.baseurl }}/ciber/newsletter/2024-42/#vulnerabilidad-cr%C3%ADtica-en-el-plugin-jetpack-de-wordpress)
 
-Una nueva campaña de malware móvil, dirigida inicialmente a usuarios de Android en Corea del Sur y recientemente extendida al Reino Unido, ha introducido la amenaza denominada SpyAgent. Este malware utiliza aplicaciones falsas de Android para robar datos sensibles, incluyendo claves mnemónicas mediante el reconocimiento óptico de caracteres (OCR).
+Los desarrolladores del plugin Jetpack de WordPress han lanzado una actualización de seguridad para corregir una vulnerabilidad crítica que permitía a usuarios logueados acceder a formularios enviados por otros. La falla ha estado presente desde 2016 y ya ha sido solucionada en múltiples versiones. ¡Lee la noticia completa para conocer más detalles y asegurarte de estar protegido!
 
----
+## [DOJ acusa a 18 personas y organizaciones en una estafa de criptomonedas]({{ site.baseurl }}/ciber/newsletter/2024-42/#doj-crea-la-firma-nexfundai-en-una-operaci%C3%B3n-encubierta-contra-el-fraude-criptogr%C3%A1fico)
 
-## [Microsoft Advierte sobre Problema de Seguridad con la Función "Recall" en Windows]({{ site.baseurl }}/ciber/newsletter/2024-37/#microsoft-advierte-sobre-problema-de-seguridad-con-la-funci%C3%B3n-recall-en-windows)
+El Departamento de Justicia de EE.UU. creó una empresa ficticia y criptomonedas para atrapar a individuos y entidades que inflaban ilegalmente el valor de los tokens y los vendían a precios aumentados. Leer más para entender cómo operaban y las implicaciones legales.
 
-La función "Recall" de Windows, diseñada para facilitar la desinstalación de aplicaciones y la eliminación de archivos asociados, presenta un fallo en las versiones recientes de Windows 10 y 11 que impide la correcta eliminación de estos archivos. Esto deja restos de datos en el sistema, lo que puede ser recuperado fácilmente y representa un riesgo de seguridad, especialmente para aquellos manejando información sensible.
+## [Investigadores descubren cientos de apps falsas en Google Play]({{ site.baseurl }}/ciber/newsletter/2024-42/#aumento-de-aplicaciones-maliciosas-en-google-play)
 
----
+Expertos en seguridad han identificado más de 200 aplicaciones maliciosas en Google Play, afectando a millones de usuarios con malware como Joker y adware. Este hallazgo subraya la creciente amenaza de apps fraudulentas en plataformas aparentemente seguras. ¡No te pierdas los detalles completos en la noticia!
 
-## [‘Terrorgram’ Terrorismo a través de Telegram]({{ site.baseurl }}/ciber/newsletter/2024-37/#crecimiento-y-fragmentaci%C3%B3n-de-los-grupos-de-ransomware-en-2024)
+## [Crece la Red de Estafadores en Plataformas de Reservas]({{ site.baseurl }}/ciber/newsletter/2024-42/#creciente-red-de-estafadores-en-plataformas-de-reservas-de-alojamiento)
 
-El crecimiento en el uso de aplicaciones de mensajería cifrada ha proporcionado un refugio seguro para grupos extremistas que utilizan estas plataformas para difundir propaganda, coordinar actividades violentas y reclutar nuevos miembros.
+Un grupo de ciberdelincuentes, utilizando la herramienta Telekopye, está atacando a usuarios de Booking.com y Airbnb con campañas de phishing sofisticadas. Los estafadores comprometen cuentas legítimas de alojamientos para engañar a las víctimas y obtener sus datos de pago. ¡Lee más sobre cómo protegerte!
 
----
+## [Fuga de datos en Game Freak]({{ site.baseurl }}/ciber/newsletter/2024-42/#game-freak-sufre-una-brecha-de-seguridad)
 
-## [Vulnerabilidades críticas en Cisco Smart Licensing Utility]({{ site.baseurl }}/ciber/newsletter/2024-37/#vulnerabilidades-cr%C3%ADticas-en-cisco-smart-licensing-utility)
+El desarrollador de videojuegos japonés Game Freak, conocido por la franquicia Pokémon, ha sufrido una brecha de seguridad que expuso datos de 2606 empleados y socios. La filtración, denominada 'TeraLeak', incluye información confidencial sobre futuros videojuegos. ¡Descubre todos los detalles!
 
-Cisco ha alertado a sus clientes sobre dos vulnerabilidades críticas en su producto Smart Licensing Utility, instando a aplicar actualizaciones de software para protegerse de posibles ataques. Con una puntuación CVSS de 9.8, estas vulnerabilidades podrían permitir a un atacante remoto no autenticado acceder a información sensible o controlar servicios en el sistema afectado.
+## [La gestión de identidades y accesos: Clave para la ciberseguridad en 2024]({{ site.baseurl }}/ciber/newsletter/2024-42/#gesti%C3%B3n-de-identidad-y-acceso-en-la-ciberseguridad-moderna)
 
----
+La gestión de identidades y accesos (IAM) es crucial para proteger a las organizaciones contra amenazas cibernéticas. Con el aumento de ataques como la suplantación de credenciales y la ingeniería social, los líderes de IAM deben adaptarse y reforzar la seguridad de los sistemas. Descubre por qué Gartner identifica IAM como una tendencia clave para 2024. ¡Lee la noticia completa!
 
-## [Crecimiento y fragmentación de los grupos de ransomware en 2024]({{ site.baseurl }}/ciber/newsletter/2024-37/#terrorgram-terrorismo-a-trav%C3%A9s-de-telegram)
+## [Nueva campaña de malware: Hijack Loader ataca de nuevo]({{ site.baseurl }}/ciber/newsletter/2024-42/#nueva-campa%C3%B1a-de-malware-con-hijack-loader)
 
-El informe de Searchlight Cyber revela un aumento del 56% en la actividad de grupos de ransomware en el primer semestre de 2024, pasando de 46 a 73 grupos activos en comparación con el mismo período de 2023. Este crecimiento refleja una mayor fragmentación en el panorama del ransomware, con la aparición de nuevos grupos más pequeños y altamente dirigidos, complicando el trabajo de los profesionales de ciberseguridad.
-
----
-
-## [Inteligencia Artificial en Ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-37/#microsoft-advierte-sobre-problema-de-seguridad-con-la-funci%C3%B3n-recall-en-windows)
-
-La inteligencia artificial (IA) ha transformado la ciberseguridad, enfrentando amenazas cibernéticas cada vez más avanzadas con una eficacia que supera a los métodos tradicionales. Al analizar grandes volúmenes de datos a alta velocidad, la IA puede identificar patrones y anomalías que podrían señalar amenazas potenciales.
+Investigadores de ciberseguridad han descubierto una campaña de malware que utiliza certificados de firma de código legítimos para distribuir Hijack Loader. Este malware, también conocido como DOILoader, engaña a los usuarios para que descarguen software malicioso bajo la apariencia de archivos legítimos. ¡Lee la noticia completa para conocer los detalles!
 
 ---
-
-## [Una encuesta de Verizon revela el aumento de los riesgos de seguridad de los dispositivos móviles e IoT]({{ site.baseurl }}/ciber/newsletter/2024-37/#campa%C3%B1a-de-malware-en-dispositivos-android)
-
-El informe de Searchlight Cyber revela un aumento del 56% en la actividad de grupos de ransomware en el primer semestre de 2024, pasando de 46 a 73 grupos activos en comparación con el mismo período de 2023. Este crecimiento refleja una mayor fragmentación en el panorama del ransomware, con la aparición de nuevos grupos más pequeños y altamente dirigidos, complicando el trabajo de los profesionales de ciberseguridad.
-
-
-## Ediciones Anteriores
-¿Buscas alguna edición anterior? Aquí tienes los enlaces a las semanas anteriores.
-
-- [Ciber - 2024-28]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-28.pdf).
-- [Ciber - 2024-29]({{ site.baseurl }}/ciber/newsletter/pdfs/newsletter-2024-29.pdf).
-- [Ciber - 2024-30]({{ site.baseurl }}/ciber/newsletter/2024-30)
-- [Ciber - 2024-31]({{ site.baseurl }}/ciber/newsletter/2024-31)
-- [Ciber - 2024-32]({{ site.baseurl }}/ciber/newsletter/2024-32)
-- [Ciber - 2024-33]({{ site.baseurl }}/ciber/newsletter/2024-33)
-- [Ciber - 2024-34]({{ site.baseurl }}/ciber/newsletter/2024-34)
-- [Ciber - 2024-35]({{ site.baseurl }}/ciber/newsletter/2024-35)
-- [Ciber - 2024-36]({{ site.baseurl }}/ciber/newsletter/2024-36)
-- [Ciber - 2024-37]({{ site.baseurl }}/ciber/newsletter/2024-37)

@@ -15,19 +15,34 @@ La formación constante es esencial para mantenerse al día en un campo tan din�
 
 Mirando hacia el futuro, estamos emocionados de anunciar que continuaremos nuestro proyecto integrando noticias sobre el mundo de Azure. Exploraremos cómo esta plataforma puede mejorar la seguridad y eficiencia de tus operaciones, y te mantendremos informado sobre las últimas actualizaciones y mejores prácticas en su uso.
 
-Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones. ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
+Esperamos que disfrutes de esta edición y encuentres útil la información proporcionada. No dudes en contactarnos con tus preguntas, sugerencias o cualquier tema que te gustaría que cubriéramos en futuras ediciones.
+
+No te pierdas nuestras secciones:
+
+- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
+- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
+
+¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
 
 ## Novedades
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Tenemos la semana 37!]({{ site.baseurl }}/ciber/newsletter/2024-37)
-![Week 37]({{ site.baseurl }}/ciber/newsletter/img/37/37-0.jpg){: .css-imagenindex}Seguimos adelante con nuestras publicaciones, para la semana 37 tenemos artículos realmente curiosos. Has notado el auge de las IA's, ¿verdad? Nosotros también. Siempre hablamos de lo negativo, pero esta semana hablaremos de cómo nos ayuda en nuestro día a día. ¡No te lo pierdas! Accede ya a la semana 37 y sigue adelante con este y otros temas interesantes.
+### [¡Semana 42 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 42]({{ site.baseurl }}/ciber/newsletter/img/42/42-0.jpg){: .css-imagen-cabecera}
 
-### [¡Ya se ha publicado la semana 36!]({{ site.baseurl }}/ciber/newsletter/2024-36)
-![Week 36]({{ site.baseurl }}/ciber/newsletter/img/36/36-0.jpg){: .css-imagenindex}Ya tienes a tu alcance los artículos de la newsletter de ciberseguridad correspondientes a la semana 36. En esta edición, nos enfocamos especialmente en el malware, proporcionando un análisis de las últimas amenazas y técnicas de ataque. Sin embargo, no dejamos de lado otras categorías relevantes, ofreciendo también actualizaciones y recomendaciones sobre vulnerabilidades y tendencias emergentes en el campo de la ciberseguridad. ¡No te lo pierdas! Sigue leyendo para estar al tanto de las noticias más importantes y proteger tu entorno digital.
+En este mes dedicado a la ciberseguridad, nos enfrentamos a noticias alarmantes, como la **creciente difusión de malware a través de Google Play**. Sorprendentemente, casi el **48% de las aplicaciones en la categoría de Herramientas** resultan ser maliciosas. Es una realidad preocupante que resalta la importancia de estar siempre alerta.
 
-### Secciones
-Estas son las secciones
-- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
-- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
+Accede a esta y otras noticias relevantes en nuestra publicación de esta semana.
+
+## Suscribirse
+
+¿Te gusta lo que has visto hasta ahora? No te pierdas ninguna novedad.
+
+<form action="https://formspree.io/mkgwlerd" method="POST" class="flex-form">
+  <label for="email">
+    <i class="ion-email"></i>
+  </label>
+  <input type="email" id="email" name="email" placeholder="Introduce tu correo" required>
+  <input type="submit" value="Suscribirse">
+</form>
