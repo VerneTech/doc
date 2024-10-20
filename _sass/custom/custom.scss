@@ -1,0 +1,157 @@
+/*  ESTILOS ESPECIFICOS VERNE TECH*/
+
+h1 {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+    color: #B4BD10;
+  }
+  
+  /* Estilo para todos los enlaces */
+  a {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 400; /* Regular */
+    color: #213A73;
+    text-decoration: none; /* Esto elimina el subrayado, si prefieres mantenerlo, puedes eliminar esta línea */
+  }
+  
+  /* Opcional: Estilo para enlaces al pasar el cursor (hover) */
+  a:hover {
+    color: #1A2F5B; /* Un tono más oscuro al pasar el cursor, si lo deseas */
+    text-decoration: underline; /* O cualquier otro efecto que prefieras */
+  }
+  
+  /* Estilo para todas las tablas */
+  table {
+    font-family: 'Segoe UI', sans-serif;
+    border-collapse: collapse; /* Opcional: Esto asegura que las bordes de las celdas se colapsen */
+    border: 2px solid #B4BD10; /* Añadir borde externo de color amarillo */
+  }
+  
+  /* Estilo para las celdas de las tablas */
+  table th, table td {
+    border: 1px solid #B4BD10; /* Opcional: Bordes de las celdas en el mismo color */
+    padding: 8px; /* Espaciado interno para celdas */
+  }
+  
+  /* Estilo para los encabezados de las tablas */
+  table th {
+    background-color: #2C2F33; /* Opcional: Fondo oscuro para encabezados */
+    color: #B4BD10; /* Texto en el color especificado */
+    font-weight: bold; /* Opcional: Negrita para encabezados */
+  }
+  
+  /* Estilo para filas alternas */
+  table tr:nth-child(even) {
+    background-color: #3C3F43; /* Opcional: Color de fondo para filas pares */
+  }
+  
+  /* Estilo para hover sobre filas */
+  table tr:hover {
+    background-color: #4C4F53; /* Opcional: Color de fondo al pasar el cursor sobre una fila */
+  }
+  
+  /* Estilo para el texto normal */
+  body, p, span, div {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 400; /* Regular */
+    color: #000000;
+  }
+  
+  .css-imagen {
+    float: left; /* o right para que flote a la derecha */
+    margin-right: 25px; /* Espacio a la derecha de la imagen */
+    margin-bottom: 10px; /* Espacio abajo de la imagen */
+    max-width: 35%; /* Ajusta el tamaño de la imagen */
+  }
+  
+
+  .css-imagen-full {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px; /* Ajusta este valor según tu necesidad */
+  }
+  
+  .css-imagenindex {
+    max-width: 100px; /* Ajusta el tamaño de la imagen */
+    height: auto; /* Mantiene la relación de aspecto */
+    margin-right: 20px; /* Espacio entre la imagen y el texto */
+  }
+  
+  .css-imagen-cabecera {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%; /* Ajusta el tamaño de la imagen para que no exceda el contenedor */
+  }
+  
+  .caption {
+    text-align: center;
+    font-size: 0.9em; /* Esto hace que el texto sea más pequeño */
+    color: #555; /* Color opcional para diferenciar el texto */
+    margin-top: 10px; /* Espacio entre la imagen y el texto */
+  }
+  
+  /* Estilos principales del formulario */
+  .flex-form {
+    display: flex;
+    z-index: 10;
+    position: relative;
+    width: 500px;
+    box-shadow: 4px 8px 16px rgba(0, 0, 0, 0.3);
+    margin: 20px auto; /* Centra el formulario */
+    padding: 10px; /* Añade un poco de espacio interno */
+    background: #B4BD10; /* Color de fondo */
+    border-radius: 10px; /* Esquinas redondeadas */
+  }
+  
+  .flex-form input[type="email"] {
+    flex: 1; /* Permite que el campo de email ocupe el espacio disponible */
+    margin-right: 10px; /* Espacio entre el campo y el botón */
+    padding: 10px; /* Espacio interno para el campo de email */
+    border: 1px solid #ccc; /* Bordes del campo */
+    border-radius: 5px; /* Esquinas redondeadas */
+    outline: none; /* Sin contorno */
+  }
+  
+  /* Estilos del botón */
+  .flex-form input[type="submit"] {
+    background: #4CAF50; /* Color de fondo del botón */
+    border: 1px solid #4CAF50; /* Bordes del botón */
+    color: #fff; /* Color del texto del botón */
+    padding: 10px 20px; /* Espacio interno del botón */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    transition: background 0.3s ease, border 0.3s ease; /* Transición suave */
+    border-radius: 5px; /* Esquinas redondeadas */
+  }
+  
+  .flex-form input[type="submit"]:hover {
+    background: #45a049; /* Color de fondo al pasar el ratón */
+    border: 1px solid #45a049; /* Bordes del botón al pasar el ratón */
+  }
+  
+  /* Estilos responsivos */
+  @media all and (max-width:800px) {
+    .flex-form {
+      width: 100%; /* Ancho completo en pantallas pequeñas */
+    }
+  
+    .flex-form > * {
+      font-size: 0.9rem; /* Tamaño de fuente más pequeño */
+    }
+  }
+  
+  @media all and (max-width:360px) {
+    .flex-form {
+      flex-direction: column; /* Cambia a columna en pantallas pequeñas */
+    }
+  
+    .flex-form input[type="email"] {
+      margin-right: 0; /* Elimina el margen derecho */
+    }
+  
+    label {
+      display: none; /* Oculta la etiqueta */
+    }
+  }
+  
