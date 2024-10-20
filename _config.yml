@@ -25,6 +25,9 @@ collections:
   data:
     permalink: "/:collection/:path/"
     output: true
+  otros:
+    permalink: "/:collection/:path/"
+    output: true
   varios:
     permalink: "/:collection/:path/"
     output: true
@@ -40,9 +43,6 @@ just_the_docs:
     data:
       name: Data
       expanded: true
-    varios:
-      name: Varios
-      expanded: false
 
 callouts_level: quiet # or loud
 callouts:
@@ -70,6 +70,9 @@ highlighter: rouge
 
 mermaid:
   version: '10.3.1'
+
+sass:
+  quiet_deps: true
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
