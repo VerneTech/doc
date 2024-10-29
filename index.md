@@ -28,10 +28,10 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 43 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
-![Week 43]({{ site.baseurl }}/ciber/newsletter/img/43/43-0.jpg){: .css-imagen-cabecera}
+### [¡Semana 44 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 44]({{ site.baseurl }}/ciber/newsletter/img/44/44-0.jpg){: .css-imagen-cabecera}
 
-En numerosos estudios se ha podido comprobar que las vulnerabilidades en el software son unos de los principales vectores de ataques. Esto significa que es muy importante que siempre estemos actualizados. Esta semana la dedicamos a las vulnerabilidades, ¡actualiza!
+¡No te pierdas las novedades de esta semana! ¿Sabías que tu móvil puede espiarte o que tu robot aspirador puede ser hackeado para gritar obscenidades? Explora temas críticos como el espionaje ruso, la venta de datos de ubicación que comprometen tu privacidad y la multa millonaria a LinkedIn por violar la GDPR. Además, entérate de una vulnerabilidad crítica en FortiManager y cómo ciberdelincuentes están explotando servicios de chat con IA usando credenciales robadas. ¡Infórmate y mantente seguro!
 
 ## Suscribirse
 
