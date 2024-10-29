@@ -7,34 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Actualización de Seguridad en Jetpack WordPress]({{ site.baseurl }}/ciber/newsletter/2024-43/#vulnerabilidad-cr%C3%ADtica-en-software-de-webmail-roundcube)
+## [Operación de espionaje ruso usando malware en Windows y Android]({{ site.baseurl }}/ciber/newsletter/2024-44/#operaci%C3%B3n-de-espionaje-h%C3%ADbrido-ruso-en-ucrania)
 
-Los desarrolladores del plugin Jetpack de WordPress han lanzado una actualización de seguridad para corregir una vulnerabilidad crítica que permitía a usuarios logueados acceder a formularios enviados por otros. La falla ha estado presente desde 2016 y ya ha sido solucionada en múltiples versiones. ¡Lee la noticia completa para conocer más detalles y asegurarte de estar protegido!
+Se ha detectado una operación de espionaje ruso que utiliza malware para Windows y Android, dirigida al ejército ucraniano a través de la plataforma Telegram. Conoce los detalles de esta amenaza y cómo se está utilizando la tecnología para influir en la guerra en Ucrania. ¡Lee más para estar informado!
 
+## [Cibercriminales usan credenciales robadas en la nube para operar servicios de chat sexualizados con IA]({{ site.baseurl }}/ciber/newsletter/2024-44/#cibercriminales-usan-credenciales-robadas-en-la-nube-para-operar-servicios-de-chat-sexualizados-con-ia)
 
-## [DOJ acusa a 18 personas y organizaciones en una estafa de criptomonedas]({{ site.baseurl }}/ciber/newsletter/2024-43/#actividades-fraudulentas-de-trabajadores-de-ti-de-corea-del-norte)
+La exposición accidental de credenciales en la nube está alimentando un mercado ilícito de servicios de chat impulsados por IA, donde ciberdelincuentes explotan estos accesos para contenidos preocupantes. Conoce cómo operan estas redes y las repercusiones que enfrentan las víctimas en este inquietante fenómeno.
 
-El Departamento de Justicia de EE.UU. creó una empresa ficticia y criptomonedas para atrapar a individuos y entidades que inflaban ilegalmente el valor de los tokens y los vendían a precios aumentados. Leer más para entender cómo operaban y las implicaciones legales.
+## [La venta de datos de ubicación y sus implicaciones para la seguridad personal]({{ site.baseurl }}/ciber/newsletter/2024-44/#la-venta-de-datos-de-ubicaci%C3%B3n-y-sus-implicaciones-para-la-seguridad-personal)
 
-## [Investigadores descubren cientos de apps falsas en Google Play]({{ site.baseurl }}/ciber/newsletter/2024-43/#nueva-campa%C3%B1a-de-phishing-dirigida-a-usuarios-de-github)
+El caso entre Atlas Data Privacy Corp. y Babel Street destaca los riesgos de privacidad asociados con el acceso comercial a datos de localización. La compañía Atlas ha demandado a Babel Street y a otros corredores de datos, alegando que violan la Ley Daniel de Nueva Jersey, al recopilar y vender datos sin consentimiento. Esta demanda pone de relieve el impacto de los datos de publicidad móvil en la privacidad, especialmente en contextos sensibles como los tribunales y las clínicas de aborto. Las políticas actuales de empresas como Google y Apple, aunque contienen medidas de privacidad, permiten que los MAIDs faciliten el rastreo sin el consentimiento directo de los usuarios, lo que subraya la necesidad de una regulación más estricta en el sector.
 
-Expertos en seguridad han identificado más de 200 aplicaciones maliciosas en Google Play, afectando a millones de usuarios con malware como Joker y adware. Este hallazgo subraya la creciente amenaza de apps fraudulentas en plataformas aparentemente seguras. ¡No te pierdas los detalles completos en la noticia!
+## Hacked Robot Vacuums Across the U.S. Started Yelling Slurs({{ site.baseurl }}/ciber/newsletter/2024-44/#robots-aspiradores-pirateados-que-gritan-obscenidades)
 
-## [Crece la Red de Estafadores en Plataformas de Reservas]({{ site.baseurl }}/ciber/newsletter/2024-43/#brecha-de-datos-en-fidelity)
+Un sorprendente incidente de ciberseguridad: aspiradoras robotizadas hackeadas comenzaron a gritar obscenidades, revelando vulnerabilidades críticas en dispositivos IoT. Descubre cómo ocurrió este ataque y sus implicaciones más amplias. 
 
-Un grupo de ciberdelincuentes, utilizando la herramienta Telekopye, está atacando a usuarios de Booking.com y Airbnb con campañas de phishing sofisticadas. Los estafadores comprometen cuentas legítimas de alojamientos para engañar a las víctimas y obtener sus datos de pago. ¡Lee más sobre cómo protegerte!
+## [Multa millonaria a LinkedIn por violar la GDPR]({{ site.baseurl }}/ciber/newsletter/2024-44/#multa-a-linkedin-por-violaci%C3%B3n-del-gdpr)
 
-## [Fuga de datos en Game Freak]({{ site.baseurl }}/ciber/newsletter/2024-43/#vulnerabilidad-cr%C3%ADtica-en-el-portal-web-de-kia)
+La Comisión de Protección de Datos de Irlanda ha impuesto una multa de 310 millones de euros a LinkedIn por prácticas publicitarias que violaron la GDPR. La sanción sigue a una queja de 2018 sobre el uso indebido de datos personales para publicidad dirigida. Lee más sobre cómo LinkedIn planea responder a esta decisión.
 
-El desarrollador de videojuegos japonés Game Freak, conocido por la franquicia Pokémon, ha sufrido una brecha de seguridad que expuso datos de 2606 empleados y socios. La filtración, denominada 'TeraLeak', incluye información confidencial sobre futuros videojuegos. ¡Descubre todos los detalles!
+## [Hackers de SVR espían entidades globales desde hace años]({{ site.baseurl }}/ciber/newsletter/2024-44/#hackers-del-servicio-de-inteligencia-exterior-de-rusia-svr-esp%C3%ADan-a-entidades-globales)
 
-## [La gestión de identidades y accesos: Clave para la ciberseguridad en 2024]({{ site.baseurl }}/ciber/newsletter/2024-43/#cicada3301-nuevo-grupo-de-ransomware-en-auge)
+Los servicios de inteligencia de EE.UU. y Reino Unido han revelado una campaña de ciberespionaje por parte del grupo APT29, vinculado al SVR ruso. Esta operación ha estado activa desde 2021, afectando a gobiernos, empresas tecnológicas y organizaciones internacionales. Descubre más detalles y cómo protegerte en la noticia completa.
 
-La gestión de identidades y accesos (IAM) es crucial para proteger a las organizaciones contra amenazas cibernéticas. Con el aumento de ataques como la suplantación de credenciales y la ingeniería social, los líderes de IAM deben adaptarse y reforzar la seguridad de los sistemas. Descubre por qué Gartner identifica IAM como una tendencia clave para 2024. ¡Lee la noticia completa!
+## [Fortinet confirma vulnerabilidad crítica en FortiManager]({{ site.baseurl }}/ciber/newsletter/2024-44/#vulnerabilidad-cr%C3%ADtica-en-fortimanager-est%C3%A1-siendo-explotada-de-forma-activa)
 
-## [Nueva campaña de malware: Hijack Loader ataca de nuevo]({{ site.baseurl }}/ciber/newsletter/2024-43/#vulnerabilidad-en-macos-hm-surf)
-
-Investigadores de ciberseguridad han descubierto una campaña de malware que utiliza certificados de firma de código legítimos para distribuir Hijack Loader. Este malware, también conocido como DOILoader, engaña a los usuarios para que descarguen software malicioso bajo la apariencia de archivos legítimos. ¡Lee la noticia completa para conocer los detalles!
+Fortinet ha revelado una vulnerabilidad crítica en su solución FortiManager que está siendo explotada activamente. Este fallo permite a los atacantes ejecutar código arbitrario y comprometer otros dispositivos FortiManager. La actualización es urgente para los usuarios afectados. ¡No te pierdas los detalles completos!
 
 ---
 
