@@ -21,7 +21,7 @@ nav_order: 2
 
 ## Introducción
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-01.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-01.png){: .css-imagen}
 
 En la era de la nube, las empresas se enfrentan a un reto crítico: gestionar y optimizar sus costes en un entorno donde los recursos y servicios están en constante cambio. FinOps surge como una disciplina de gestión financiera en la nube, cuyo objetivo principal es maximizar el valor empresarial a través de una colaboración eficiente entre los equipos de ingeniería, finanzas y operaciones. En Verne Tech, hemos adoptado y desarrollado prácticas de FinOps que ayudan a las organizaciones a tomar decisiones basadas en datos, optimizando sus inversiones y mejorando su eficiencia operativa.
 
@@ -29,7 +29,7 @@ En este artículo, exploraremos el **marco de FinOps** y cómo puede ser aplicad
 
 ## 1. Entendiendo el enfoque de FinOps
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-02.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-02.png){: .css-imagen}
 
 FinOps es un marco de trabajo que busca ayudar a las organizaciones a obtener el máximo valor empresarial de sus inversiones en la nube. Su esencia radica en establecer una **cultura colaborativa** donde los equipos involucrados tomen decisiones basadas en datos, aprovechen los modelos de costes variables de la nube y gestionen eficientemente los recursos.
 
@@ -39,7 +39,7 @@ FinOps es un marco de trabajo que busca ayudar a las organizaciones a obtener el
 
 El ciclo de vida de FinOps se divide en tres fases principales:
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-05.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-05.png){: .css-imagen}
 
 - **Fase 1: Informar**  
   En esta primera etapa, el objetivo es crear visibilidad a través de la recopilación y análisis de datos. Las herramientas y dashboards permiten a los equipos identificar y comprender el uso de los recursos y el gasto asociado.
@@ -52,7 +52,7 @@ El ciclo de vida de FinOps se divide en tres fases principales:
 
 ## 3. Personas y capacidades necesarias para una práctica FinOps exitosa
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-04.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-04.png){: .css-imagen}
 
 Una práctica de FinOps requiere la colaboración de múltiples equipos, desde ingenieros y propietarios de productos hasta finanzas y ejecutivos. Además, se necesitan capacidades como el seguimiento del rendimiento, optimización de tarifas, toma de decisiones en tiempo real y alineación organizacional para garantizar una correcta adopción.
 
@@ -60,7 +60,7 @@ Una práctica de FinOps requiere la colaboración de múltiples equipos, desde i
 
 ## 4. Extender y mejorar la gestión de costes con herramientas en Azure
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-06.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-06.png){: .css-imagen}
 
 Microsoft Azure proporciona múltiples herramientas y APIs para facilitar la gestión de costes en la nube. Desde la integración con Power BI hasta el uso de la CLI de Azure Cost Management, las empresas pueden ampliar sus capacidades de análisis y crear soluciones personalizadas para su entorno.
 
@@ -68,7 +68,7 @@ Microsoft Azure proporciona múltiples herramientas y APIs para facilitar la ges
 
 ## 5. Análisis de Costes con Power BI
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-12.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-12.png){: .css-imagen}
 
 Power BI permite crear paneles de bienvenida con una **visión clara de los costes mensuales, anuales y comparativas entre periodos**. Esta herramienta facilita la visualización detallada de los **costes por suscripción, grupo de recursos y servicio**, permitiendo a los equipos identificar oportunidades de optimización de manera ágil y basada en datos. Los paneles incluyen métricas clave como los **costes acumulados y el crecimiento mensual**, ofreciendo un enfoque integral para el seguimiento y control de la gestión financiera en la nube.
 
@@ -80,7 +80,7 @@ Con Power BI, los equipos pueden monitorizar las tendencias de crecimiento de lo
 
 ## 6. Análisis de Costes con Copilot de Azure
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-13.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-13.png){: .css-imagen}
 
 Cost Management Copilot de Verne Tech actúa como un **asistente inteligente** que proporciona respuestas a preguntas clave sobre la gestión de costes en Azure, ayudando a los equipos a obtener información relevante de manera rápida y eficiente. Con Copilot, se pueden plantear preguntas específicas sobre **costes mensuales**, **propietarios de recursos**, **cumplimiento presupuestario**, y v**ariaciones en el gasto**, obteniendo respuestas detalladas y visualizaciones que permiten tomar decisiones informadas sobre el uso de los recursos y la optimización de `presupuestos`.
 

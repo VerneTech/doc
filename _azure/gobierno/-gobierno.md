@@ -7,5 +7,3 @@ nav_exclude: false
 ---
 
 # Publicaciones recientes de Gobierno
-
-- [Introducción Gobierno en Azure]({{ site.baseurl }}/otros/Intro-Gobierno-Azure)

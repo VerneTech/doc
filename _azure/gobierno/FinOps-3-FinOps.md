@@ -27,7 +27,7 @@ Además, la presentación destaca la importancia de realizar **evaluaciones peri
 
 ## Herramientas para facilitar la gestión de costes en Azure
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-06.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-06.png){: .css-imagen}
 
 La gestión de costes en Azure se ve facilitada por una variedad de **herramientas nativas y de integración**. Azure proporciona funcionalidades como Azure Cost Management, que permite configurar y gestionar presupuestos, así como generar alertas automáticas cuando se detectan excedentes o anomalías. Estas herramientas ofrecen un **enfoque proactivo** para gestionar los costes en la nube.
 
@@ -35,7 +35,7 @@ Sin embargo, para las organizaciones que buscan una mayor personalización y aut
 
 ## Gestión de costes para clientes: Diferentes niveles de madurez
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-08.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-08.png){: .css-imagen}
 
 En Verne Tech, ofrecemos soluciones adaptadas a los diferentes **niveles de madurez** de nuestros clientes en su adopción de FinOps. No todas las organizaciones necesitan aplicar la misma estrategia; algunas requieren un enfoque reactivo mientras que otras ya han avanzado hacia un modelo proactivo de optimización. Para ayudar a nuestros clientes a avanzar en su madurez, proporcionamos **dashboards personalizados** con Power BI que brindan visibilidad detallada de los costes por suscripción, grupo de recursos y tipo de servicio.
 
@@ -43,11 +43,11 @@ Este enfoque permite una **gestión escalonada** y flexible, donde los clientes 
 
 ## Analítica avanzada y optimización continua
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-10.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-10.png){: .css-imagen}
 
 El análisis y la visualización detallada de los costes son componentes esenciales para tomar **decisiones informadas**. Azure permite configurar dashboards que ofrecen una amplia gama de vistas analíticas, como la comparación de periodos, la evolución mensual y la distribución de costes por etiquetas y tipo de recurso. Esta capacidad analítica no solo facilita la identificación de **oportunidades de optimización**, sino que también ayuda a realizar ajustes precisos de manera oportuna.
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-11.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-11.png){: .css-imagen}
 
 Asimismo, se promueve la implementación de políticas de etiquetado para asegurar la **trazabilidad y el control** de los recursos. Estas prácticas garantizan que los equipos puedan monitorizar eficazmente los recursos y ajustar sus estrategias según los resultados obtenidos.
 
