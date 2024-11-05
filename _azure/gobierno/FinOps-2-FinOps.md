@@ -39,7 +39,7 @@ Estas estrategias permiten **mejorar la eficiencia operativa** y reducir los cos
 
 ## Extensibilidad: Potenciando la gestión de costes con herramientas avanzadas
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-06.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-06.png){: .css-imagen}
 
 Una de las ventajas de Azure es su capacidad de **extensibilidad**, que permite a las empresas ampliar sus capacidades de gestión mediante el uso de herramientas avanzadas como **Power BI** y **Azure Cost CLI**. Con Power BI, los usuarios pueden conectar sus datos de gestión de costes de Azure y crear informes y dashboards personalizados. Por otro lado, la CLI de Azure Cost ofrece la posibilidad de generar informes detallados utilizando parámetros específicos como categorías de medidor o grupos de recursos.
 
@@ -47,13 +47,13 @@ Además, la integración con las **APIs REST** de Azure permite automatizar la r
 
 ## Plan de Proyecto FinOps en Verne Tech
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-03.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-03.png){: .css-imagen}
 
 El enfoque de Verne Tech para implementar FinOps sigue un plan estructurado basado en tres fases: **Informar, Optimizar y Operar**. En la primera fase, se crean grupos de trabajo y se definen objetivos claros, estableciendo políticas presupuestarias y herramientas de análisis para crear una base sólida de visibilidad financiera. La segunda fase se centra en **identificar recursos infrautilizados** y aplicar medidas de optimización como el ajuste de tamaño de los recursos y la eliminación de elementos innecesarios. Finalmente, la fase operativa busca implementar y monitorizar políticas de optimización de manera continua, fomentando una cultura de mejora continua y responsabilidad compartida.
 
 ## Gestión de costes para clientes: Diferentes niveles de madurez
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-08.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-08.png){: .css-imagen}
 
 Verne Tech ofrece un enfoque flexible y personalizado según el **nivel de madurez** de cada cliente. No todas las organizaciones requieren el mismo enfoque FinOps; algunas pueden beneficiarse de un modelo más reactivo, mientras que otras necesitan adoptar una **cultura avanzada de FinOps** con un enfoque proactivo. Para ayudar a los clientes a avanzar en sus capacidades, se utilizan herramientas como dashboards de Power BI para proporcionar una visibilidad detallada de los costes por suscripción, grupos de recursos y servicios.
 

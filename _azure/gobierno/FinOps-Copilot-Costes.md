@@ -21,7 +21,7 @@ nav_order: 3
 
 ## Introducción al valor de un Copilot
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-13.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-13.png){: .css-imagen}
 
 Un Copilot, como Azure Costs Management Copilot (ACM Copilot), **simplifica el proceso de seguimiento y control de gastos en la nube** al traducir datos financieros complejos en información clara y comprensible. Esta herramienta **permite a los usuarios interactuar en lenguaje natural**, haciéndole preguntas directas sobre **los gastos, `presupuestos` y uso de recursos**, sin necesidad de un conocimiento técnico profundo ni de navegar por interfaces complicadas. Al utilizar un enfoque conversacional, los equipos pueden tomar decisiones informadas basadas en los datos disponibles de forma rápida y eficiente.
 
@@ -31,7 +31,7 @@ A diferencia del Copilot de Microsoft, el ACM Copilot de Verne Tech hace especia
 
 ## Lo que no es ACM Copilot (v1.0)
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-whatsnot.webp){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-whatsnot.webp){: .css-imagen}
 
 Es importante establecer las expectativas correctas sobre lo que ACM Copilot puede y no puede hacer en su versión actual. Aunque ofrece un soporte valioso para la gestión financiera y el análisis de costes en Azure, **ACM Copilot** tiene ciertas **limitaciones** que los usuarios deben conocer para aprovechar al máximo sus funcionalidades sin expectativas irreales. A continuación, se detallan algunas de estas limitaciones clave:
 
@@ -69,42 +69,42 @@ ACM Copilot permite a los usuarios interactuar en lenguaje natural para obtener 
 
 ### Copilot como instructor de FinOps
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q0.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q0.png){: .css-imagen-full}
 
 ### Copilot como asistente sobre qué preguntar
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q1.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q1.png){: .css-imagen-full}
 
 ### `Subscripciones` más costosas, sus owners, sus `presupuestos`, y sus centros de costes
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q2.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q2.png){: .css-imagen-full}
 
 ### Búsqueda dirigida a subscripción concreta analizando cumplimiento de `presupuesto`
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q3.png){: .css-imagen-full}
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q4.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q3.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q4.png){: .css-imagen-full}
 
 ### Búsqueda de información por `centro de costes`
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q5.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q5.png){: .css-imagen-full}
 
 ### Formateado en tabla
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q6.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q6.png){: .css-imagen-full}
 
 ### Alineación y estilos
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q7.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q7.png){: .css-imagen-full}
 
 ### Busqueda de `owners` con más coste en periodo
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-q8.png){: .css-imagen-full}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-q8.png){: .css-imagen-full}
 
 Estos ejemplos muestran cómo ACM Copilot puede ayudar a los equipos a obtener **información detallada** y a tomar decisiones basadas en datos de una manera intuitiva y eficiente. El modelo es capaz de proporcionar respuestas claras y estructuradas, enfocadas en los costes y el `presupuesto` en la plataforma de Azure.
 
 ## Estructura de las conversaciones
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-qa.webp){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-qa.webp){: .css-imagen}
 
 La estructura de las conversaciones en ACM Copilot está diseñada para proporcionar respuestas precisas y útiles, enfocándose en preguntas bien formuladas y detalles relevantes. Una correcta formulación de preguntas permite identificar patrones de gasto, optimizar el uso de recursos y tomar decisiones informadas de manera rápida y eficiente. Para obtener resultados efectivos, es importante seguir los siguientes principios clave:
 
@@ -122,7 +122,7 @@ Al seguir estos principios, ACM Copilot puede proporcionar una visibilidad detal
 
 ## Trucos para usar ACM Copilot Verne Tech
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-tips.webp){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-tips.webp){: .css-imagen}
 
 Trabajar de manera efectiva con ACM Copilot implica conocer algunos trucos y mejores prácticas que pueden mejorar la precisión y utilidad de las respuestas. Estos consejos se basan en la experiencia de utilizar ACM Copilot y otros asistentes basados en modelos LLM. A continuación, se presentan algunos trucos clave para maximizar el potencial de ACM Copilot:
 
@@ -140,7 +140,7 @@ Además de estos trucos, es importante ajustar correctamente la `temperatura` de
 
 ## Modelo de datos de costes
 
-![Imagen]({{ site.baseurl }}/azure/img/finops/finops-image-14.png){: .css-imagen}
+![Imagen]({{ site.baseurl }}/azure/gobierno/img/finops/image-14.png){: .css-imagen}
 
 El modelo de datos de costes implementado en ACM Copilot de Verne Tech permite una personalización precisa para reflejar las necesidades específicas de cada cliente. Este modelo integra datos tecnológicos de la plataforma Azure junto con información de negocio que se expone principalmente a través de `etiquetas` definidas, como centros de costes, propietarios, y clasificaciones de privacidad. Esta personalización es clave para ofrecer una visibilidad detallada de los gastos y su segmentación. A continuación, se detallan los datasets principales utilizados y sus características:
 
