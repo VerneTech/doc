@@ -28,10 +28,10 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 44 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
-![Week 44]({{ site.baseurl }}/ciber/newsletter/img/44/44-0.jpg){: .css-imagen-cabecera}
+### [¡Semana 45 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 45]({{ site.baseurl }}/ciber/newsletter/img/45/45-0.jpg){: .css-imagen-cabecera}
 
-¡No te pierdas las novedades de esta semana! ¿Sabías que tu móvil puede espiarte o que tu robot aspirador puede ser hackeado para gritar obscenidades? Explora temas críticos como el espionaje ruso, la venta de datos de ubicación que comprometen tu privacidad y la multa millonaria a LinkedIn por violar la GDPR. Además, entérate de una vulnerabilidad crítica en FortiManager y cómo ciberdelincuentes están explotando servicios de chat con IA usando credenciales robadas. ¡Infórmate y mantente seguro!
+Esta semana, Google Cloud introduce la autenticación multifactor obligatoria para mayor protección, mientras que una nueva cepa de malware bancario llamada ToxicPanda amenaza a los usuarios de Android. Además, Google ha emitido una alerta sobre una vulnerabilidad crítica en Android, y una campaña de malware apunta a los desarrolladores de npm. En otros temas, el proyecto Naptime de Google promete innovadoras soluciones para detectar vulnerabilidades en SQLite, y la Interpol acaba de desmantelar más de 22.000 servidores maliciosos. Finalmente, las amenazas cibernéticas a las elecciones de EE. UU. 2024 se intensifican con filtraciones de bases de datos de votantes. ¡No te pierdas los detalles y protege tu seguridad digital!
 
 ## Suscribirse
 
