@@ -19,7 +19,7 @@ Investigadores de ciberseguridad han descubierto una campaña de phishing que di
 
 En el Reino Unido, los estafadores han aprovechado una noticia reciente sobre la reducción de pagos de combustible de invierno para pensionistas, anunciada por el gobierno, para aumentar la efectividad de una campaña de phishing. Esta campaña tiene como objetivo a los ancianos, un grupo particularmente vulnerable, con mensajes de texto que pretenden ser del Departamento de Trabajo y Pensiones (DWP) o del Ministerio del Interior.
 
-## Aumento de ataques cibernéticos en organizaciones gubernamentales y educativas debido a la IA generativa({{ site.baseurl }}/ciber/newsletter/2024-46/#aumento-de-ataques-cibern%C3%A9ticos-en-organizaciones-gubernamentales-y-educativas-debido-a-la-ia-generativa)
+## [Aumento de ataques cibernéticos en organizaciones gubernamentales y educativas debido a la IA generativa]({{ site.baseurl }}/ciber/newsletter/2024-46/#aumento-de-ataques-cibern%C3%A9ticos-en-organizaciones-gubernamentales-y-educativas-debido-a-la-ia-generativa)
 
 En los últimos años, las organizaciones gubernamentales y educativas, también conocidas como SLED (State and Local Government and Education), han sido objetivos frecuentes de ciberataques. Sin embargo, el auge de la inteligencia artificial generativa ha incrementado significativamente estos riesgos. Los atacantes han desarrollado técnicas más sofisticadas, utilizando correos electrónicos falsos y hasta llamadas telefónicas simuladas (deep fakes) para engañar a los empleados y obtener acceso a los sistemas. 
 
