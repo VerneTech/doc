@@ -28,10 +28,12 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 45 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
-![Week 45]({{ site.baseurl }}/ciber/newsletter/img/45/45-0.jpg){: .css-imagen-cabecera}
+### [¡Semana 46 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+![Week 46]({{ site.baseurl }}/ciber/newsletter/img/46/46-0.png){: .css-imagen-cabecera}
 
-Esta semana, Google Cloud introduce la autenticación multifactor obligatoria para mayor protección, mientras que una nueva cepa de malware bancario llamada ToxicPanda amenaza a los usuarios de Android. Además, Google ha emitido una alerta sobre una vulnerabilidad crítica en Android, y una campaña de malware apunta a los desarrolladores de npm. En otros temas, el proyecto Naptime de Google promete innovadoras soluciones para detectar vulnerabilidades en SQLite, y la Interpol acaba de desmantelar más de 22.000 servidores maliciosos. Finalmente, las amenazas cibernéticas a las elecciones de EE. UU. 2024 se intensifican con filtraciones de bases de datos de votantes. ¡No te pierdas los detalles y protege tu seguridad digital!
+En esta edición destacamos el fraude reciente que utiliza **mensajes falsos de la Agencia Estatal de Meteorología (Aemet)** para engañar a los ciudadanos y obtener acceso a sus dispositivos. Además, abordamos el alarmante aumento de **ataques cibernéticos en organizaciones gubernamentales y educativas impulsado por la inteligencia artificial** generativa, un fenómeno que ha elevado significativamente los riesgos de seguridad para estos sectores.
+
+Otros temas relevantes incluyen un **exploit en Excel que propaga el malware Remcos RAT**, una campaña de phishing dirigida a pensionistas en el Reino Unido y una vulnerabilidad crítica en software de videoconferencia que afecta las comunicaciones de numerosas empresas. No te pierdas estos reportes y toma medidas proactivas para proteger tus sistemas ante estas amenazas.
 
 ## Suscribirse
 

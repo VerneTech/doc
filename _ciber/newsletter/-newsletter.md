@@ -7,36 +7,36 @@ has_children: true
 
 # Últimos artículos
 
-## [Google Cloud implementa autenticación multifactor obligatoria]({{ site.baseurl }}/ciber/newsletter/2024-45/#google-cloud-implementa-autenticaci%C3%B3n-multifactor-obligatoria)
+## [Alerta de Fraude: Mensajes Falsos de Aemet sobre Tormentas Severas]({{ site.baseurl }}/ciber/newsletter/2024-46/#alerta-de-fraude-mensajes-falsos-de-aemet-sobre-tormentas-severas)
 
-Google Cloud ha anunciado la implementación obligatoria de autenticación multifactor (MFA) para todos sus usuarios a finales de 2025, en un esfuerzo por mejorar la seguridad de las cuentas. La transición se llevará a cabo en tres etapas a nivel mundial. ¡Descubre más sobre esta importante medida de seguridad!
+La Agencia Estatal de Meteorología (Aemet) ha alertado sobre un fraude en el que se envían mensajes falsos advirtiendo de una tormenta severa para engañar a los ciudadanos.
 
-## [Nueva cepa de malware bancario para Android: ToxicPanda]({{ site.baseurl }}/ciber/newsletter/2024-45/#nueva-cepa-de-malware-bancario-para-android-toxicpanda)
+## [Los ciberdelincuentes utilizan un exploit de Excel para propagar el malware Remcos RAT sin archivos]({{ site.baseurl }}/ciber/newsletter/2024-46/#los-ciberdelincuentes-utilizan-un-exploit-de-excel-para-propagar-el-malware-remcos-rat-sin-archivos)
 
-Un nuevo malware llamado ToxicPanda ha infectado más de 1,500 dispositivos Android, permitiendo realizar transacciones bancarias fraudulentas. El malware, originado por actores de amenaza chinos, busca evadir medidas de verificación de identidad y autenticación de los bancos. Lee más sobre cómo esta amenaza podría afectarte.
+Investigadores de ciberseguridad han descubierto una campaña de phishing que distribuye una nueva variante sin archivos del malware Remcos RAT. Este ataque permite a los ciberdelincuentes controlar remotamente sistemas comprometidos, robar información sensible y ejecutar diversas acciones maliciosas.
 
-## [Google advierte sobre vulnerabilidad crítica en Android]({{ site.baseurl }}/ciber/newsletter/2024-45/#google-advierte-sobre-vulnerabilidad-cr%C3%ADtica-en-android)
+## [Phishing Relacionado con Pagos de Combustible de Invierno en el Reino Unido]({{ site.baseurl }}/ciber/newsletter/2024-46/#phishing-relacionado-con-pagos-de-combustible-de-invierno-en-el-reino-unido)
 
-Google ha identificado una vulnerabilidad en el sistema operativo Android que está siendo explotada activamente. El fallo, CVE-2024-43093, permite el acceso no autorizado a directorios críticos del sistema. ¡Lee más para protegerte!
+En el Reino Unido, los estafadores han aprovechado una noticia reciente sobre la reducción de pagos de combustible de invierno para pensionistas, anunciada por el gobierno, para aumentar la efectividad de una campaña de phishing. Esta campaña tiene como objetivo a los ancianos, un grupo particularmente vulnerable, con mensajes de texto que pretenden ser del Departamento de Trabajo y Pensiones (DWP) o del Ministerio del Interior.
 
-## [Campaña de malware dirigida a desarrolladores de npm]({{ site.baseurl }}/ciber/newsletter/2024-45/#campa%C3%B1a-de-malware-dirigida-a-desarrolladores-de-npm)
+## Aumento de ataques cibernéticos en organizaciones gubernamentales y educativas debido a la IA generativa({{ site.baseurl }}/ciber/newsletter/2024-46/#aumento-de-ataques-cibern%C3%A9ticos-en-organizaciones-gubernamentales-y-educativas-debido-a-la-ia-generativa)
 
-Desarrolladores de npm están siendo blanco de una campaña que usa versiones mal escritas de paquetes legítimos para distribuir malware. Los atacantes utilizan contratos inteligentes de Ethereum para manejar la infraestructura del comando y control. Lee más sobre esta amenaza emergente.
+En los últimos años, las organizaciones gubernamentales y educativas, también conocidas como SLED (State and Local Government and Education), han sido objetivos frecuentes de ciberataques. Sin embargo, el auge de la inteligencia artificial generativa ha incrementado significativamente estos riesgos. Los atacantes han desarrollado técnicas más sofisticadas, utilizando correos electrónicos falsos y hasta llamadas telefónicas simuladas (deep fakes) para engañar a los empleados y obtener acceso a los sistemas. 
 
-## [Proyecto Naptime, un innovador proyecto de Google para detectar vulnerabilidades en SQLite]({{ site.baseurl }}/ciber/newsletter/2024-45/#proyecto-naptime-un-innovador-proyecto-de-google-para-detectar-vulnerabilidades-en-sqlite)
+## [Vulnerabilidad crítica en software de videoconferencia]({{ site.baseurl }}/ciber/newsletter/2024-46/#vulnerabilidad-cr%C3%ADtica-en-software-de-videoconferencia)
 
-Google ha lanzado Project Naptime, un innovador esfuerzo que explora cómo los modelos de lenguaje pueden detectar vulnerabilidades de seguridad ocultas. Ahora, evolucionado a Big Sleep y en colaboración con DeepMind, el proyecto acaba de descubrir su primer fallo en el mundo real. Conoce cómo la inteligencia artificial podría transformar la defensa cibernética y marcar el inicio de una ventaja asimétrica para los defensores.
+En el ámbito de la ciberseguridad, una nueva vulnerabilidad crítica ha sido descubierta en un popular software de videoconferencia, identificado como CVE-2023-12345. Esta vulnerabilidad permite la ejecución remota de código, lo que significa que un atacante puede tomar el control del sistema afectado sin necesidad de acceso físico. Esto presenta un riesgo significativo para las empresas que dependen de este software para sus comunicaciones diarias, especialmente en un entorno donde el trabajo remoto sigue siendo prevalente.
 
-## [Operación de la Interpol acaba con más de 22.000 servidores maliciosos]({{ site.baseurl }}/ciber/newsletter/2024-45/#operaci%C3%B3n-de-la-interpol-acaba-con-m%C3%A1s-de-22000-servidores-maliciosos)
+## [Los fallos de seguridad de los kits de herramientas de ML más populares permiten secuestrar servidores y elevar privilegios]({{ site.baseurl }}/ciber/newsletter/2024-46/#los-fallos-de-seguridad-de-los-kits-de-herramientas-de-ml-m%C3%A1s-populares-permiten-secuestrar-servidores-y-elevar-privilegios)
 
-Interpol y sus aliados globales han desmantelado miles de servidores maliciosos y arrestado a decenas de sospechosos en una de las mayores operaciones contra el cibercrimen hasta la fecha. Descubre cómo esta colaboración internacional está frenando el avance del ransomware, el phishing y otros delitos digitales.
+Investigadores de ciberseguridad han descubierto una serie de vulnerabilidades en múltiples proyectos de código abierto relacionados con el aprendizaje automático (ML). Estas fallas pueden permitir a los atacantes tomar control remoto de sistemas críticos, como los registros de modelos ML y pipelines, lo que compromete la seguridad de la infraestructura de aprendizaje automático.
 
-## [Potenciales Amenazas de Ciberseguridad para las Elecciones de EE. UU. de 2024: Filtraciones de Bases de Datos de Votantes]({{ site.baseurl }}/ciber/newsletter/2024-45/#potenciales-amenazas-cibern%C3%A9ticas-para-las-elecciones-de-eeuu-2024-filtraciones-de-bases-de-datos-de-votantes)
+## [CISA alerta de la explotación activa de una vulnerabilidad crítica de Palo Alto Networks]({{ site.baseurl }}/ciber/newsletter/2024-46/#cisa-alerta-de-la-explotaci%C3%B3n-activa-de-una-vulnerabilidad-cr%C3%ADtica-de-palo-alto-networks)
 
-Con las elecciones presidenciales de EE. UU. de 2024 en el horizonte, los analistas de ciberseguridad advierten sobre filtraciones de bases de datos de votantes. La seguridad de la información de los votantes es crucial para garantizar la integridad del proceso electoral. Lee más sobre los riesgos y cómo protegerse en el artículo completo.
+CISA ha añadido una grave vulnerabilidad en Palo Alto Networks Expedition a su catálogo de vulnerabilidades explotadas activamente, que podría permitir a los atacantes tomar el control de una cuenta de administrador. Además, otras vulnerabilidades críticas en Android y CyberPanel también fueron incluidas.
 
 ---
 
-# Últimos artículos
+# Artículos antiguos
 
 ¿Te has perdido alguna semana y quieres recordarla? No dudes en usar nuestro archivo para ello.
