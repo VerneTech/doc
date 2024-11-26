@@ -19,7 +19,7 @@ Esperamos que disfrutes de esta edición y encuentres útil la información prop
 
 No te pierdas nuestras secciones:
 
-- [Artículos de ciberseguridad]({{ site.baseurl }}ciber/newsletter/)
+- [Artículos]({{ site.baseurl }}ciber/newsletter/)
 - [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
 
 ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
@@ -28,12 +28,15 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 46 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
-![Week 46]({{ site.baseurl }}/ciber/newsletter/img/46/46-0.png){: .css-imagen-cabecera}
+### [¡Semana 48 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-En esta edición destacamos el fraude reciente que utiliza **mensajes falsos de la Agencia Estatal de Meteorología (Aemet)** para engañar a los ciudadanos y obtener acceso a sus dispositivos. Además, abordamos el alarmante aumento de **ataques cibernéticos en organizaciones gubernamentales y educativas impulsado por la inteligencia artificial** generativa, un fenómeno que ha elevado significativamente los riesgos de seguridad para estos sectores.
+![Week 48]({{ site.baseurl }}/ciber/newsletter/img/48/48-0.png){: .css-imagen-cabecera}
 
-Otros temas relevantes incluyen un **exploit en Excel que propaga el malware Remcos RAT**, una campaña de phishing dirigida a pensionistas en el Reino Unido y una vulnerabilidad crítica en software de videoconferencia que afecta las comunicaciones de numerosas empresas. No te pierdas estos reportes y toma medidas proactivas para proteger tus sistemas ante estas amenazas.
+En esta edición de nuestra newsletter, abordamos una serie de temas cruciales que afectan la seguridad digital en diferentes sectores. Comenzamos con la evolución de los ataques de **phishing**, que ahora emplean técnicas avanzadas de evasión y personalización, utilizando herramientas como inteligencia artificial. También analizamos las operaciones del grupo **Storm-2077**, vinculado a China, que emplea tácticas de ciberespionaje sofisticadas y manipulación informativa a través de sitios de noticias falsas. 
+
+Además, exploramos los puntos ciegos de la **ciberseguridad en herramientas IaC y PaC**, con un enfoque en las vulnerabilidades descubiertas en herramientas como Terraform y OPA. No menos importante, informamos sobre la redada contra el grupo **Scattered Spider**, acusado de fraude electrónico y ataques de phishing. 
+
+También cubrimos los **parches críticos de Microsoft**, las crecientes amenazas cibernéticas que exigen un enfoque integral de seguridad empresarial y el robo de **250.000 US$** en iLearningEngines debido a un compromiso de correos electrónicos. Mantente informado y toma las medidas adecuadas para proteger tus sistemas ante estos riesgos.
 
 ## Suscribirse
 

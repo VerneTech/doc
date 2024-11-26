@@ -7,33 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Alerta de Fraude: Mensajes Falsos de Aemet sobre Tormentas Severas]({{ site.baseurl }}/ciber/newsletter/2024-46/#alerta-de-fraude-mensajes-falsos-de-aemet-sobre-tormentas-severas)
+## [Técnicas de evasión de la seguridad]({{ site.baseurl }}/ciber/newsletter/2024-48/#t%C3%A9cnicas-de-evasi%C3%B3n-de-la-seguridad)
 
-La Agencia Estatal de Meteorología (Aemet) ha alertado sobre un fraude en el que se envían mensajes falsos advirtiendo de una tormenta severa para engañar a los ciudadanos.
+Los ataques de phishing han evolucionado de métodos simples a técnicas sofisticadas que emplean anti-detección, personalización de entornos de víctima y herramientas avanzadas como inteligencia artificial y redes descentralizadas. Esta evolución resalta el dinámico juego de adaptación entre atacantes y defensores.
 
-## [Los ciberdelincuentes utilizan un exploit de Excel para propagar el malware Remcos RAT sin archivos]({{ site.baseurl }}/ciber/newsletter/2024-46/#los-ciberdelincuentes-utilizan-un-exploit-de-excel-para-propagar-el-malware-remcos-rat-sin-archivos)
+## [Red de sitios de noticias falsas con influencia prochina]({{ site.baseurl }}/ciber/newsletter/2024-48/#red-de-sitios-de-noticias-falsas-con-influencia-prochina)
 
-Investigadores de ciberseguridad han descubierto una campaña de phishing que distribuye una nueva variante sin archivos del malware Remcos RAT. Este ataque permite a los ciberdelincuentes controlar remotamente sistemas comprometidos, robar información sensible y ejecutar diversas acciones maliciosas.
+El grupo Storm-2077, vinculado a China, emplea tácticas avanzadas de ciberespionaje como explotación de vulnerabilidades y robo de credenciales en la nube. Además, la operación GLASSBRIDGE utiliza sitios de noticias falsas para difundir propaganda pro-China, demostrando un enfoque sofisticado en ciberseguridad y manipulación informativa.
 
-## [Phishing Relacionado con Pagos de Combustible de Invierno en el Reino Unido]({{ site.baseurl }}/ciber/newsletter/2024-46/#phishing-relacionado-con-pagos-de-combustible-de-invierno-en-el-reino-unido)
+## [Los puntos ciegos de ciberseguridad en las herramientas IaC y PaC]({{ site.baseurl }}/ciber/newsletter/2024-48/#los-puntos-ciegos-de-ciberseguridad-en-las-herramientas-iac-y-pac)
 
-En el Reino Unido, los estafadores han aprovechado una noticia reciente sobre la reducción de pagos de combustible de invierno para pensionistas, anunciada por el gobierno, para aumentar la efectividad de una campaña de phishing. Esta campaña tiene como objetivo a los ancianos, un grupo particularmente vulnerable, con mensajes de texto que pretenden ser del Departamento de Trabajo y Pensiones (DWP) o del Ministerio del Interior.
+Investigadores de Tenable descubrieron dos métodos para atacar herramientas como Terraform y OPA, explotando lenguajes específicos de dominio (DSL). Las vulnerabilidades incluyen la exfiltración de datos con túneles DNS y el abuso del comando "terraform plan" en CI/CD. Mitigaciones como RBAC, monitoreo y herramientas de escaneo ayudan a reducir riesgos.
 
-## [Aumento de ataques cibernéticos en organizaciones gubernamentales y educativas debido a la IA generativa]({{ site.baseurl }}/ciber/newsletter/2024-46/#aumento-de-ataques-cibern%C3%A9ticos-en-organizaciones-gubernamentales-y-educativas-debido-a-la-ia-generativa)
+## [Los federales acusan a cinco hombres en la redada de la "araña dispersa"]({{ site.baseurl }}/ciber/newsletter/2024-48/#los-federales-acusan-a-cinco-hombres-en-la-redada-de-la-ara%C3%B1a-dispersa)
 
-En los últimos años, las organizaciones gubernamentales y educativas, también conocidas como SLED (State and Local Government and Education), han sido objetivos frecuentes de ciberataques. Sin embargo, el auge de la inteligencia artificial generativa ha incrementado significativamente estos riesgos. Los atacantes han desarrollado técnicas más sofisticadas, utilizando correos electrónicos falsos y hasta llamadas telefónicas simuladas (deep fakes) para engañar a los empleados y obtener acceso a los sistemas. 
+Cinco presuntos miembros del grupo Scattered Spider enfrentan cargos por ataques de phishing por SMS y fraude electrónico que afectaron empresas como Twilio y MGM Resorts. Los ataques buscaban credenciales para robar criptomonedas, empleando técnicas como SIM-swapping y herramientas de Telegram.
 
-## [Vulnerabilidad crítica en software de videoconferencia]({{ site.baseurl }}/ciber/newsletter/2024-46/#vulnerabilidad-cr%C3%ADtica-en-software-de-videoconferencia)
+## [Martes de parches de Microsoft]({{ site.baseurl }}/ciber/newsletter/2024-48/#martes-de-parches-de-microsoft)
 
-En el ámbito de la ciberseguridad, una nueva vulnerabilidad crítica ha sido descubierta en un popular software de videoconferencia, identificado como CVE-2023-12345. Esta vulnerabilidad permite la ejecución remota de código, lo que significa que un atacante puede tomar el control del sistema afectado sin necesidad de acceso físico. Esto presenta un riesgo significativo para las empresas que dependen de este software para sus comunicaciones diarias, especialmente en un entorno donde el trabajo remoto sigue siendo prevalente.
+Microsoft publicó parches para 89 vulnerabilidades, incluidas dos de día cero activamente explotadas (elevación de privilegios y exfiltración de hashes NTLM). Entre los fallos críticos se encuentran vulnerabilidades en Kerberos, .NET y SQL Server. Administradores deben actualizar rápidamente para mitigar riesgos.
 
-## [Los fallos de seguridad de los kits de herramientas de ML más populares permiten secuestrar servidores y elevar privilegios]({{ site.baseurl }}/ciber/newsletter/2024-46/#los-fallos-de-seguridad-de-los-kits-de-herramientas-de-ml-m%C3%A1s-populares-permiten-secuestrar-servidores-y-elevar-privilegios)
+## [Ciberseguridad: La amenaza crece, tu protección también debe hacerlo.]({{ site.baseurl }}/ciber/newsletter/2024-48/#ciberseguridad-la-amenaza-crece-tu-protecci%C3%B3n-tambi%C3%A9n-debe-hacerlo)
 
-Investigadores de ciberseguridad han descubierto una serie de vulnerabilidades en múltiples proyectos de código abierto relacionados con el aprendizaje automático (ML). Estas fallas pueden permitir a los atacantes tomar control remoto de sistemas críticos, como los registros de modelos ML y pipelines, lo que compromete la seguridad de la infraestructura de aprendizaje automático.
+Las empresas deben tratar la ciberseguridad como una prioridad estratégica, con liderazgo desde la alta dirección, el respaldo de un CISO competente y la adopción de marcos como NIST CSF 2.0. Enfrentando amenazas cada vez más sofisticadas, la ciberseguridad debe ser una responsabilidad de toda la organización, no solo del equipo de TI.
 
-## [CISA alerta de la explotación activa de una vulnerabilidad crítica de Palo Alto Networks]({{ site.baseurl }}/ciber/newsletter/2024-46/#cisa-alerta-de-la-explotaci%C3%B3n-activa-de-una-vulnerabilidad-cr%C3%ADtica-de-palo-alto-networks)
+## [Robo por correo electrónico en iLearningEngines]({{ site.baseurl }}/ciber/newsletter/2024-48/#robo-por-correo-electr%C3%B3nico-en-ilearningengines)
 
-CISA ha añadido una grave vulnerabilidad en Palo Alto Networks Expedition a su catálogo de vulnerabilidades explotadas activamente, que podría permitir a los atacantes tomar el control de una cuenta de administrador. Además, otras vulnerabilidades críticas en Android y CyberPanel también fueron incluidas.
+iLearningEngines, empresa especializada en IA, sufrió un robo de 250.000 US$ tras un compromiso de correos electrónicos, que permitió a los atacantes redirigir un pago de la compañía. El incidente ha sido investigado con la ayuda de firmas de seguridad externas, y la empresa trabaja en reforzar su ciberseguridad.
 
 ---
 
