@@ -28,15 +28,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 48 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 49 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 48]({{ site.baseurl }}/ciber/newsletter/img/48/48-0.png){: .css-imagen-cabecera}
+![Week 49]({{ site.baseurl }}/ciber/newsletter/img/49/49-0.png){: .css-imagen-cabecera}
 
-En esta edición de nuestra newsletter, abordamos una serie de temas cruciales que afectan la seguridad digital en diferentes sectores. Comenzamos con la evolución de los ataques de **phishing**, que ahora emplean técnicas avanzadas de evasión y personalización, utilizando herramientas como inteligencia artificial. También analizamos las operaciones del grupo **Storm-2077**, vinculado a China, que emplea tácticas de ciberespionaje sofisticadas y manipulación informativa a través de sitios de noticias falsas. 
-
-Además, exploramos los puntos ciegos de la **ciberseguridad en herramientas IaC y PaC**, con un enfoque en las vulnerabilidades descubiertas en herramientas como Terraform y OPA. No menos importante, informamos sobre la redada contra el grupo **Scattered Spider**, acusado de fraude electrónico y ataques de phishing. 
-
-También cubrimos los **parches críticos de Microsoft**, las crecientes amenazas cibernéticas que exigen un enfoque integral de seguridad empresarial y el robo de **250.000 US$** en iLearningEngines debido a un compromiso de correos electrónicos. Mantente informado y toma las medidas adecuadas para proteger tus sistemas ante estos riesgos.
+¡Ya tienes la semana 49 de noticias de ciberseguridad! Esta vez, abordamos temas críticos como el ataque de **Rockstar 2FA**, un peligroso phishing-as-a-service que compromete usuarios con autenticación multifactor en Microsoft 365, y las **fallas críticas de seguridad** que Microsoft acaba de solucionar en sus plataformas más importantes. Además, te contamos todo sobre el impacto de los **Secure Web Gateways** en estrategias de seguridad en la nube, cómo prevenir ataques de **vishing** (phishing por voz) y el descubrimiento de un **bootkit UEFI** para Linux que amenaza sistemas con Secure Boot. También, no te pierdas las vulnerabilidades críticas en un plugin de WordPress que afectó a más de 200,000 sitios web y una nueva **operación de desinformación rusa** que utiliza IA para dividir a Occidente. ¡No te lo pierdas!
 
 ## Suscribirse
 

@@ -7,33 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Técnicas de evasión de la seguridad]({{ site.baseurl }}/ciber/newsletter/2024-48/#t%C3%A9cnicas-de-evasi%C3%B3n-de-la-seguridad)
+## ["Rockstar 2fa" phishing-as-a-service ataca a usuarios de Microsoft 365 con técnicas AITM]({{ site.baseurl }}/ciber/newsletter/2024-49/#rockstar-2fa-phishing-as-a-service-ataca-a-usuarios-de-microsoft-365-con-t%C3%A9cnicas-aitm)
 
-Los ataques de phishing han evolucionado de métodos simples a técnicas sofisticadas que emplean anti-detección, personalización de entornos de víctima y herramientas avanzadas como inteligencia artificial y redes descentralizadas. Esta evolución resalta el dinámico juego de adaptación entre atacantes y defensores.
+Investigadores han identificado Rockstar 2FA, un nuevo kit de Phishing-as-a-Service que compromete incluso a usuarios con autenticación multifactor, permitiendo a ciberdelincuentes robar credenciales de Microsoft 365. Usando tácticas avanzadas como ataques adversario-en-el-medio y técnicas de evasión con servicios legítimos, representa una amenaza significativa en la ciberseguridad actual.
 
-## [Red de sitios de noticias falsas con influencia prochina]({{ site.baseurl }}/ciber/newsletter/2024-48/#red-de-sitios-de-noticias-falsas-con-influencia-prochina)
+## [Microsoft repara fallos críticos de seguridad: ai, cloud y Dynamics 365]({{ site.baseurl }}/ciber/newsletter/2024-49/#microsoft-repara-fallos-cr%C3%ADticos-de-seguridad-ai-cloud-y-dynamics-365-en-la-mira)
 
-El grupo Storm-2077, vinculado a China, emplea tácticas avanzadas de ciberespionaje como explotación de vulnerabilidades y robo de credenciales en la nube. Además, la operación GLASSBRIDGE utiliza sitios de noticias falsas para difundir propaganda pro-China, demostrando un enfoque sofisticado en ciberseguridad y manipulación informativa.
+Microsoft ha solucionado cuatro fallas de seguridad críticas, incluyendo una explotada activamente (CVE-2024-49035), que afecta a su IA, nube, ERP y servicios de Partner Center. Las soluciones incluyen parches para Dynamics 365, Copilot Studio y Azure PolicyWatch. Actualizaciones automáticas ya están disponibles.
 
-## [Los puntos ciegos de ciberseguridad en las herramientas IaC y PaC]({{ site.baseurl }}/ciber/newsletter/2024-48/#los-puntos-ciegos-de-ciberseguridad-en-las-herramientas-iac-y-pac)
+## [SWG y Zero Trust: Claves para la Seguridad en la nube y entornos descentralizados]({{ site.baseurl }}/ciber/newsletter/2024-49/#swg-y-zero-trust-claves-para-la-seguridad-en-la-nube-y-entornos-descentralizados)
 
-Investigadores de Tenable descubrieron dos métodos para atacar herramientas como Terraform y OPA, explotando lenguajes específicos de dominio (DSL). Las vulnerabilidades incluyen la exfiltración de datos con túneles DNS y el abuso del comando "terraform plan" en CI/CD. Mitigaciones como RBAC, monitoreo y herramientas de escaneo ayudan a reducir riesgos.
+Los Secure Web Gateways (SWG) son esenciales en estrategias de ciberseguridad como Zero Trust y SASE. Ofrecen protección avanzada contra amenazas, filtrado web y prevención de fugas de datos en entornos descentralizados y en la nube. Su implementación efectiva requiere evaluación, planificación y actualizaciones constantes.
 
-## [Los federales acusan a cinco hombres en la redada de la "araña dispersa"]({{ site.baseurl }}/ciber/newsletter/2024-48/#los-federales-acusan-a-cinco-hombres-en-la-redada-de-la-ara%C3%B1a-dispersa)
+## [Ataques de phishing por voz: Cómo prevenirlos y responder a ellos]({{ site.baseurl }}/ciber/newsletter/2024-49/#ataques-de-phishing-por-voz-c%C3%B3mo-prevenirlos-y-responder-a-ellos)
 
-Cinco presuntos miembros del grupo Scattered Spider enfrentan cargos por ataques de phishing por SMS y fraude electrónico que afectaron empresas como Twilio y MGM Resorts. Los ataques buscaban credenciales para robar criptomonedas, empleando técnicas como SIM-swapping y herramientas de Telegram.
+El vishing es un fraude que utiliza llamadas telefónicas para obtener información personal y financiera, engañando a las víctimas mediante tácticas de ingeniería social. Las estafas comunes incluyen suplantación de bancos, ofertas de préstamos, fraudes de impuestos y más. Es crucial estar alerta y seguir medidas de prevención como verificar siempre la identidad del llamante y no compartir datos sensibles por teléfono.
 
-## [Martes de parches de Microsoft]({{ site.baseurl }}/ciber/newsletter/2024-48/#martes-de-parches-de-microsoft)
+## [Revelan el primer bootkit uefi para linux: Bootkitty y su impacto en la ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-49/#revelan-el-primer-bootkit-uefi-para-linux-bootkitty-y-su-impacto-en-la-ciberseguridad)
 
-Microsoft publicó parches para 89 vulnerabilidades, incluidas dos de día cero activamente explotadas (elevación de privilegios y exfiltración de hashes NTLM). Entre los fallos críticos se encuentran vulnerabilidades en Kerberos, .NET y SQL Server. Administradores deben actualizar rápidamente para mitigar riesgos.
+Se ha descubierto el primer bootkit UEFI diseñado para infectar sistemas Linux, conocido como Bootkitty. Este malware tiene como objetivo eludir las protecciones de Secure Boot y cargar módulos maliciosos en el kernel de Linux. La vulnerabilidad utilizada está vinculada al fallo LogoFAIL (CVE-2023-40238), que afecta a dispositivos de marcas como Acer, HP y Lenovo, lo que subraya la importancia de estar atentos a futuras amenazas en el ámbito de los bootkits UEFI.
 
-## [Ciberseguridad: La amenaza crece, tu protección también debe hacerlo.]({{ site.baseurl }}/ciber/newsletter/2024-48/#ciberseguridad-la-amenaza-crece-tu-protecci%C3%B3n-tambi%C3%A9n-debe-hacerlo)
+## [Un fallo crítico en un plugin antispam de WordPress expone a más de 200.000 sitios web a ataques remotos]({{ site.baseurl }}/ciber/newsletter/2024-49/#un-fallo-cr%C3%ADtico-en-un-plugin-antispam-de-wordpress-expone-a-m%C3%A1s-de-200000-sitios-web-a-ataques-remotos)
 
-Las empresas deben tratar la ciberseguridad como una prioridad estratégica, con liderazgo desde la alta dirección, el respaldo de un CISO competente y la adopción de marcos como NIST CSF 2.0. Enfrentando amenazas cada vez más sofisticadas, la ciberseguridad debe ser una responsabilidad de toda la organización, no solo del equipo de TI.
+Dos vulnerabilidades críticas en el plugin Spam protection, Anti-Spam, FireWall para WordPress podrían permitir a un atacante no autenticado instalar plugins maliciosos y ejecutar código de manera remota. Los fallos, CVE-2024-10542 y CVE-2024-10781, afectan a más de 200,000 sitios, y fueron corregidos en las versiones 6.44 y 6.45. Es crucial actualizar el plugin para evitar estos riesgos.
 
-## [Robo por correo electrónico en iLearningEngines]({{ site.baseurl }}/ciber/newsletter/2024-48/#robo-por-correo-electr%C3%B3nico-en-ilearningengines)
+## [Operación Undercut: Campaña de desinformación Rusa usando IA y falsificación de noticias para desestabilizar el apoyo a Ucrania]({{ site.baseurl }}/ciber/newsletter/2024-49/#operaci%C3%B3n-undercut-campa%C3%B1a-de-desinformaci%C3%B3n-rusa-usando-ia-y-falsificaci%C3%B3n-de-noticias-para-desestabilizar-el-apoyo-a-ucrania)
 
-iLearningEngines, empresa especializada en IA, sufrió un robo de 250.000 US$ tras un compromiso de correos electrónicos, que permitió a los atacantes redirigir un pago de la compañía. El incidente ha sido investigado con la ayuda de firmas de seguridad externas, y la empresa trabaja en reforzar su ciberseguridad.
+La Social Design Agency (SDA) ha sido vinculada a la Operación Undercut, una campaña de desinformación que utiliza IA y sitios web falsificados para socavar el apoyo a Ucrania y generar divisiones en Occidente. La campaña busca desacreditar al liderazgo ucraniano y reducir el apoyo militar de los países occidentales. Además, APT28 ha sido observado utilizando una técnica de ataque basada en la proximidad para comprometer redes Wi-Fi de empresas.
 
 ---
 
