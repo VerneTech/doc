@@ -8,5 +8,5 @@ gem "just-the-docs"        # always download the latest release
 
 ## cambiado para tener soporte de este error: https://github.com/jekyll/jekyll/issues/9686
 #### y ejecutar bundle update para actualizar las gemas
-gem "sass-embedded", "~> 1.81.0"
+gem "sass-embedded", "~> 1.82.0"
 
