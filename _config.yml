@@ -22,7 +22,7 @@ collections:
   azure:
     permalink: "/:collection/:path/"
     output: true
-  data:
+  azure-data:
     permalink: "/:collection/:path/"
     output: true
   otros:
@@ -40,9 +40,12 @@ just_the_docs:
     azure:
       name: Azure
       expanded: true
-    data:
-      name: Data
+    azure-data:
+      name: Azure Data
       expanded: true
+    varios:
+      name: Varios
+      expanded: false
 
 callouts_level: quiet # or loud
 callouts:
