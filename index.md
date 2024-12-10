@@ -28,11 +28,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 49 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 50 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 49]({{ site.baseurl }}/ciber/newsletter/img/49/49-0.png){: .css-imagen-cabecera}
+![Week 50]({{ site.baseurl }}/ciber/newsletter/img/50/50-0.png){: .css-imagen-cabecera}
 
-¡Ya tienes la semana 49 de noticias de ciberseguridad! Esta vez, abordamos temas críticos como el ataque de **Rockstar 2FA**, un peligroso phishing-as-a-service que compromete usuarios con autenticación multifactor en Microsoft 365, y las **fallas críticas de seguridad** que Microsoft acaba de solucionar en sus plataformas más importantes. Además, te contamos todo sobre el impacto de los **Secure Web Gateways** en estrategias de seguridad en la nube, cómo prevenir ataques de **vishing** (phishing por voz) y el descubrimiento de un **bootkit UEFI** para Linux que amenaza sistemas con Secure Boot. También, no te pierdas las vulnerabilidades críticas en un plugin de WordPress que afectó a más de 200,000 sitios web y una nueva **operación de desinformación rusa** que utiliza IA para dividir a Occidente. ¡No te lo pierdas!
+La ciberseguridad sigue evolucionando frente a amenazas cada vez más complejas y sofisticadas. Desde la gestión de identidades no humanas hasta los recientes ataques a la cadena de suministro de software, la seguridad digital requiere enfoques innovadores y herramientas avanzadas. En este sentido, la legislación sobre inteligencia artificial de la Unión Europea marca un hito importante al establecer un marco claro para su regulación. A medida que las organizaciones adoptan tecnologías más complejas, como la computación en la nube y la IA, es crucial replantear las estrategias de defensa, centrándose en los datos para enfrentar las amenazas emergentes. Los ciberataques más destacados de 2024 ofrecen valiosas lecciones que deben ser tomadas en cuenta para fortalecer la ciberseguridad en todos los niveles. **Es hora de revisar y reforzar las estrategias de seguridad para proteger su organización frente a estos riesgos en constante cambio.**
 
 ## Suscribirse
 

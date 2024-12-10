@@ -7,33 +7,29 @@ has_children: true
 
 # Últimos artículos
 
-## ["Rockstar 2fa" phishing-as-a-service ataca a usuarios de Microsoft 365 con técnicas AITM]({{ site.baseurl }}/ciber/newsletter/2024-49/#rockstar-2fa-phishing-as-a-service-ataca-a-usuarios-de-microsoft-365-con-t%C3%A9cnicas-aitm)
+## [Comprendiendo las Identidades No Humanas en la Ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-50/#comprendiendo-las-identidades-no-humanas-en-la-ciberseguridad)
 
-Investigadores han identificado Rockstar 2FA, un nuevo kit de Phishing-as-a-Service que compromete incluso a usuarios con autenticación multifactor, permitiendo a ciberdelincuentes robar credenciales de Microsoft 365. Usando tácticas avanzadas como ataques adversario-en-el-medio y técnicas de evasión con servicios legítimos, representa una amenaza significativa en la ciberseguridad actual.
+La gestión de Identidades No Humanas (NHIs) es clave para proteger los entornos digitales modernos. Este artículo explora cómo los enfoques integrales, la automatización y la IA fortalecen la seguridad y optimizan la colaboración entre equipos.
 
-## [Microsoft repara fallos críticos de seguridad: ai, cloud y Dynamics 365]({{ site.baseurl }}/ciber/newsletter/2024-49/#microsoft-repara-fallos-cr%C3%ADticos-de-seguridad-ai-cloud-y-dynamics-365-en-la-mira)
+## [Compromiso en la Biblioteca Ultralytics AI: Un Ataque a la Cadena de Suministro de Software]({{ site.baseurl }}/ciber/newsletter/2024-50/#compromiso-en-la-biblioteca-ultralytics-ai-un-ataque-a-la-cadena-de-suministro-de-software)
 
-Microsoft ha solucionado cuatro fallas de seguridad críticas, incluyendo una explotada activamente (CVE-2024-49035), que afecta a su IA, nube, ERP y servicios de Partner Center. Las soluciones incluyen parches para Dynamics 365, Copilot Studio y Azure PolicyWatch. Actualizaciones automáticas ya están disponibles.
+La reciente brecha en la biblioteca Ultralytics AI resalta los crecientes riesgos en la seguridad de la cadena de suministro de software. Este incidente pone de manifiesto cómo vulnerabilidades en herramientas como GitHub Actions pueden ser explotadas para insertar código malicioso, afectando a miles de usuarios y ampliando la necesidad de adoptar controles más estrictos en entornos de desarrollo.
 
-## [SWG y Zero Trust: Claves para la Seguridad en la nube y entornos descentralizados]({{ site.baseurl }}/ciber/newsletter/2024-49/#swg-y-zero-trust-claves-para-la-seguridad-en-la-nube-y-entornos-descentralizados)
+## [Nuevo Grupo de Ransomware “Termite” Compromete a Blue Yonder, Filial de Panasonic]({{ site.baseurl }}/ciber/newsletter/2024-50/#nuevo-grupo-de-ransomware-termite-compromete-a-blue-yonder-filial-de-panasonic)
 
-Los Secure Web Gateways (SWG) son esenciales en estrategias de ciberseguridad como Zero Trust y SASE. Ofrecen protección avanzada contra amenazas, filtrado web y prevención de fugas de datos en entornos descentralizados y en la nube. Su implementación efectiva requiere evaluación, planificación y actualizaciones constantes.
+El ataque de ransomware del grupo emergente Termite contra Blue Yonder resalta el riesgo creciente de nuevos actores en el panorama de amenazas. A pesar de ser relativamente nuevo, Termite logró comprometer grandes cantidades de datos sensibles, afectando a clientes de alto perfil y subrayando la necesidad urgente de reforzar las defensas de ciberseguridad en las empresas.
 
-## [Ataques de phishing por voz: Cómo prevenirlos y responder a ellos]({{ site.baseurl }}/ciber/newsletter/2024-49/#ataques-de-phishing-por-voz-c%C3%B3mo-prevenirlos-y-responder-a-ellos)
+## [Ley de IA de la Unión Europea: Un marco pionero para la regulación de la inteligencia artificial]({{ site.baseurl }}/ciber/newsletter/2024-50/#ley-de-ia-de-la-uni%C3%B3n-europea-un-marco-pionero-para-la-regulaci%C3%B3n-de-la-inteligencia-artificial)
 
-El vishing es un fraude que utiliza llamadas telefónicas para obtener información personal y financiera, engañando a las víctimas mediante tácticas de ingeniería social. Las estafas comunes incluyen suplantación de bancos, ofertas de préstamos, fraudes de impuestos y más. Es crucial estar alerta y seguir medidas de prevención como verificar siempre la identidad del llamante y no compartir datos sensibles por teléfono.
+La entrada en vigor de la Ley de Inteligencia Artificial de la Unión Europea (EU AI Act) el 1 de agosto de 2024 marca un hito histórico en la regulación global de tecnologías disruptivas. Tras años de debates políticos y negociaciones, esta normativa tiene como objetivo equilibrar el avance de la inteligencia artificial (IA) con la protección de los derechos fundamentales y las libertades de los ciudadanos. Su enfoque armonizado establece reglas claras para el desarrollo, comercialización y uso de IA en la UE, posicionando a Europa como un referente mundial en IA confiable y ética.
 
-## [Revelan el primer bootkit uefi para linux: Bootkitty y su impacto en la ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-49/#revelan-el-primer-bootkit-uefi-para-linux-bootkitty-y-su-impacto-en-la-ciberseguridad)
+## [Enfoque centrado en datos: la clave para reforzar la ciberseguridad frente a amenazas modernas]({{ site.baseurl }}/ciber/newsletter/2024-50/#enfoque-centrado-en-datos-la-clave-para-reforzar-la-ciberseguridad-frente-a-amenazas-modernas)
 
-Se ha descubierto el primer bootkit UEFI diseñado para infectar sistemas Linux, conocido como Bootkitty. Este malware tiene como objetivo eludir las protecciones de Secure Boot y cargar módulos maliciosos en el kernel de Linux. La vulnerabilidad utilizada está vinculada al fallo LogoFAIL (CVE-2023-40238), que afecta a dispositivos de marcas como Acer, HP y Lenovo, lo que subraya la importancia de estar atentos a futuras amenazas en el ámbito de los bootkits UEFI.
+Las organizaciones enfrentan amenazas cibernéticas cada vez más sofisticadas y costosas. La creciente adopción de la computación en la nube y el aumento de las amenazas internas han hecho que la seguridad centrada en la red ya no sea suficiente. Este artículo explora cómo un enfoque centrado en los datos puede transformar la postura de seguridad y mitigar los riesgos más críticos.
 
-## [Un fallo crítico en un plugin antispam de WordPress expone a más de 200.000 sitios web a ataques remotos]({{ site.baseurl }}/ciber/newsletter/2024-49/#un-fallo-cr%C3%ADtico-en-un-plugin-antispam-de-wordpress-expone-a-m%C3%A1s-de-200000-sitios-web-a-ataques-remotos)
+## [Ciberataques más destacados de 2024: Lecciones y desafíos en ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-50/#ciberataques-m%C3%A1s-destacados-de-2024-lecciones-y-desaf%C3%ADos-en-ciberseguridad)
 
-Dos vulnerabilidades críticas en el plugin Spam protection, Anti-Spam, FireWall para WordPress podrían permitir a un atacante no autenticado instalar plugins maliciosos y ejecutar código de manera remota. Los fallos, CVE-2024-10542 y CVE-2024-10781, afectan a más de 200,000 sitios, y fueron corregidos en las versiones 6.44 y 6.45. Es crucial actualizar el plugin para evitar estos riesgos.
-
-## [Operación Undercut: Campaña de desinformación Rusa usando IA y falsificación de noticias para desestabilizar el apoyo a Ucrania]({{ site.baseurl }}/ciber/newsletter/2024-49/#operaci%C3%B3n-undercut-campa%C3%B1a-de-desinformaci%C3%B3n-rusa-usando-ia-y-falsificaci%C3%B3n-de-noticias-para-desestabilizar-el-apoyo-a-ucrania)
-
-La Social Design Agency (SDA) ha sido vinculada a la Operación Undercut, una campaña de desinformación que utiliza IA y sitios web falsificados para socavar el apoyo a Ucrania y generar divisiones en Occidente. La campaña busca desacreditar al liderazgo ucraniano y reducir el apoyo militar de los países occidentales. Además, APT28 ha sido observado utilizando una técnica de ataque basada en la proximidad para comprometer redes Wi-Fi de empresas.
+El 2024 ha sido un año marcado por ciberataques de gran magnitud que afectaron diversas industrias en todo el mundo. Desde ataques de ransomware en el sector sanitario hasta campañas de espionaje respaldadas por naciones, los incidentes han dejado graves consecuencias financieras, sociales y de seguridad. A continuación, se analizan los diez ataques más destacados, seleccionados por su impacto en datos, costos de recuperación y repercusiones geopolíticas.
 
 ---
 
