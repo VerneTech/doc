@@ -28,11 +28,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 50 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 51 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 50]({{ site.baseurl }}/ciber/newsletter/img/50/50-0.png){: .css-imagen-cabecera}
+![Week 51]({{ site.baseurl }}/ciber/newsletter/img/51/51-0.png){: .css-imagen-cabecera}
 
-La ciberseguridad sigue evolucionando frente a amenazas cada vez más complejas y sofisticadas. Desde la gestión de identidades no humanas hasta los recientes ataques a la cadena de suministro de software, la seguridad digital requiere enfoques innovadores y herramientas avanzadas. En este sentido, la legislación sobre inteligencia artificial de la Unión Europea marca un hito importante al establecer un marco claro para su regulación. A medida que las organizaciones adoptan tecnologías más complejas, como la computación en la nube y la IA, es crucial replantear las estrategias de defensa, centrándose en los datos para enfrentar las amenazas emergentes. Los ciberataques más destacados de 2024 ofrecen valiosas lecciones que deben ser tomadas en cuenta para fortalecer la ciberseguridad en todos los niveles. **Es hora de revisar y reforzar las estrategias de seguridad para proteger su organización frente a estos riesgos en constante cambio.**
+La **ciberseguridad** continúa siendo un desafío central ante la creciente sofisticación de las amenazas digitales. Desde la **exposición de datos personales en dispositivos de Microsoft** hasta el ataque a **sistemas Linux** por parte del **ransomware Play**, las empresas enfrentan riesgos cada vez mayores. Además, el avance de herramientas como **OSS-Fuzz** de Google, que utiliza **inteligencia artificial** para detectar vulnerabilidades en proyectos de código abierto, subraya la importancia de la **automatización** en la protección de infraestructuras críticas. Estos incidentes resaltan la necesidad urgente de adoptar **estrategias de defensa robustas** y de estar siempre un paso adelante en la protección de datos sensibles. **Es momento de actuar y fortalecer las medidas de seguridad para salvaguardar tanto los sistemas internos como las plataformas públicas de posibles ciberamenazas.**
 
 ## Suscribirse
 
