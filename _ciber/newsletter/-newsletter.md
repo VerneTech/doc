@@ -34,6 +34,7 @@ El ransomware Play ha evolucionado para atacar a servidores Linux, extendiendo s
 ## [Google encuentra más de 1,000 vulnerabilidades con su herramienta OSS-Fuzz impulsada por IA]({{ site.baseurl }}/ciber/newsletter/2024-51/#la-herramienta-oss-fuzz-impulsada-por-ia-de-google-encuentra-m%C3%A1s-de-1000-vulnerabilidades-en-proyectos-de-c%C3%B3digo-abierto)
 
 Google ha utilizado su herramienta OSS-Fuzz para encontrar vulnerabilidades en proyectos de código abierto, mejorando la seguridad con el uso de inteligencia artificial.
+
 ---
 
 # Artículos antiguos
