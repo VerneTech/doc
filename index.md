@@ -28,11 +28,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 52 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 51 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 52]({{ site.baseurl }}/ciber/newsletter/img/52/52-0.png){: .css-imagen-cabecera}
+![Week 51]({{ site.baseurl }}/ciber/newsletter/img/51/51-0.png){: .css-imagen-cabecera}
 
-En 2024, los ciberataques han alcanzado un nivel alarmante, afectando tanto a empresas multimillonarias como a instituciones gubernamentales. La creciente sofisticación de los ciberdelincuentes, que ahora operan como una industria criminal bien organizada, exige una respuesta inmediata. Es fundamental que las organizaciones implementen estrategias de seguridad proactivas como Zero Trust y refuercen el cumplimiento de normativas de ciberseguridad para mitigar estos riesgos. La cooperación entre sectores público y privado es clave para proteger nuestras infraestructuras y datos más sensibles. No esperes a ser la próxima víctima: actúa ahora.
+La **ciberseguridad** continúa siendo un desafío central ante la creciente sofisticación de las amenazas digitales. Desde la **exposición de datos personales en dispositivos de Microsoft** hasta el ataque a **sistemas Linux** por parte del **ransomware Play**, las empresas enfrentan riesgos cada vez mayores. Además, el avance de herramientas como **OSS-Fuzz** de Google, que utiliza **inteligencia artificial** para detectar vulnerabilidades en proyectos de código abierto, subraya la importancia de la **automatización** en la protección de infraestructuras críticas. Estos incidentes resaltan la necesidad urgente de adoptar **estrategias de defensa robustas** y de estar siempre un paso adelante en la protección de datos sensibles. **Es momento de actuar y fortalecer las medidas de seguridad para salvaguardar tanto los sistemas internos como las plataformas públicas de posibles ciberamenazas.**
 
 ## Suscribirse
 
