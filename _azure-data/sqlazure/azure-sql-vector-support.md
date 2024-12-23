@@ -420,3 +420,9 @@ def get_chat_completion_from_azure_open_ai(system_message, user_prompt, temperat
 
     return output
 ```
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>

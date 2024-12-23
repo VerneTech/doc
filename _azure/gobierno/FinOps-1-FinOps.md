@@ -71,3 +71,10 @@ En resumen, FinOps es una práctica esencial para maximizar el valor empresarial
 - **Sección** :: [Informes, Presupuestos, y Alertas]({{ site.baseurl }}/azure/FinOps-2-FinOps)
 - **Sección** :: [Estrategias de análisis, y extensibilidad]({{ site.baseurl }}/azure/FinOps-3-FinOps)
 - **Sección** :: [Azure Costs Management Copilot - Verne Tech]({{ site.baseurl }}/azure/FinOps-Copilot-Costes)
+
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>

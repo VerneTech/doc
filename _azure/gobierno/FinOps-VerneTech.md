@@ -95,3 +95,10 @@ De esta manera, los equipos pueden anticipar problemas y ajustar sus estrategias
 **FinOps** no es solo una disciplina financiera; es un cambio cultural hacia una gestión eficiente y colaborativa de los costes en la nube. Al implementar FinOps, las organizaciones pueden optimizar sus inversiones, obtener una visibilidad clara de su uso de la nube y mejorar la eficiencia operativa. Adoptar un enfoque gradual, pasando por las fases de `arrastrarse`, `caminar` y `correr`, asegura que las empresas puedan escalar sus capacidades de manera efectiva.
 
 En Verne Tech, estamos comprometidos con ayudar a las empresas a adoptar una práctica de FinOps efectiva y alcanzar sus objetivos financieros en la nube. Si estás buscando mejorar tu gestión de costes en Azure, te invitamos a explorar nuestras soluciones y colaborar con nuestro equipo de expertos. **¡Es el momento de llevar tu optimización financiera en la nube al siguiente nivel!**
+
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>
