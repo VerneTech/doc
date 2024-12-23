@@ -1,0 +1,27 @@
+[
+    {
+      "key": "erincon01",
+      "name": "Eladio Rincón",
+      "bio": "Infrastructures & Cloud Director | FinOps Practitioner | Data, Azure, SQL, Gen-AI",
+      "avatar_url": "https://github.com/erincon01.png",
+      "github_url": "https://github.com/erincon01",
+      "linkedin_url": "https://linkedin.com/in/erincon"
+    },
+    {
+      "key": "janedoe",
+      "name": "Jane Doe",
+      "bio": "Data Scientist | AI Researcher | Python Enthusiast",
+      "avatar_url": "https://github.com/janedoe.png",
+      "github_url": "https://github.com/janedoe",
+      "linkedin_url": "https://linkedin.com/in/janedoe"
+    },
+    {
+      "key": "johndoe",
+      "name": "John Doe22",
+      "bio": "SQL Developer | Database Architect",
+      "avatar_url": "",
+      "github_url": "https://github.com/johndoe",
+      "linkedin_url": ""
+    }
+  ]
+  

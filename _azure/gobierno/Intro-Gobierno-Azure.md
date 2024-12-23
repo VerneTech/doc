@@ -81,3 +81,10 @@ El gobierno de la nube implica el establecimiento de controles para gestionar la
 | [Landing Zones en Azure](https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/ready/landing-zone/) | Guía detallada sobre la configuración de landing zones como base técnica para la adopción de la nube. |
 | [Marco de Disciplina de Gobierno](https://learn.microsoft.com/es-es/azure/cloud-adoption-framework/govern/policy-compliance) | Recursos para la implementación de políticas de seguridad y cumplimiento en la nube de Azure. |
 | [Supervisión y Gestión en Azure](https://learn.microsoft.com/es-es/azure/azure-monitor/overview) | Página oficial de Azure Monitor para la monitorización continua de recursos y optimización de operaciones. |
+
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>

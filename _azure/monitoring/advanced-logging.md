@@ -336,3 +336,10 @@ The approach outlined in this article not only facilitates the automation of dat
 Implementing this solution requires careful attention to resource configuration, permissions, and data handling practices to ensure that monitoring is both effective and secure. Following the best practices highlighted throughout the article will enable organizations to optimize their Azure SQL Database performance while maintaining an efficient and responsive monitoring strategy.
 
 With the right tools and configurations in place, Azure administrators and SQL Server DBAs can collaboratively manage fragmentation data, ensuring that applications perform optimally in today's data-driven environments.
+
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>

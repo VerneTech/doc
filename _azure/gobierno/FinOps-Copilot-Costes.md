@@ -176,3 +176,10 @@ Estas funciones proporcionan a ACM Copilot la capacidad de realizar un análisis
 - **Sección** :: [Informes, `presupuestos`, y Alertas]({{ site.baseurl }}/azure/FinOps-2-FinOps)
 - **Sección** :: [Estrategias de análisis, y extensibilidad]({{ site.baseurl }}/azure/FinOps-3-FinOps)
 - **Sección** :: [Azure Costs Management Copilot - Verne Tech]({{ site.baseurl }}/azure/FinOps-Copilot-Costes)
+
+---
+
+## Author
+
+<div id="author-container" data-author-id="erincon01"></div>
+<script src="/doc/assets/authors/load-author.js"></script>
