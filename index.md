@@ -28,11 +28,13 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 52 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 53 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 52]({{ site.baseurl }}/ciber/newsletter/img/52/52-0.png){: .css-imagen-cabecera}
+![Week 53]({{ site.baseurl }}/ciber/newsletter/img/53/53-0.png){: .css-imagen-cabecera}
 
-En 2024, los ciberataques han alcanzado un nivel alarmante, afectando tanto a empresas multimillonarias como a instituciones gubernamentales. La creciente sofisticación de los ciberdelincuentes, que ahora operan como una industria criminal bien organizada, exige una respuesta inmediata. Es fundamental que las organizaciones implementen estrategias de seguridad proactivas como Zero Trust y refuercen el cumplimiento de normativas de ciberseguridad para mitigar estos riesgos. La cooperación entre sectores público y privado es clave para proteger nuestras infraestructuras y datos más sensibles. No esperes a ser la próxima víctima: actúa ahora.
+### Introducción a las noticias  
+
+El panorama de la ciberseguridad sigue enfrentándose a amenazas cada vez más sofisticadas y diversificadas, desde el desmantelamiento de servicios ilegales de DDoS hasta campañas avanzadas de phishing y malware. Estas noticias destacan los esfuerzos internacionales en la lucha contra el cibercrimen, la importancia de implementar medidas preventivas como la rotación de secretos y la protección de infraestructuras críticas frente a actores estatales. Además, casos como el abuso de herramientas legítimas de Google y GitHub trojanizados subrayan la necesidad de fortalecer las prácticas de seguridad en todas las capas. Por último, las recomendaciones de CISA para adoptar aplicaciones de mensajería cifrada enfatizan la prioridad de proteger las comunicaciones en un entorno digital cada vez más vulnerable.
 
 ## Suscribirse
 
