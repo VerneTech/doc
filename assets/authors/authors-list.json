@@ -1,27 +1,43 @@
 [
     {
+      "key": "JMMARTINEZE",
+      "name": "Jessica Martinez",
+      "bio": "---",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88877545?v=4",
+      "github_url": "https://github.com/JMMARTINEZE",
+      "linkedin_url": "---"
+    },
+    {
+      "key": "JavierGoRo",
+      "name": "Javier",
+      "bio": "---",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145021995?v=4",
+      "github_url": "https://github.com/JavierGoRo",
+      "linkedin_url": "---"
+    },
+    {
+      "key": "JavierFrutos",
+      "name": "Javier Frutos",
+      "bio": "---",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128382488?v=4",
+      "github_url": "https://github.com/JavierFrutos",
+      "linkedin_url": "---"
+    },
+    {
+      "key": "MiroslavMitevVerne",
+      "name": "Miroslav Mitev",
+      "bio": "---",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164469790?v=4",
+      "github_url": "https://github.com/MiroslavMitevVerne",
+      "linkedin_url": "---"
+    },
+    {
       "key": "erincon01",
       "name": "Eladio Rincón",
       "bio": "Infrastructures & Cloud Director | FinOps Practitioner | Data, Azure, SQL, Gen-AI",
-      "avatar_url": "https://github.com/erincon01.png",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7208487?v=4",
       "github_url": "https://github.com/erincon01",
       "linkedin_url": "https://linkedin.com/in/erincon"
-    },
-    {
-      "key": "janedoe",
-      "name": "Jane Doe",
-      "bio": "Data Scientist | AI Researcher | Python Enthusiast",
-      "avatar_url": "https://github.com/janedoe.png",
-      "github_url": "https://github.com/janedoe",
-      "linkedin_url": "https://linkedin.com/in/janedoe"
-    },
-    {
-      "key": "johndoe",
-      "name": "John Doe22",
-      "bio": "SQL Developer | Database Architect",
-      "avatar_url": "",
-      "github_url": "https://github.com/johndoe",
-      "linkedin_url": ""
     }
   ]
   
