@@ -1,11 +1,11 @@
 ---
-title: Advanced Logging
+title: Monitorización Avanzada
 layout: default
 parent: Monitoring
 nav_order: 1
 ---
 
-# Logging Azure SQL Databases' Index Fragmentation Data into Azure Log Analytics
+# Registro de Datos de Fragmentación de Índices de Bases de Datos SQL de Azure en Azure Log Analytics
 
 ---
 
@@ -18,18 +18,18 @@ nav_order: 1
 
 ---
 
-## Introduction to Index Fragmentation in Azure SQL Databases
+## Introducción a la Fragmentación de Índices en Bases de Datos SQL de Azure
 
-**Index fragmentation** occurs when data within an index is stored inefficiently, leading to both **logical** and **physical fragmentation**. **Logical fragmentation** refers to the disordered arrangement of index pages, while **physical fragmentation** involves scattered data across the disk or storage medium. Both types of fragmentation increase the read operations required to retrieve data, resulting in slower query performance. As fragmentation builds up, it becomes essential to **monitor and manage fragmentation** to maintain optimal database performance, especially in environments with high volumes of data operations.
+La **fragmentación de índices** ocurre cuando los datos dentro de un índice se almacenan de manera ineficiente, lo que lleva a una **fragmentación lógica** y **física**. La **fragmentación lógica** se refiere a la disposición desordenada de las páginas del índice, mientras que la **fragmentación física** implica datos dispersos a lo largo del disco o medio de almacenamiento. Ambos tipos de fragmentación aumentan las operaciones de lectura necesarias para recuperar datos, resultando en un rendimiento más lento de las consultas. A medida que la fragmentación se acumula, se vuelve esencial **monitorear y gestionar la fragmentación** para mantener un rendimiento óptimo de la base de datos, especialmente en entornos con altos volúmenes de operaciones de datos.
 
-**SQL PaaS (Platform as a Service)** environments, such as [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/), simplify database management by automating tasks like scaling, security, and backups. This makes them a preferred choice for dynamic, high-volume applications. However, with frequent data insertions, updates, and deletions, SQL PaaS databases are prone to index fragmentation. Unlike on-premises databases, where administrators might address fragmentation manually, **PaaS environments benefit from automated monitoring** solutions due to their scale and dynamic workloads. Follow the link for more info on [Azure SQL Database management features](https://learn.microsoft.com/en-us/azure/azure-sql/).
+Los entornos **SQL PaaS (Plataforma como Servicio)**, como [Azure SQL Database](https://azure.microsoft.com/en-us/services/sql-database/), simplifican la gestión de bases de datos automatizando tareas como escalado, seguridad y copias de seguridad. Esto los convierte en una opción preferida para aplicaciones dinámicas y de alto volumen. Sin embargo, con inserciones, actualizaciones y eliminaciones de datos frecuentes, las bases de datos SQL PaaS son propensas a la fragmentación de índices. A diferencia de las bases de datos locales, donde los administradores pueden abordar la fragmentación manualmente, los **entornos PaaS se benefician de soluciones de Monitorización automatizadas** debido a su escala y cargas de trabajo dinámicas. Siga el enlace para obtener más información sobre las [características de gestión de Azure SQL Database](https://learn.microsoft.com/en-us/azure/azure-sql/).
 
-## Roles mix: fragmentation data from the SQL Admin, and KQL data for the Azure Admin
+## Mezcla de Roles: datos de fragmentación del Administrador de SQL y datos KQL para el Administrador de Azure
 
-In this publication we introduce a method to monitor index fragmentation in SQL PaaS using Azure's using `Data Collection Rules (DCR)` and `Data Collection Endpoints (DCE)`. With these features, fragmentation metrics can be regularly collected and sent to `Log Analytics`. Then data can be read easily using `Kusto Query Language (KQL)`. This method allows to expose and query the data using `Azure Workbooks`. It is a great mixture of product specific data (like SQL Server indexes fragmentation analysis), and standard `Azure Monitoring tools` like `Log Analytics`, `DCE`, `DCR`, `KQL` and `Workbooks`. For more on **DCR and DCE configuration**, see this link: [Azure Monitor Data Collection Rules](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rules).
+En esta publicación, presentamos un método para monitorear la fragmentación de índices en SQL PaaS utilizando `Data Collection Rules (DCR)` y `Data Collection Endpoints (DCE)` de Azure. Con estas características, las métricas de fragmentación se pueden recopilar regularmente y enviar a `Log Analytics`. Luego, los datos se pueden leer fácilmente utilizando `Kusto Query Language (KQL)`. Este método permite exponer y consultar los datos utilizando `Azure Workbooks`. Es una gran mezcla de datos específicos del producto (como el análisis de fragmentación de índices de SQL Server) y herramientas estándar de `Azure Monitoring` como `Log Analytics`, `DCE`, `DCR`, `KQL` y `Workbooks`. Para más información sobre la **configuración de DCR y DCE**, consulte este enlace: [Reglas de Recopilación de Datos de Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rules).
 
-This publication mixes two Administrator's worlds: Azure Admin, and SQL Server Admin.
-As administrator's these are the type of queries involved in this publication:
+Esta publicación mezcla dos mundos de Administradores: Administrador de Azure y Administrador de SQL Server.
+Como administradores, estos son los tipos de consultas involucradas en esta publicación:
 
 - SQL Server DBA query:
   
@@ -63,41 +63,40 @@ Custom-TablesFragmentation_CL
     avg_fragmentation_in_percent, page_count, 
     Res_TenantId, Res_SubscriptionId, Res_ResourceId, TimeGenerated
 ```
+Estos son los recursos que deben crearse:
 
-These are the resources that need to be created:
+- Espacio de trabajo de Log Analytics
+- Tabla personalizada para almacenar los datos en Log Analytics
+- Punto de Recopilación de Datos para conectar con el Espacio de Trabajo de Log Analytics
+- Regla de Recopilación de Datos que gobierna el esquema de datos y "conecta" el Punto de Recopilación con la tabla de Log Analytics
 
-- Log analytics workspace
-- Custom table to store the data in Log Analytics
-- Data Collection Endpoint to connect to the Log Analytics Workspace
-- Data Collection Rule that governs the data schema, and "connects" the Endpoint to the Log Analytics table
+## Uso de DCR y DCE para recopilar los datos
 
-## Using DCR and DCE to gather the data
+Para recopilar eficientemente los datos de fragmentación de índices de una base de datos SQL de Azure, utilizamos **Data Collection Endpoints (DCE)** y **Data Collection Rules (DCR)**, ambos parte de [Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/). Estas herramientas definen qué datos recopilar y dónde enviarlos, permitiendo una recolección y análisis eficiente de las métricas de fragmentación.
 
-To efficiently collect index fragmentation data from an Azure SQL Database, we use **Data Collection Endpoints (DCE)** and **Data Collection Rules (DCR)**, both part of [Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/). These tools define which data to collect and where to send it, enabling efficient data collection and analysis of fragmentation metrics.
-
-To insert the data into `Azure Log Analytics`, we are using API Calls to direct ingest into `Azure Log Analytics`. this link [shows the details](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview#direct-ingestion).
+Para insertar los datos en `Azure Log Analytics`, utilizamos llamadas API para la ingestión directa en `Azure Log Analytics`. Este enlace [muestra los detalles](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview#direct-ingestion).
 
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-01.png){: .css-imagen-full}
 
-These are the specifics of our case:
-- Source (Custom Application) is a `Azure Runbook`, that gets activated every 6 hours.
-- There is no need to tranform the data: The data that gets into the pipeline is ingested into `Azure Log Analytics`.
+Estos son los detalles de nuestro caso:
+- La fuente (Aplicación Personalizada) es un `Azure Runbook`, que se activa cada 6 horas.
+- No hay necesidad de transformar los datos: Los datos que ingresan en la canalización se ingieren en `Azure Log Analytics`.
 
-In order to run these data ingestion, it is neccesary to setup:
+Para ejecutar esta ingestión de datos, es necesario configurar:
 
-- An Azure Log Analytics Workspace
-- A Custom table in the Log Analytics Workspace
-- A Data Collection Endpoints
-- A Data Collection Rule
+- Un Espacio de Trabajo de Log Analytics
+- Una tabla personalizada en el Espacio de Trabajo de Log Analytics
+- Un Punto de Recopilación de Datos
+- Una Regla de Recopilación de Datos
 
-Note. We recommend using `service principals` with these permissions:
-- `Monitoring Metrics Publisher` into the Log Analytics Workspace, DCE, and DCR.
-- `Monitoring Reader` into the Log Analytics Workspace, DCE, and DCR.
-- Enough permissions to access relevant DMVs [SQL Server Permissions](https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-index-physical-stats-transact-sql?view=sql-server-ver16#permissions)
+Nota. Recomendamos usar `service principals` con estos permisos:
+- `Publicador de Métricas de Monitorización` en el Espacio de Trabajo de Log Analytics, DCE y DCR.
+- `Lector de Monitorización` en el Espacio de Trabajo de Log Analytics, DCE y DCR.
+- Permisos suficientes para acceder a las DMVs relevantes [Permisos de SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-index-physical-stats-transact-sql?view=sql-server-ver16#permissions)
 
-## Log Analytics Workspace
+## Espacio de Trabajo de Log Analytics
 
-Log Analytics Workspace is a powerful resource within Azure Monitor that allows organizations to collect, analyze, and visualize log and performance data from various sources. By centralizing the monitoring of different applications and services, users can gain valuable insights into system health, usage patterns, and potential issues. This workspace enables data retention, querying with Kusto Query Language (KQL), and the integration of various Azure services for enhanced observability.
+El Espacio de Trabajo de Log Analytics es un recurso poderoso dentro de Azure Monitor que permite a las organizaciones recopilar, analizar y visualizar datos de registros y rendimiento de diversas fuentes. Al centralizar el Monitorización de diferentes aplicaciones y servicios, los usuarios pueden obtener valiosos conocimientos sobre la salud del sistema, patrones de uso y posibles problemas. Este espacio de trabajo permite la retención de datos, consultas con Kusto Query Language (KQL) y la integración de varios servicios de Azure para una mayor capacidad de observación.
 
 This is the code to create the Log Analytics Workspace:
 
@@ -113,9 +112,9 @@ New-AzOperationalInsightsWorkspace -ResourceGroupName $resourceGroupName `
     -Sku Standard
 ```
 
-## Log Analytics custom table
+## Tabla personalizada de Log Analytics
 
-After creating the Log Analytics Workspace the Custom table needs to be created. It is great to tight to a schema. Everything will be more under control. If you want to create from the portal, [follow this link](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-logs-tables?tabs=azure-portal). If you prefer PowerShell code, this would be a great pattern to use:
+Después de crear el Espacio de Trabajo de Log Analytics, es necesario crear la tabla personalizada. Es excelente ajustarse a un esquema. Todo estará más bajo control. Si desea crearla desde el portal, [siga este enlace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-logs-tables?tabs=azure-portal). Si prefiere el código de PowerShell, este sería un buen patrón a seguir:
 
 ```bash
 $subscriptionId = "your_subscription_GUID"
@@ -154,25 +153,25 @@ $token = (Get-AzAccessToken -ResourceUrl "https://management.azure.com").Token
 Invoke-RestMethod -Uri $url -Method Put -Headers @{ Authorization = "Bearer $token" } -Body $body -ContentType "application/json"
 ```
 
-Note that we have added a few columns that start with "Res_%". We want to make easier for workbooks developer to "link" the Azure Resource that is ingesting the data.
+Note que hemos añadido algunas columnas que comienzan con "Res_%". Queremos facilitar a los desarrolladores de workbooks "vincular" el recurso de Azure que está ingresando los datos.
 
 ## Data Collection Endpoints (DCE)
 
-`Data Collection Endpoints (DCE)` defines the destination where collected data will be sent. DCEs act as a delivery endpoint, directing the collected data to a specific location, such as `Log Analytics`. In this setup, DCE serves as a bridge that facilitates the flow of index fragmentation metrics from SQL PaaS databases to `Log Analytics`, allowing for centralized monitoring and analysis.
+Los `Data Collection Endpoints (DCE)` definen el destino al que se enviarán los datos recopilados. Los DCE actúan como un punto de entrega, dirigiendo los datos recopilados a una ubicación específica, como `Log Analytics`. En esta configuración, el DCE sirve como un puente que facilita el flujo de métricas de fragmentación de índices desde las bases de datos SQL PaaS a `Log Analytics`, permitiendo un Monitorización y análisis centralizados.
 
-A `Data Collection Endpoint (DCE)` can be used across multiple `Data Collection Rules (DCRs)`, enabling centralized data collection from various sources into a single destination like `Log Analytics`. This approach simplifies data management and optimizes resource usage by reducing the number of endpoints needed, which is especially beneficial in large environments. By configuring multiple DCRs to send data to the same DCE, you can efficiently monitor similar metrics—such as index fragmentation—from different SQL PaaS databases or applications.
+Un `Data Collection Endpoints (DCE)` puede ser utilizado en múltiples `Data Collection Rules (DCRs)`, permitiendo la recopilación centralizada de datos de varias fuentes en un único destino como `Log Analytics`. Este enfoque simplifica la gestión de datos y optimiza el uso de recursos al reducir el número de puntos de recopilación necesarios, lo cual es especialmente beneficioso en entornos grandes. Al configurar múltiples DCRs para enviar datos al mismo DCE, puede monitorear eficientemente métricas similares, como la fragmentación de índices, desde diferentes bases de datos SQL PaaS o aplicaciones.
 
-For detailed guidance on DCE configuration, refer to [Data Collection Endpoints documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoints).
+Para obtener una guía detallada sobre la configuración de DCE, consulte la [documentación de DCE](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoints).
 
-NOTE: Microsoft wants to make [optional DCE](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoint-overview?tabs=portal#when-is-a-dce-required) if you are not using Private End Points. However, we haven't been able to setup a DCE without a DCE. This is a sample architecture using DCE in a single region scenario.
+NOTA: Microsoft quiere hacer [opcional DCE](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoint-overview?tabs=portal#when-is-a-dce-required) si no está utilizando Puntos de Conexión Privados. Sin embargo, no hemos podido configurar un DCE sin un DCE. Esta es una arquitectura de ejemplo utilizando DCE en un escenario de una sola región.
 
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-02.png){: .css-imagen-full}
 
-DCE are useful in multi-region scenarios as this capture shows:
+Los DCE son útiles en escenarios de múltiples regiones como muestra esta captura:
 
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-03.png){: .css-imagen-full}
 
-This is the sample code to create the Data Collection Endpoint:
+Este es el código de ejemplo para crear el Punto de Recopilación de Datos:
 
 ```bash
 $resourceGroup="rg-erincon01"
@@ -192,15 +191,15 @@ az monitor data-collection endpoint list --resource-group $resourceGroup --outpu
 
 ## Data Collection Rules (DCR)
 
-Once the DCE is created, you should create the Data Collection Rules (DCR). DCRs specify the exact data to collect, such as index fragmentation metrics, and direct it to the predefined DCE. By setting up a DCR specifically for SQL PaaS fragmentation metrics, we ensure a consistent, structured data collection process that is crucial for efficient monitoring.
+Una vez creado el DCE, debe crear las Data Collection Rules (DCR). Las DCR especifican los datos exactos a recopilar, como las métricas de fragmentación de índices, y los dirigen al DCE predefinido. Al configurar una DCR específicamente para las métricas de fragmentación de SQL PaaS, aseguramos un proceso de recopilación de datos consistente y estructurado, crucial para un Monitorización eficiente.
 
-A `Data Collection Rule (DCR)` in Azure can be configured to target multiple specific resources or designed as a "reusable template" that doesn’t require specifying a resource at the time of creation. This setup offers flexibility in DCR configuration and usage across environments.
+Una `Data Collection Rules (DCR)` en Azure puede configurarse para dirigirse a múltiples recursos específicos o diseñarse como una "plantilla reutilizable" que no requiere especificar un recurso en el momento de la creación. Esta configuración ofrece flexibilidad en la configuración y uso de DCR en diferentes entornos.
 
-For more information on setting up DCR, see the [official documentation on Data Collection Rules](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rules).
+Para obtener más información sobre la configuración de DCR, consulte la [documentación oficial sobre DCR](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rules).
 
-There are a few considetions when building DCRs, for details see this [best practices article](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-best-practices).
+Hay algunas consideraciones al construir DCR, para más detalles consulte este [artículo de mejores prácticas](https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-best-practices).
 
-For our scenario this is the Json document pattern we have used:
+Para nuestro escenario, este es el patrón del documento Json que hemos utilizado:
 
 ```bash
 $dcrProperties = @{
@@ -240,24 +239,23 @@ $dcrProperties = @{
 }
 ```
 
-In order to create the DCR, we have struggle issues with Azure CLI. Finally we decided to use the REST-API for better issues diagnosis (error's handling from the `New-AzDataCollectionRule`'s CLI methods).
+Para crear el DCR, tuvimos problemas con Azure CLI. Finalmente, decidimos usar la API REST para un mejor diagnóstico de problemas (manejo de errores de los métodos CLI de `New-AzDataCollectionRule`).
 
 ```bash
 $jsonDcrProperties = $dcrProperties | ConvertTo-Json -Depth 20
 
-# API-REST call
+# Llamada API-REST
 $url = "https://management.azure.com/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName/providers/Microsoft.Insights/dataCollectionRules/$dcrName?api-version=2023-03-11"
 $token = (Get-AzAccessToken).Token
 $response = Invoke-RestMethod -Uri $url -Method Put -Body $jsonDcrProperties -ContentType "application/json" -Headers @{Authorization = "Bearer $token"}
 ```
 
-## Permissions
+## Permisos
 
-It is necessary handing correctly permissions. Following the least privilege rule, if you need to ingest data `Monitoring Metrics Publisher` is needed. Aditionally, to read the logs, you'd need `Monitoring Reader` permission.
-We recommend using `service principals`. Use this code as sample/template:
+Es necesario manejar correctamente los permisos. Siguiendo la regla de privilegio mínimo, si necesitas ingerir datos, se requiere el permiso `Monitoring Metrics Publisher`. Adicionalmente, para leer los registros, necesitarás el permiso `Monitoring Reader`.
+Recomendamos usar `service principals`. Usa este código como ejemplo/plantilla:
 
 ```bash
-
 # monitoring permissions for service principal
 $servicePrincipal_ObjectId = (Get-AzADServicePrincipal -ApplicationId $servicePrincipal).Id
 $dceId = "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName/providers/Microsoft.Insights/dataCollectionEndpoints/$dceName"
@@ -274,24 +272,23 @@ New-AzRoleAssignment -ObjectId $servicePrincipal_ObjectId -RoleDefinitionName "M
 New-AzRoleAssignment -ObjectId $servicePrincipal_ObjectId -RoleDefinitionName "Monitoring Reader" -Scope $dceId
 New-AzRoleAssignment -ObjectId $servicePrincipal_ObjectId -RoleDefinitionName "Monitoring Reader" -Scope $dcrId
 New-AzRoleAssignment -ObjectId $servicePrincipal_ObjectId -RoleDefinitionName "Monitoring Reader" -Scope $wksId
-
 ```
 
-## Ingesting data into Log Analytics
+## Ingestar datos en Log Analytics
 
-Once the insfrastructure is setup, you are ready to ingest data into the Log Analytics custom table. [This link](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal) includes a full-detailed sample. You can use [this link](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal) to generate sample data too.
+Una vez que la infraestructura está configurada, está listo para ingerir datos en la tabla personalizada de Log Analytics. [Este enlace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal) incluye un ejemplo detallado. También puede usar [este enlace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal) para generar datos de muestra.
 
-In our case, we have built this architecture:
+En nuestro caso, hemos construido esta arquitectura:
 
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-04.png){: .css-imagen-full}
 
-Where we have these configuration files:
+Donde tenemos estos archivos de configuración:
 
-- logger.json that includes the DCR, DCE, and log analytics where to ingest the data.
-- targets.json that includes the SQL Server data sources that we want to assess.
-- queries.json that includes the SQL Server scripts to assess.
+- logger.json que incluye el DCR, DCE y Log Analytics donde ingerir los datos.
+- targets.json que incluye las fuentes de datos de SQL Server que queremos evaluar.
+- queries.json que incluye los scripts de SQL Server para evaluar.
 
-In order to send the data to log analytics we use the RESP-API approach again:
+Para enviar los datos a Log Analytics, utilizamos nuevamente el enfoque de la API REST:
 
 ```bash
 try {
@@ -318,28 +315,28 @@ try {
     }
 ```
 
-## Exposing data into Workbooks
+## Exposición de datos en Workbooks
 
-Finally, data must be exposed into a report. Once the data is into log analytics, there are several ways to build reporting.
+Finalmente, los datos deben exponerse en un informe. Una vez que los datos están en Log Analytics, hay varias formas de construir informes.
 
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-06.png){: .css-imagen-full}
 
-This is an example where Custom table is exposed into an `Azure Workbook`.
+Este es un ejemplo donde la tabla personalizada se expone en un `Azure Workbook`.
 ![Image]({{ site.baseurl }}/azure/monitoring/img/advanced-monitoring/image-05.png){: .css-imagen-full}
 
-## Conclusions
+## Conclusiones
 
-In summary, **monitoring index fragmentation** within `Azure SQL Databases` is essential for maintaining optimal performance, especially in PaaS environments characterized by dynamic workloads. By leveraging Azure's `Data Collection Rules (DCR)` and `Data Collection Endpoints (DCE)`, administrators can efficiently collect and analyze fragmentation metrics, integrating them seamlessly with Azure Log Analytics for enhanced visibility and monitoring capabilities.
+En resumen, **monitorear la fragmentación de índices** dentro de `Azure SQL Databases` es esencial para mantener un rendimiento óptimo, especialmente en entornos PaaS caracterizados por cargas de trabajo dinámicas. Al aprovechar las `Data Collection Rules (DCR)` y los `Data Collection Endpoints (DCE)` de Azure, los administradores pueden recopilar y analizar eficientemente las métricas de fragmentación, integrándolas sin problemas con Azure Log Analytics para mejorar la visibilidad y las capacidades de Monitorización.
 
-The approach outlined in this article not only facilitates the automation of data collection but also bridges the gap between SQL Server administration and Azure management. By employing Kusto Query Language (KQL) to query the collected data, users can gain valuable insights into fragmentation trends, allowing for timely interventions to mitigate performance degradation.
+El enfoque descrito en este artículo no solo facilita la automatización de la recopilación de datos, sino que también cierra la brecha entre la administración de SQL Server y la gestión de Azure. Al emplear el `Kusto Query Language (KQL)` para consultar los datos recopilados, los usuarios pueden obtener valiosos conocimientos sobre las tendencias de fragmentación, permitiendo intervenciones oportunas para mitigar la degradación del rendimiento.
 
-Implementing this solution requires careful attention to resource configuration, permissions, and data handling practices to ensure that monitoring is both effective and secure. Following the best practices highlighted throughout the article will enable organizations to optimize their Azure SQL Database performance while maintaining an efficient and responsive monitoring strategy.
+Implementar esta solución requiere una atención cuidadosa a la configuración de recursos, permisos y prácticas de manejo de datos para garantizar que el Monitorización sea efectivo y seguro. Seguir las mejores prácticas destacadas a lo largo del artículo permitirá a las organizaciones optimizar el rendimiento de sus bases de datos Azure SQL mientras mantienen una estrategia de Monitorización eficiente y receptiva.
 
-With the right tools and configurations in place, Azure administrators and SQL Server DBAs can collaboratively manage fragmentation data, ensuring that applications perform optimally in today's data-driven environments.
+Con las herramientas y configuraciones adecuadas, los administradores de Azure y los DBAs de SQL Server pueden gestionar colaborativamente los datos de fragmentación, asegurando que las aplicaciones funcionen de manera óptima en los entornos impulsados por datos de hoy en día.
 
 ---
 
-## Author
+## Autor
 
 <div id="author-container" data-author-id="erincon01"></div>
 <script src="/doc/assets/authors/load-author.js"></script>
