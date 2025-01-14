@@ -7,42 +7,33 @@ has_children: true
 
 # Últimos artículos
 
----
-title: Newsletter
-layout: default
-nav_order: 1
-has_children: true
----
+## [Paquete Malicioso en npm Infecta Sistemas con Quasar RAT: Una Amenaza para los Desarrolladores de Ethereum]({{ site.baseurl }}/ciber/newsletter/2025-3/#paquete-malicioso-en-npm-infecta-sistemas-con-quasar-rat-una-amenaza-para-los-desarrolladores-de-ethereum)
+ 
+Un paquete malicioso en npm, <b>disfrazado de herramienta para Ethereum</b>, instala Quasar RAT en sistemas Windows, comprometiendo la seguridad de los desarrolladores. Este incidente resalta la necesidad de una mayor vigilancia en la comunidad de código abierto.
+ 
+## [Vulnerabilidades Críticas Corregidas en Microsoft Dynamics 365 y Power Apps Web API]({{ site.baseurl }}/ciber/newsletter/2025-3/#vulnerabilidades-cr%C3%ADticas-corregidas-en-microsoft-dynamics-365-y-power-apps-web-api)
+ 
+Se han corregido tres vulnerabilidades en Microsoft Dynamics 365 y Power Apps Web API que permitían el acceso no autorizado a datos sensibles, destacando la necesidad de una vigilancia continua en ciberseguridad.
+ 
+## [Nuevo Plugin Malicioso de WordPress Permite Estafas Sofisticadas en Páginas de Pago]({{ site.baseurl }}/ciber/newsletter/2025-3/#nuevo-plugin-malicioso-de-wordpress-permite-estafas-sofisticadas-en-p%C3%A1ginas-de-pago)
+ 
+Se ha descubierto un plugin malicioso para WordPress llamado <b>PhishWP</b>, que permite a los atacantes crear páginas de pago falsas para robar datos financieros de las víctimas. Este hallazgo destaca la necesidad de reforzar las medidas de seguridad en sitios web y estar alerta ante posibles estafas en línea.
+ 
+## [Navegando los Riesgos de Seguridad y las Ganancias de Eficiencia del GenAI en el Sector Salud]({{ site.baseurl }}/ciber/newsletter/2025-3/#navegando-los-riesgos-de-seguridad-y-las-ganancias-de-eficiencia-del-genai-en-el-sector-salud)
+ 
+La integración de GenAI en el sector salud mejora la eficiencia, pero también amplía los riesgos de seguridad. Implementar estrategias como la gestión de riesgos de identidad en SaaS (SIRM es esencial para equilibrar los beneficios y proteger los datos sensibles.
+ 
+## [Servicio de Hacking Web 'Araneida' Vinculado a Empresa de TI Turca]({{ site.baseurl }}/ciber/newsletter/2025-3/#servicio-de-hacking-web-araneida-vinculado-a-una-empresa-de-ti-turca)
+ 
+El servicio de hacking web <b>‘Araneida’</b>, basado en una versión pirateada de <b>Acunetix</b>, permite a ciberdelincuentes realizar ataques avanzados. Este servicio está vinculado a una empresa de TI en Turquía y plantea riesgos globales de ciberseguridad.
+ 
+## [Malware de Android 'FireScam' se Hace Pasar por Telegram Premium para Robar Datos y Controlar Dispositivos]({{ site.baseurl }}/ciber/newsletter/2025-3/#malware-de-android-firescam-se-hace-pasar-por-telegram-premium-para-robar-datos-y-controlar-dispositivos)
+ 
+El malware de Android <b>FireScam</b> se hace pasar por una versión premium de Telegram para robar datos sensibles y mantener control remoto sobre dispositivos comprometidos. Se distribuye a través de sitios de phishing que imitan tiendas de aplicaciones legítimas, explotando la confianza de los usuarios.
+ 
+## [Actualice los Dominios Antiguos de .NET Antes del 7 de Enero de 2025 para Evitar Interrupciones en el Servicio]({{ site.baseurl }}/ciber/newsletter/2025-3/#actualice-los-dominios-antiguos-de-net-antes-del-7-de-enero-de-2025-para-evitar-interrupciones-en-el-servicio)
 
-# Últimos artículos
-
-## [La Operación PowerOFF: Un Golpe a los Servicios de DDoS-por-Encargo]({{ site.baseurl }}/ciber/newsletter/2024-53/#la-operaci%C3%B3n-poweroff-un-golpe-a-los-servicios-de-ddos-por-encargo)
-
-Un esfuerzo internacional coordinado entre 15 países ha desmantelado 27 sitios de ataques DDoS por encargo, interrumpiendo la actividad de ciberdelincuentes durante la temporada navideña. La operación ha incluido arrestos, campañas de disuasión y la incautación de infraestructuras criminales. La cooperación internacional demuestra ser clave en la lucha contra los delitos cibernéticos, protegiendo tanto a empresas como a consumidores.
-
-## [La importancia de la rotación de secretos en tu estrategia de ciberseguridad]({{ site.baseurl }}/ciber/newsletter/2024-53/#la-importancia-de-la-rotaci%C3%B3n-de-secretos-en-tu-estrategia-de-ciberseguridad)
-
-La rotación avanzada de secretos (como claves de cifrado y contraseñas) es esencial para proteger las Identidades No Humanas (NHIs) en entornos de nube. Esta práctica continua ayuda a mitigar riesgos, cumplir con normativas y mejorar la integridad del sistema. La automatización de este proceso minimiza errores y costos operativos. Integrar la rotación de secretos como parte de una estrategia de ciberseguridad robusta es crucial para fortalecer la protección contra accesos no autorizados y vulnerabilidades.
-
-## [Nuevo malware iraní ataca infraestructuras críticas en Israel y EE. UU., dirigido a dispositivos IoT y OT]({{ site.baseurl }}/ciber/newsletter/2024-53/#nuevo-malware-iran%C3%AD-ataca-infraestructuras-cr%C3%ADticas-en-israel-y-ee-uu-dirigido-a-dispositivos-iot-y-ot)
-
-El malware **IOCONTROL**, atribuido a actores iraníes, ataca dispositivos **IoT** y **OT** en infraestructuras críticas, como cámaras IP, PLCs y HMIs. Su diseño modular permite adaptarse a diversas plataformas y evadir detecciones mediante técnicas avanzadas, como el uso de **MQTT** y **DNS sobre HTTPS**. IOCONTROL recopila datos sensibles y mantiene persistencia en los sistemas infectados, facilitando ataques prolongados. Este caso subraya la necesidad de fortalecer la seguridad en redes industriales y dispositivos IoT frente a amenazas estatales.
-
-## [Exfiltración masiva de credenciales a través de repositorios GitHub trojanizados]({{ site.baseurl }}/ciber/newsletter/2024-53/#exfiltraci%C3%B3n-masiva-de-credenciales-a-trav%C3%A9s-de-repositorios-github-trojanizados)
-
-La campaña de ciberamenaza **MUT-1244** ha exfiltrado más de **390,000 credenciales** mediante repositorios trojanizados en **GitHub**, promovidos como herramientas legítimas para WordPress. El ataque utilizó un paquete npm malicioso para robar **SSH privadas**, **credenciales de AWS**, y más, afectando a investigadores y profesionales de seguridad. Además, emplearon phishing y múltiples vectores, como **PDFs maliciosos** y **droppers en Python**, para comprometer sistemas. Este caso subraya los riesgos en repositorios no verificados y la creciente sofisticación de las amenazas.
-
-## [Campaña de phishing que abusa de Google Calendar y Google Drawings para robar credenciales]({{ site.baseurl }}/ciber/newsletter/2024-53/#campa%C3%B1a-de-phishing-que-abusa-de-google-calendar-y-google-drawings-para-robar-credenciales)
-
-Una campaña de **phishing** utiliza **Google Calendar** y **Google Drawings** para robar credenciales, evadiendo filtros de spam al aprovechar servicios legítimos de Google. Los atacantes envían invitaciones a reuniones con enlaces maliciosos que parecen confiables. La campaña ha afectado a más de **300 marcas** y sectores clave como educación y banca. Los usuarios deben verificar los remitentes y evitar hacer clic en enlaces sospechosos.
-
-## [APT29 utiliza servidores proxy RDP y ataques MiTM para robar credenciales y datos confidenciales]({{ site.baseurl }}/ciber/newsletter/2024-53/#apt29-utiliza-servidores-proxy-rdp-y-ataques-mitm-para-robar-credenciales-y-datos-confidenciales)
-
-El grupo APT29 está utilizando servidores proxy RDP para ataques de hombre en el medio (MiTM) y acceso a sistemas sensibles en entidades gubernamentales y empresas. Mediante la herramienta PyRDP, roban credenciales, datos y ejecutan comandos maliciosos, aprovechando técnicas avanzadas de evasión. Las recomendaciones incluyen conectar solo a servidores RDP confiables y evitar enlaces sospechosos en correos electrónicos.
-
-## [CISA insta a altos funcionarios a usar Signal tras ciberataques a operadores de telecomunicaciones]({{ site.baseurl }}/ciber/newsletter/2024-53/#cisa-insta-a-altos-funcionarios-a-usar-signal-tras-ciberataques-a-operadores-de-telecomunicaciones)
-
-Tras ciberataques de Salt Typhoon a operadores de telecomunicaciones, CISA urge a altos funcionarios a usar Signal para comunicaciones cifradas. Además, aconseja claves de seguridad MFA y evitar la autenticación SMS para protegerse frente a intercepciones. Los ataques han comprometido datos sensibles durante meses, resaltando la necesidad de medidas de seguridad proactivas.
+Microsoft insta a actualizar los dominios antiguos de .NET antes del 7 de enero de 2025 para evitar interrupciones en el servicio, debido al cese de la plataforma Edgio y la migración a Azure Front Door CDNs.
 
 ---
 

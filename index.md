@@ -28,13 +28,13 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 53 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 3 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 53]({{ site.baseurl }}/ciber/newsletter/img/53/53-0.png){: .css-imagen-cabecera}
+![Week 3]({{ site.baseurl }}/ciber/newsletter/img/2025/3/3-0.png){: .css-imagen-cabecera}
 
 ### Introducción a las noticias  
 
-El panorama de la ciberseguridad sigue enfrentándose a amenazas cada vez más sofisticadas y diversificadas, desde el desmantelamiento de servicios ilegales de DDoS hasta campañas avanzadas de phishing y malware. Estas noticias destacan los esfuerzos internacionales en la lucha contra el cibercrimen, la importancia de implementar medidas preventivas como la rotación de secretos y la protección de infraestructuras críticas frente a actores estatales. Además, casos como el abuso de herramientas legítimas de Google y GitHub trojanizados subrayan la necesidad de fortalecer las prácticas de seguridad en todas las capas. Por último, las recomendaciones de CISA para adoptar aplicaciones de mensajería cifrada enfatizan la prioridad de proteger las comunicaciones en un entorno digital cada vez más vulnerable.
+El panorama de la ciberseguridad sigue enfrentándose a amenazas cada vez más sofisticadas y diversificadas, desde la manipulación adversarial de modelos GenAI en el sector salud hasta el uso malicioso de herramientas legítimas en servicios de hacking web. Estas noticias resaltan la importancia de la colaboración internacional para combatir el cibercrimen, así como la necesidad de adoptar medidas preventivas como la actualización de dominios en infraestructuras críticas y la protección contra malware avanzado en dispositivos móviles. Además, el análisis del cumplimiento normativo y la gobernanza en la gestión de riesgos destacan como elementos clave para mantener la seguridad en un entorno digital cada vez más complejo y vulnerable.
 
 ## Suscribirse
 
