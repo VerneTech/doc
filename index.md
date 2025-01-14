@@ -30,7 +30,7 @@ En esta sección, te traemos las noticias más recientes y relevantes del mundo 
 
 ### [¡Semana 3 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 3]({{ site.baseurl }}/ciber/newsletter/img/2025/3-0.png){: .css-imagen-cabecera}
+![Week 3]({{ site.baseurl }}/ciber/newsletter/img/2025/3/3-0.png){: .css-imagen-cabecera}
 
 ### Introducción a las noticias  
 
