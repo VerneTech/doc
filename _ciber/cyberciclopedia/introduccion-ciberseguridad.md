@@ -64,4 +64,9 @@ El Purple Team integra las habilidades del Red y Blue Team para optimizar la seg
 
 En resumen, las áreas principales de la ciberseguridad pueden agruparse bajo estas tres divisiones. Mientras que el **Blue Team** se enfoca en la defensa, el **Red Team** trabaja en pruebas ofensivas para identificar debilidades, y el **Purple Team** facilita la colaboración entre ambos, optimizando las estrategias de ciberseguridad de la organización.
 
+## Autora
+
+<div id="author-container" data-author-id="JMMARTINEZE"></div>
+<script src="/doc/assets/authors/load-author.js"></script>
+
 ---
