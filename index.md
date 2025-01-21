@@ -19,8 +19,11 @@ Esperamos que disfrutes de esta edición y encuentres útil la información prop
 
 No te pierdas nuestras secciones:
 
-- [Artículos]({{ site.baseurl }}ciber/newsletter/)
-- [Cyberciclopedia]({{ site.baseurl }}ciber/cyberciclopedia)
+- [Newsletter de ciberseguridad]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+- [Cyberciclopedia]({{ site.baseurl }}/ciber/cyberciclopedia/-cyberciclopedia/)
+- [Azure Monitorización]({{ site.baseurl }}/monitoring/-monitoring/)
+- [Azure Gobierno]({{ site.baseurl }}/azure/gobierno/-gobierno/)
+- [Azure Data]({{ site.baseurl }}/azure-data/sqlazure/-sqlazure/)
 
 ¡Gracias por ser parte de nuestra comunidad de ciberseguridad!
 
@@ -28,13 +31,13 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 3 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 4 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 3]({{ site.baseurl }}/ciber/newsletter/img/2025/3/3-0.png){: .css-imagen-cabecera}
+![Week 4]({{ site.baseurl }}/ciber/newsletter/img/2025/4/4-0.png){: .css-imagen-cabecera}
 
 ### Introducción a las noticias  
 
-El panorama de la ciberseguridad sigue enfrentándose a amenazas cada vez más sofisticadas y diversificadas, desde la manipulación adversarial de modelos GenAI en el sector salud hasta el uso malicioso de herramientas legítimas en servicios de hacking web. Estas noticias resaltan la importancia de la colaboración internacional para combatir el cibercrimen, así como la necesidad de adoptar medidas preventivas como la actualización de dominios en infraestructuras críticas y la protección contra malware avanzado en dispositivos móviles. Además, el análisis del cumplimiento normativo y la gobernanza en la gestión de riesgos destacan como elementos clave para mantener la seguridad en un entorno digital cada vez más complejo y vulnerable.
+El panorama de la ciberseguridad continúa enfrentándose a retos significativos, desde la protección de infraestructuras críticas bajo nuevas legislaciones de gobernanza hasta la mitigación de vulnerabilidades en dispositivos esenciales como los servidores. Noticias recientes evidencian la necesidad urgente de adoptar enfoques proactivos, como la implementación de actualizaciones clave para servidores afectados por arquitecturas complejas y la constante evolución de normativas que refuercen la resiliencia frente a ciberamenazas. La colaboración entre entidades públicas y privadas, junto con la actualización constante de sistemas y la adopción de modelos de seguridad avanzados, se perfila como esencial para mantener la integridad y seguridad en un ecosistema digital en constante cambio.
 
 ## Suscribirse
 

@@ -7,33 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Paquete Malicioso en npm Infecta Sistemas con Quasar RAT: Una Amenaza para los Desarrolladores de Ethereum]({{ site.baseurl }}/ciber/newsletter/2025-3/#paquete-malicioso-en-npm-infecta-sistemas-con-quasar-rat-una-amenaza-para-los-desarrolladores-de-ethereum)
- 
-Un paquete malicioso en npm, <b>disfrazado de herramienta para Ethereum</b>, instala Quasar RAT en sistemas Windows, comprometiendo la seguridad de los desarrolladores. Este incidente resalta la necesidad de una mayor vigilancia en la comunidad de código abierto.
- 
-## [Vulnerabilidades Críticas Corregidas en Microsoft Dynamics 365 y Power Apps Web API]({{ site.baseurl }}/ciber/newsletter/2025-3/#vulnerabilidades-cr%C3%ADticas-corregidas-en-microsoft-dynamics-365-y-power-apps-web-api)
- 
-Se han corregido tres vulnerabilidades en Microsoft Dynamics 365 y Power Apps Web API que permitían el acceso no autorizado a datos sensibles, destacando la necesidad de una vigilancia continua en ciberseguridad.
- 
-## [Nuevo Plugin Malicioso de WordPress Permite Estafas Sofisticadas en Páginas de Pago]({{ site.baseurl }}/ciber/newsletter/2025-3/#nuevo-plugin-malicioso-de-wordpress-permite-estafas-sofisticadas-en-p%C3%A1ginas-de-pago)
- 
-Se ha descubierto un plugin malicioso para WordPress llamado <b>PhishWP</b>, que permite a los atacantes crear páginas de pago falsas para robar datos financieros de las víctimas. Este hallazgo destaca la necesidad de reforzar las medidas de seguridad en sitios web y estar alerta ante posibles estafas en línea.
- 
-## [Navegando los Riesgos de Seguridad y las Ganancias de Eficiencia del GenAI en el Sector Salud]({{ site.baseurl }}/ciber/newsletter/2025-3/#navegando-los-riesgos-de-seguridad-y-las-ganancias-de-eficiencia-del-genai-en-el-sector-salud)
- 
-La integración de GenAI en el sector salud mejora la eficiencia, pero también amplía los riesgos de seguridad. Implementar estrategias como la gestión de riesgos de identidad en SaaS (SIRM es esencial para equilibrar los beneficios y proteger los datos sensibles.
- 
-## [Servicio de Hacking Web 'Araneida' Vinculado a Empresa de TI Turca]({{ site.baseurl }}/ciber/newsletter/2025-3/#servicio-de-hacking-web-araneida-vinculado-a-una-empresa-de-ti-turca)
- 
-El servicio de hacking web <b>‘Araneida’</b>, basado en una versión pirateada de <b>Acunetix</b>, permite a ciberdelincuentes realizar ataques avanzados. Este servicio está vinculado a una empresa de TI en Turquía y plantea riesgos globales de ciberseguridad.
- 
-## [Malware de Android 'FireScam' se Hace Pasar por Telegram Premium para Robar Datos y Controlar Dispositivos]({{ site.baseurl }}/ciber/newsletter/2025-3/#malware-de-android-firescam-se-hace-pasar-por-telegram-premium-para-robar-datos-y-controlar-dispositivos)
- 
-El malware de Android <b>FireScam</b> se hace pasar por una versión premium de Telegram para robar datos sensibles y mantener control remoto sobre dispositivos comprometidos. Se distribuye a través de sitios de phishing que imitan tiendas de aplicaciones legítimas, explotando la confianza de los usuarios.
- 
-## [Actualice los Dominios Antiguos de .NET Antes del 7 de Enero de 2025 para Evitar Interrupciones en el Servicio]({{ site.baseurl }}/ciber/newsletter/2025-3/#actualice-los-dominios-antiguos-de-net-antes-del-7-de-enero-de-2025-para-evitar-interrupciones-en-el-servicio)
+## [Fortinet desmiente publicación de datos comprometidos: Aclaraciones sobre supuesta fuga de configuraciones y credenciales vpn]({{ site.baseurl }}/ciber/newsletter/2025-4/#fortinet-desmiente-publicaci%C3%B3n-de-datos-comprometidos-aclaraciones-sobre-supuesta-fuga-de-configuraciones-y-credenciales-vpn)
 
-Microsoft insta a actualizar los dominios antiguos de .NET antes del 7 de enero de 2025 para evitar interrupciones en el servicio, debido al cese de la plataforma Edgio y la migración a Azure Front Door CDNs.
+Fortinet ha identificado una publicación de un actor malicioso que afirma haber filtrado configuraciones y credenciales VPN de dispositivos FortiGate. **La compañía ha confirmado que la información expuesta es un reuso de datos obtenidos en incidentes previos, anteriores a noviembre de 2022, y no está relacionada con ningún incidente reciente.** A continuación, se proporciona el contexto y las recomendaciones para los clientes afectados.
+
+## [El Gobierno impulsa una nueva Ley de Coordinación y Gobernanza de la Ciberseguridad para reforzar la protección ante ciberamenazas]({{ site.baseurl }}/ciber/newsletter/2025-4/#el-gobierno-impulsa-una-nueva-ley-de-coordinaci%C3%B3n-y-gobernanza-de-la-ciberseguridad-para-reforzar-la-protecci%C3%B3n-ante-ciberamenazas)
+
+España refuerza su escudo contra ciberataques: El Consejo de Ministros ha dado luz verde a una nueva ley que revolucionará la ciberseguridad en el país. La Ley de Coordinación y Gobernanza de la Ciberseguridad busca blindar sectores estratégicos como la energía, la banca y la salud frente a amenazas digitales cada vez más sofisticadas. Con esta normativa, España se alinea con los estándares europeos y se prepara para afrontar los desafíos del mundo digital del siglo XXI.
+
+## [ONG Europea Demanda a TikTok y Meta por el Uso Ilegal de Datos de Usuarios]({{ site.baseurl }}/ciber/newsletter/2025-4/#ong-europea-demanda-a-tiktok-y-meta-por-el-uso-ilegal-de-datos-de-usuarios)
+
+La ONG de privacidad <b>Noyb</b> ha presentado demandas contra TikTok y Meta por presuntas violaciones del GDPR, alegando el uso de <b>dark patterns</b> para obtener datos personales de forma indebida. Este caso resalta la importancia de la transparencia en las políticas de privacidad y el cumplimiento normativo en Europa.
+
+## [Nuevo Kit de Phishing para el Robo de 2FA Apunta a Servicios Bancarios]({{ site.baseurl }}/ciber/newsletter/2025-)
+
+Investigadores han descubierto un kit de phishing avanzado, <b>Adv2FA PhishKit</b>, diseñado para interceptar credenciales y códigos 2FA en tiempo real, dirigido principalmente a clientes de servicios bancarios. Este hallazgo destaca la creciente sofisticación de las amenazas de phishing y la necesidad de reforzar las medidas de seguridad.
+
+## [La importancia de los protocolos de identidad de máquinas para medidas de seguridad robustas]({{ site.baseurl }}/ciber/newsletter/2025-4/#la-importancia-de-los-protocolos-de-identidad-de-m%C3%A1quinas-para-medidas-de-seguridad-robustas)
+
+En el panorama digital actual, donde las máquinas desempeñan un papel cada vez más central en nuestras vidas, garantizar su seguridad es fundamental. Los protocolos de identidad de máquinas se erigen como guardianes digitales, encargados de verificar y proteger las identidades de dispositivos, aplicaciones y servicios.
+
+## [Gestión de Exposición: Un Enfoque Estratégico para la Seguridad Cibernética en Entornos con Recursos Limitados]({{ site.baseurl }}/ciber/newsletter/2025-4/#gesti%C3%B3n-de-exposici%C3%B3n-un-enfoque-estrat%C3%A9gico-para-la-seguridad-cibern%C3%A9tica-en-entornos-con-recursos-limitados)
+
+La gestión de exposición es un enfoque clave para optimizar la ciberseguridad en entornos con recursos limitados. Este método permite priorizar amenazas críticas, asignar recursos estratégicamente y fortalecer la resiliencia frente a un panorama de riesgos en constante evolución.
+
+## [Microsoft corrige error que afectaba el arranque de Windows Server 2022 en sistemas con nodos NUMA]({{ site.baseurl }}/ciber/newsletter/2025-4/#microsoft-corrige-error-que-afectaba-el-arranque-de-windows-server-2022-en-sistemas-con-nodos-numa)
+
+La gestión de exposiciones (XM) revoluciona la ciberseguridad al ofrecer una visión holística y proactiva de las amenazas. En un mundo digital cada vez más complejo, los equipos de seguridad se enfrentan a un desafío constante: identificar y priorizar las vulnerabilidades más críticas. XM proporciona un marco estratégico para transformar los datos de seguridad en inteligencia accionable, permitiendo a las organizaciones enfocar sus esfuerzos en las áreas que más importan y reducir significativamente el riesgo de incidentes cibernéticos. Al adoptar un enfoque "de afuera hacia adentro", XM ayuda a las empresas a anticipar los ataques y fortalecer sus defensas de manera efectiva.
 
 ---
 
