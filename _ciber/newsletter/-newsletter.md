@@ -7,33 +7,34 @@ has_children: true
 
 # Últimos artículos
 
-## [Fortinet desmiente publicación de datos comprometidos: Aclaraciones sobre supuesta fuga de configuraciones y credenciales vpn]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#fortinet-desmiente-publicaci%C3%B3n-de-datos-comprometidos-aclaraciones-sobre-supuesta-fuga-de-configuraciones-y-credenciales-vpn)
+## [La vulnerabilidad de MasterCard: un error de configuración DNS que podría haber sido catastrófico]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#la-vulnerabilidad-de-mastercard-un-error-de-configuraci%C3%B3n-dns-que-podr%C3%ADa-haber-sido-catastr%C3%B3fico)
 
-Fortinet ha identificado una publicación de un actor malicioso que afirma haber filtrado configuraciones y credenciales VPN de dispositivos FortiGate. **La compañía ha confirmado que la información expuesta es un reuso de datos obtenidos en incidentes previos, anteriores a noviembre de 2022, y no está relacionada con ningún incidente reciente.** A continuación, se proporciona el contexto y las recomendaciones para los clientes afectados.
+Recientemente, MasterCard corrigió un error crítico en la configuración de su servidor de nombres de dominio (DNS) que podría haber permitido a cualquier persona interceptar o desviar el tráfico de Internet de la empresa. Este error de configuración estuvo presente durante casi cinco años hasta que un investigador de seguridad registró el dominio no utilizado para prevenir su explotación por parte de ciberdelincuentes. Este artículo analiza en profundidad el incidente, las implicaciones de seguridad y las medidas correctivas adoptadas por MasterCard.
 
-## [El Gobierno impulsa una nueva Ley de Coordinación y Gobernanza de la Ciberseguridad para reforzar la protección ante ciberamenazas]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#el-gobierno-impulsa-una-nueva-ley-de-coordinaci%C3%B3n-y-gobernanza-de-la-ciberseguridad-para-reforzar-la-protecci%C3%B3n-ante-ciberamenazas)
+## [Brecha crítica en servicios en la nube expone datos sensibles de miles de usuarios]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#brecha-cr%C3%ADtica-en-servicios-en-la-nube-expone-datos-sensibles-de-miles-de-usuarios)
 
-España refuerza su escudo contra ciberataques: El Consejo de Ministros ha dado luz verde a una nueva ley que revolucionará la ciberseguridad en el país. La Ley de Coordinación y Gobernanza de la Ciberseguridad busca blindar sectores estratégicos como la energía, la banca y la salud frente a amenazas digitales cada vez más sofisticadas. Con esta normativa, España se alinea con los estándares europeos y se prepara para afrontar los desafíos del mundo digital del siglo XXI.
+Una reciente investigación de ciberseguridad ha descubierto una grave vulnerabilidad en un popular servicio de almacenamiento en la nube, exponiendo datos sensibles de miles de usuarios. Este artículo explora los detalles de la brecha de seguridad, las implicaciones para los usuarios afectados y las medidas recomendadas para mitigar futuros riesgos.
 
-## [ONG Europea Demanda a TikTok y Meta por el Uso Ilegal de Datos de Usuarios]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#ong-europea-demanda-a-tiktok-y-meta-por-el-uso-ilegal-de-datos-de-usuarios)
+## [Vulnerabilidad crítica en el modelo Llama de Meta permite la ejecución de código arbitrario]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#vulnerabilidad-cr%C3%ADtica-en-el-modelo-llama-de-meta-permite-la-ejecuci%C3%B3n-de-c%C3%B3digo-arbitrario)
 
-La ONG de privacidad <b>Noyb</b> ha presentado demandas contra TikTok y Meta por presuntas violaciones del GDPR, alegando el uso de <b>dark patterns</b> para obtener datos personales de forma indebida. Este caso resalta la importancia de la transparencia en las políticas de privacidad y el cumplimiento normativo en Europa.
+Meta ha revelado una vulnerabilidad de alta severidad en su modelo de lenguaje Llama (LLM) que, si es explotada con éxito, podría permitir a un atacante ejecutar código arbitrario en el servidor de inferencia llama-stack. Esta falla, identificada como CVE-2024-50050, ha sido calificada con un puntaje CVSS de 6.3 sobre 10.0, aunque la firma de seguridad Snyk le ha asignado una criticidad de 9.3. Este artículo analiza los detalles de la vulnerabilidad y las soluciones implementadas para mitigarla.
 
-## [Nuevo Kit de Phishing para el Robo de 2FA Apunta a Servicios Bancarios]({{ site.baseurl }}/ciber/newsletter/2025/2025-)
 
-Investigadores han descubierto un kit de phishing avanzado, <b>Adv2FA PhishKit</b>, diseñado para interceptar credenciales y códigos 2FA en tiempo real, dirigido principalmente a clientes de servicios bancarios. Este hallazgo destaca la creciente sofisticación de las amenazas de phishing y la necesidad de reforzar las medidas de seguridad.
+## [Nueva campaña de malware utiliza MintsLoader y técnicas avanzadas para atacar sectores clave en Estados Unidos y Europa]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#nueva-campa%C3%B1a-de-malware-utiliza-mintsloader-y-t%C3%A9cnicas-avanzadas-para-atacar-sectores-clave-en-estados-unidos-y-europa)
 
-## [La importancia de los protocolos de identidad de máquinas para medidas de seguridad robustas]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#la-importancia-de-los-protocolos-de-identidad-de-m%C3%A1quinas-para-medidas-de-seguridad-robustas)
+En enero de 2025, investigadores en ciberseguridad han descubierto una campaña maliciosa en curso que utiliza un cargador de malware conocido como **MintsLoader** para distribuir cargas secundarias, incluyendo el malware **StealC** y una plataforma de computación en red legítima llamada **BOINC**. Este ataque tiene como objetivo sectores estratégicos como electricidad, petróleo, gas y servicios legales en Estados Unidos y Europa.
 
-En el panorama digital actual, donde las máquinas desempeñan un papel cada vez más central en nuestras vidas, garantizar su seguridad es fundamental. Los protocolos de identidad de máquinas se erigen como guardianes digitales, encargados de verificar y proteger las identidades de dispositivos, aplicaciones y servicios.
+## [Nuevo marco de certificación en ciberseguridad de la UE para productos TIC: confianza, armonización y garantía a nivel europeo]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#nuevo-marco-de-certificaci%C3%B3n-en-ciberseguridad-de-la-ue-para-productos-tic-confianza-armonizaci%C3%B3n-y-garant%C3%ADa-a-nivel-europeo)
 
-## [Gestión de Exposición: Un Enfoque Estratégico para la Seguridad Cibernética en Entornos con Recursos Limitados]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#gesti%C3%B3n-de-exposici%C3%B3n-un-enfoque-estrat%C3%A9gico-para-la-seguridad-cibern%C3%A9tica-en-entornos-con-recursos-limitados)
+El marco de certificación de ciberseguridad de la UE establece un sistema unificado que permite evaluar y certificar la seguridad de productos y servicios TIC en todos los Estados miembros. Con niveles de garantía basados en riesgos, este sistema busca eliminar barreras entre países y facilitar el comercio digital seguro.
 
-La gestión de exposición es un enfoque clave para optimizar la ciberseguridad en entornos con recursos limitados. Este método permite priorizar amenazas críticas, asignar recursos estratégicamente y fortalecer la resiliencia frente a un panorama de riesgos en constante evolución.
+## [El ataque DDoS más grande de la historia bloqueado por Cloudflare]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#el-ataque-ddos-m%C3%A1s-grande-de-la-historia-bloqueado-por-cloudflare)
 
-## [Microsoft corrige error que afectaba el arranque de Windows Server 2022 en sistemas con nodos NUMA]({{ site.baseurl }}/ciber/newsletter/2025/2025-4/#microsoft-corrige-error-que-afectaba-el-arranque-de-windows-server-2022-en-sistemas-con-nodos-numa)
+Cloudflare ha detectado y bloqueado un ataque de denegación de servicio distribuido (DDoS) de 5.6 Terabits por segundo (Tbps), el más grande registrado hasta la fecha. Este ataque, basado en el protocolo UDP, tuvo lugar el 29 de octubre de 2024 y se dirigió a un proveedor de servicios de internet (ISP) en Asia Oriental. El ataque fue originado por una variante del botnet Mirai y duró solo 80 segundos.
 
-La gestión de exposiciones (XM) revoluciona la ciberseguridad al ofrecer una visión holística y proactiva de las amenazas. En un mundo digital cada vez más complejo, los equipos de seguridad se enfrentan a un desafío constante: identificar y priorizar las vulnerabilidades más críticas. XM proporciona un marco estratégico para transformar los datos de seguridad en inteligencia accionable, permitiendo a las organizaciones enfocar sus esfuerzos en las áreas que más importan y reducir significativamente el riesgo de incidentes cibernéticos. Al adoptar un enfoque "de afuera hacia adentro", XM ayuda a las empresas a anticipar los ataques y fortalecer sus defensas de manera efectiva.
+## [La creciente importancia de la gestión automatizada de identidades en la escalabilidad de la seguridad]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#la-creciente-importancia-de-la-gesti%C3%B3n-automatizada-de-identidades-en-la-escalabilidad-de-la-seguridad)
+
+En un mundo cada vez más digitalizado, la necesidad de medidas avanzadas de ciberseguridad se ha vuelto imprescindible. Las organizaciones, especialmente aquellas que operan en la nube, no pueden permitirse ignorar la gestión automatizada de identidades como una parte clave de estas precauciones. Este artículo profundiza en la relevancia de la gestión automatizada de identidades y su papel crucial en la escalabilidad de la seguridad.
 
 ---
 
