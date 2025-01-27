@@ -31,13 +31,15 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 4 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 5 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 4]({{ site.baseurl }}/ciber/newsletter/img/2025/4/4-0.png){: .css-imagen-cabecera}
+![Week 5]({{ site.baseurl }}/ciber/newsletter/img/2025/5/5-0.png){: .css-imagen-cabecera}
 
 ### Introducción a las noticias  
 
-El panorama de la ciberseguridad continúa enfrentándose a retos significativos, desde la protección de infraestructuras críticas bajo nuevas legislaciones de gobernanza hasta la mitigación de vulnerabilidades en dispositivos esenciales como los servidores. Noticias recientes evidencian la necesidad urgente de adoptar enfoques proactivos, como la implementación de actualizaciones clave para servidores afectados por arquitecturas complejas y la constante evolución de normativas que refuercen la resiliencia frente a ciberamenazas. La colaboración entre entidades públicas y privadas, junto con la actualización constante de sistemas y la adopción de modelos de seguridad avanzados, se perfila como esencial para mantener la integridad y seguridad en un ecosistema digital en constante cambio.
+El panorama de la ciberseguridad evoluciona constantemente, presentando desafíos críticos y soluciones innovadoras. En esta edición, exploramos historias impactantes como un error de configuración de DNS en MasterCard, una brecha alarmante en servicios en la nube y una vulnerabilidad crítica en el modelo Llama de Meta. También analizamos nuevas campañas de malware dirigidas a sectores clave, el avance de la certificación en ciberseguridad en la UE, y el bloqueo del mayor ataque DDoS de la historia. Finalmente, destacamos la creciente importancia de la gestión automatizada de identidades.
+
+¡No te pierdas estas noticias para mantenerte informado y protegido!
 
 ## Suscribirse
 
