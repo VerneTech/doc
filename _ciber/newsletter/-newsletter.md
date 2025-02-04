@@ -7,34 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [La vulnerabilidad de MasterCard: un error de configuración DNS que podría haber sido catastrófico]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#la-vulnerabilidad-de-mastercard-un-error-de-configuraci%C3%B3n-dns-que-podr%C3%ADa-haber-sido-catastr%C3%B3fico)
+## [Nueva campaña de malware a través de sitios falsos de DeepSeek]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#nueva-campa%C3%B1a-de-malware-a-trav%C3%A9s-de-sitios-falsos-de-deepseek)
 
-Recientemente, MasterCard corrigió un error crítico en la configuración de su servidor de nombres de dominio (DNS) que podría haber permitido a cualquier persona interceptar o desviar el tráfico de Internet de la empresa. Este error de configuración estuvo presente durante casi cinco años hasta que un investigador de seguridad registró el dominio no utilizado para prevenir su explotación por parte de ciberdelincuentes. Este artículo analiza en profundidad el incidente, las implicaciones de seguridad y las medidas correctivas adoptadas por MasterCard.
+En los últimos días, se ha detectado una campaña de distribución de malware a través de sitios falsos que imitan al oficial de DeepSeek, una herramienta de inteligencia artificial generativa open source. Esta táctica muestra cómo los cibercriminales aprovechan eventos de interés masivo para engañar a los usuarios. Es crucial estar atentos a detalles como la URL y evitar descargas innecesarias para prevenir infecciones.
 
-## [Brecha crítica en servicios en la nube expone datos sensibles de miles de usuarios]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#brecha-cr%C3%ADtica-en-servicios-en-la-nube-expone-datos-sensibles-de-miles-de-usuarios)
+## [Técnicas de Jailbreaking: Cómo los modelos de lenguaje pueden ser manipulados para usos maliciosos]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#t%C3%A9cnicas-de-jailbreaking-c%C3%B3mo-los-modelos-de-lenguaje-pueden-ser-manipulados-para-usos-maliciosos)
 
-Una reciente investigación de ciberseguridad ha descubierto una grave vulnerabilidad en un popular servicio de almacenamiento en la nube, exponiendo datos sensibles de miles de usuarios. Este artículo explora los detalles de la brecha de seguridad, las implicaciones para los usuarios afectados y las medidas recomendadas para mitigar futuros riesgos.
+En el ámbito de la inteligencia artificial y la ciberseguridad, la capacidad de los modelos de lenguaje grandes (LLMs) para generar contenido malicioso ha suscitado preocupación. Este artículo explora varias técnicas de "jailbreaking" que permiten a los atacantes sortear las restricciones de seguridad de los LLMs para obtener salidas peligrosas. A través del análisis de técnicas específicas, se destaca la urgencia de fortalecer las medidas de seguridad en estos modelos.
 
-## [Vulnerabilidad crítica en el modelo Llama de Meta permite la ejecución de código arbitrario]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#vulnerabilidad-cr%C3%ADtica-en-el-modelo-llama-de-meta-permite-la-ejecuci%C3%B3n-de-c%C3%B3digo-arbitrario)
+## [La importancia de la seguridad en la nube: desafíos y soluciones emergentes]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#la-importancia-de-la-seguridad-en-la-nube-desaf%C3%ADos-y-soluciones-emergentes)
 
-Meta ha revelado una vulnerabilidad de alta severidad en su modelo de lenguaje Llama (LLM) que, si es explotada con éxito, podría permitir a un atacante ejecutar código arbitrario en el servidor de inferencia llama-stack. Esta falla, identificada como CVE-2024-50050, ha sido calificada con un puntaje CVSS de 6.3 sobre 10.0, aunque la firma de seguridad Snyk le ha asignado una criticidad de 9.3. Este artículo analiza los detalles de la vulnerabilidad y las soluciones implementadas para mitigarla.
+La adopción de soluciones en la nube ha crecido exponencialmente en los últimos años, transformando la forma en que las organizaciones gestionan y almacenan datos. Sin embargo, esta transición también ha traído consigo una serie de desafíos en términos de seguridad. Este artículo explora los principales riesgos asociados con la seguridad en la nube y propone soluciones efectivas para mitigar estos riesgos.
 
+## [Aumento alarmante de ataques de ransomware en el sector salud]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#aumento-alarmante-de-ataques-de-ransomware-en-el-sector-salud)
 
-## [Nueva campaña de malware utiliza MintsLoader y técnicas avanzadas para atacar sectores clave en Estados Unidos y Europa]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#nueva-campa%C3%B1a-de-malware-utiliza-mintsloader-y-t%C3%A9cnicas-avanzadas-para-atacar-sectores-clave-en-estados-unidos-y-europa)
+En los últimos meses, el sector de la salud ha experimentado un incremento significativo en los ataques de ransomware, exponiendo vulnerabilidades críticas que ponen en riesgo a millones de personas. Este artículo analiza uno de los ataques más recientes y devastadores, llevado a cabo por el grupo Interlock, y ofrece recomendaciones sobre cómo las organizaciones de salud pueden protegerse contra estas amenazas.
 
-En enero de 2025, investigadores en ciberseguridad han descubierto una campaña maliciosa en curso que utiliza un cargador de malware conocido como **MintsLoader** para distribuir cargas secundarias, incluyendo el malware **StealC** y una plataforma de computación en red legítima llamada **BOINC**. Este ataque tiene como objetivo sectores estratégicos como electricidad, petróleo, gas y servicios legales en Estados Unidos y Europa.
+## [Microsoft aborda fallos críticos en Azure AI Face Service y Microsoft Account]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#microsoft-aborda-fallos-cr%C3%ADticos-en-azure-ai-face-service-y-microsoft-account)
 
-## [Nuevo marco de certificación en ciberseguridad de la UE para productos TIC: confianza, armonización y garantía a nivel europeo]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#nuevo-marco-de-certificaci%C3%B3n-en-ciberseguridad-de-la-ue-para-productos-tic-confianza-armonizaci%C3%B3n-y-garant%C3%ADa-a-nivel-europeo)
+Microsoft ha lanzado parches para solucionar dos vulnerabilidades críticas en Azure AI Face Service y Microsoft Account, que podrían permitir a un actor malicioso escalar sus privilegios bajo ciertas condiciones. Este artículo examina los detalles de estas vulnerabilidades, las soluciones propuestas y los beneficios esperados de estas acciones.
 
-El marco de certificación de ciberseguridad de la UE establece un sistema unificado que permite evaluar y certificar la seguridad de productos y servicios TIC en todos los Estados miembros. Con niveles de garantía basados en riesgos, este sistema busca eliminar barreras entre países y facilitar el comercio digital seguro.
+## [Nuevas medidas de protección contra el robo de dispositivos Android]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#nuevas-medidas-de-protecci%C3%B3n-contra-el-robo-de-dispositivos-android)
 
-## [El ataque DDoS más grande de la historia bloqueado por Cloudflare]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#el-ataque-ddos-m%C3%A1s-grande-de-la-historia-bloqueado-por-cloudflare)
+En la era digital actual, la seguridad de los dispositivos móviles es crucial debido a la cantidad de datos sensibles que almacenamos en ellos. Google ha anunciado la implementación de nuevas características de protección contra el robo en dispositivos Android, que incluyen la verificación de identidad y el bloqueo de detección de robo. Estas medidas buscan ofrecer una mayor protección a los usuarios, asegurando que sus datos permanezcan seguros incluso en caso de robo del dispositivo.
 
-Cloudflare ha detectado y bloqueado un ataque de denegación de servicio distribuido (DDoS) de 5.6 Terabits por segundo (Tbps), el más grande registrado hasta la fecha. Este ataque, basado en el protocolo UDP, tuvo lugar el 29 de octubre de 2024 y se dirigió a un proveedor de servicios de internet (ISP) en Asia Oriental. El ataque fue originado por una variante del botnet Mirai y duró solo 80 segundos.
+## [La creciente amenaza de las vulnerabilidades explotadas en la naturaleza en 2024]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#la-creciente-amenaza-de-las-vulnerabilidades-explotadas-en-la-naturaleza-en-2024)
 
-## [La creciente importancia de la gestión automatizada de identidades en la escalabilidad de la seguridad]({{ site.baseurl }}/ciber/newsletter/2025/2025-5/#la-creciente-importancia-de-la-gesti%C3%B3n-automatizada-de-identidades-en-la-escalabilidad-de-la-seguridad)
-
-En un mundo cada vez más digitalizado, la necesidad de medidas avanzadas de ciberseguridad se ha vuelto imprescindible. Las organizaciones, especialmente aquellas que operan en la nube, no pueden permitirse ignorar la gestión automatizada de identidades como una parte clave de estas precauciones. Este artículo profundiza en la relevancia de la gestión automatizada de identidades y su papel crucial en la escalabilidad de la seguridad.
+En el año 2024, se ha registrado un aumento significativo en el número de vulnerabilidades explotadas activamente, alcanzando un total de 768 CVEs identificadas. Este incremento del 20% respecto al año anterior subraya la necesidad urgente de mejorar las prácticas de ciberseguridad y la vigilancia constante. Este artículo profundiza en las tendencias observadas, los actores detrás de estas explotaciones y las medidas que las organizaciones deben tomar para protegerse.
 
 ---
 
