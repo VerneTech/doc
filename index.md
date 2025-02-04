@@ -31,13 +31,13 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 5 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 6 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 5]({{ site.baseurl }}/ciber/newsletter/img/2025/5/5-0.png){: .css-imagen-cabecera}
+![Week 6]({{ site.baseurl }}/ciber/newsletter/img/2025/6/6-0.png){: .css-imagen-cabecera}
 
 ### Introducción a las noticias  
 
-El panorama de la ciberseguridad evoluciona constantemente, presentando desafíos críticos y soluciones innovadoras. En esta edición, exploramos historias impactantes como un error de configuración de DNS en MasterCard, una brecha alarmante en servicios en la nube y una vulnerabilidad crítica en el modelo Llama de Meta. También analizamos nuevas campañas de malware dirigidas a sectores clave, el avance de la certificación en ciberseguridad en la UE, y el bloqueo del mayor ataque DDoS de la historia. Finalmente, destacamos la creciente importancia de la gestión automatizada de identidades.
+El panorama de la ciberseguridad sigue enfrentando desafíos complejos con la evolución de las amenazas digitales. Esta semana, destacamos **DeepSeek** y cómo ha sido explotado para la creación de **sitios falsos que distribuyen malware**, poniendo en riesgo a usuarios desprevenidos. Además, analizamos los crecientes peligros del **jailbreak en modelos de inteligencia artificial**, que permiten evadir las restricciones de seguridad y facilitan actividades maliciosas como la generación de código malicioso, fraudes y ataques cibernéticos. Estas vulnerabilidades subrayan la necesidad de fortalecer la seguridad en el desarrollo y uso de **LLMs** para evitar su explotación en campañas de ciberataques.
 
 ¡No te pierdas estas noticias para mantenerte informado y protegido!
 
