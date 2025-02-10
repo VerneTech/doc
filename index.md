@@ -31,15 +31,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 6 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 7 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 6]({{ site.baseurl }}/ciber/newsletter/img/2025/6/6-0.png){: .css-imagen-cabecera}
+![Week 7]({{ site.baseurl }}/ciber/newsletter/img/2025/7/7-0.png){: .css-imagen-cabecera}
 
-### Introducción a las noticias  
-
-El panorama de la ciberseguridad sigue enfrentando desafíos complejos con la evolución de las amenazas digitales. Esta semana, destacamos **DeepSeek** y cómo ha sido explotado para la creación de **sitios falsos que distribuyen malware**, poniendo en riesgo a usuarios desprevenidos. Además, analizamos los crecientes peligros del **jailbreak en modelos de inteligencia artificial**, que permiten evadir las restricciones de seguridad y facilitan actividades maliciosas como la generación de código malicioso, fraudes y ataques cibernéticos. Estas vulnerabilidades subrayan la necesidad de fortalecer la seguridad en el desarrollo y uso de **LLMs** para evitar su explotación en campañas de ciberataques.
-
-¡No te pierdas estas noticias para mantenerte informado y protegido!
+En un entorno digital cada vez más hostil, la ciberseguridad sigue siendo una prioridad para empresas, gobiernos y usuarios. Este mes, analizamos las amenazas más recientes y su impacto en la seguridad de la información. Desde vulnerabilidades críticas en plataformas como Zimbra y 7-Zip hasta el avance del phishing con deepfakes y ataques masivos de fuerza bruta, la evolución de las ciberamenazas es innegable. También exploramos cómo el ransomware sigue afectando al sector empresarial, el aumento de ataques a infraestructuras críticas y las estrategias que los ciberdelincuentes utilizan para distribuir malware a través de falsos sitios web. En este conjunto de artículos, ofrecemos un panorama detallado de estas amenazas emergentes y las mejores prácticas para mitigar riesgos en un mundo digital en constante cambio.
 
 ## Suscribirse
 

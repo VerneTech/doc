@@ -7,33 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Nueva campaña de malware a través de sitios falsos de DeepSeek]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#nueva-campa%C3%B1a-de-malware-a-trav%C3%A9s-de-sitios-falsos-de-deepseek)
+## [Zimbra lanza actualizaciones críticas para corregir vulnerabilidades de seguridad en su software de colaboración]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#zimbra-lanza-actualizaciones-cr%C3%ADticas-para-corregir-vulnerabilidades-de-seguridad-en-su-software-de-colaboraci%C3%B3n)
 
-En los últimos días, se ha detectado una campaña de distribución de malware a través de sitios falsos que imitan al oficial de DeepSeek, una herramienta de inteligencia artificial generativa open source. Esta táctica muestra cómo los cibercriminales aprovechan eventos de interés masivo para engañar a los usuarios. Es crucial estar atentos a detalles como la URL y evitar descargas innecesarias para prevenir infecciones.
+Zimbra ha lanzado actualizaciones de software para abordar fallos críticos de seguridad en su software de colaboración, que, si se explotan con éxito, podrían resultar en la divulgación de información bajo ciertas condiciones. Este artículo examina las vulnerabilidades descubiertas, sus implicaciones y las soluciones propuestas por Zimbra para mitigar los riesgos asociados.
 
-## [Técnicas de Jailbreaking: Cómo los modelos de lenguaje pueden ser manipulados para usos maliciosos]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#t%C3%A9cnicas-de-jailbreaking-c%C3%B3mo-los-modelos-de-lenguaje-pueden-ser-manipulados-para-usos-maliciosos)
+## [La evolución del phishing: De los mensajes fraudulentos a las deepfakes]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#la-evoluci%C3%B3n-del-phishing-de-los-mensajes-fraudulentos-a-las-deepfakes)
 
-En el ámbito de la inteligencia artificial y la ciberseguridad, la capacidad de los modelos de lenguaje grandes (LLMs) para generar contenido malicioso ha suscitado preocupación. Este artículo explora varias técnicas de "jailbreaking" que permiten a los atacantes sortear las restricciones de seguridad de los LLMs para obtener salidas peligrosas. A través del análisis de técnicas específicas, se destaca la urgencia de fortalecer las medidas de seguridad en estos modelos.
+En la era digital, el phishing ha evolucionado desde simples correos electrónicos fraudulentos hasta sofisticadas técnicas que incluyen deepfakes y clonación de voz. Este artículo explora cómo estas nuevas tácticas están impactando a las empresas y ofrece recomendaciones para que los líderes de ciberseguridad puedan responder eficazmente a estas amenazas emergentes.
 
-## [La importancia de la seguridad en la nube: desafíos y soluciones emergentes]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#la-importancia-de-la-seguridad-en-la-nube-desaf%C3%ADos-y-soluciones-emergentes)
+## [Falsos sitios web de Google Chrome distribuyen el troyano ValleyRAT]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#falsos-sitios-web-de-google-chrome-distribuyen-el-troyano-valleyrat)
 
-La adopción de soluciones en la nube ha crecido exponencialmente en los últimos años, transformando la forma en que las organizaciones gestionan y almacenan datos. Sin embargo, esta transición también ha traído consigo una serie de desafíos en términos de seguridad. Este artículo explora los principales riesgos asociados con la seguridad en la nube y propone soluciones efectivas para mitigar estos riesgos.
+Un nuevo informe de investigación revela cómo los atacantes han utilizado falsos sitios web de Google Chrome para distribuir instaladores maliciosos de un troyano de acceso remoto llamado **ValleyRAT**. Detectado por primera vez en 2023, este malware ha sido vinculado a un grupo de amenazas conocido como **Silver Fox**, que ha centrado sus ataques principalmente en regiones de habla china. Este artículo analiza cómo los atacantes están explotando la confianza en los sitios legítimos para infiltrar malware y robar información sensible.
 
-## [Aumento alarmante de ataques de ransomware en el sector salud]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#aumento-alarmante-de-ataques-de-ransomware-en-el-sector-salud)
+## [El impacto creciente del ransomware en el sector empresarial]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#el-impacto-creciente-del-ransomware-en-el-sector-empresarial)
 
-En los últimos meses, el sector de la salud ha experimentado un incremento significativo en los ataques de ransomware, exponiendo vulnerabilidades críticas que ponen en riesgo a millones de personas. Este artículo analiza uno de los ataques más recientes y devastadores, llevado a cabo por el grupo Interlock, y ofrece recomendaciones sobre cómo las organizaciones de salud pueden protegerse contra estas amenazas.
+En los últimos años, el ransomware se ha convertido en una de las amenazas cibernéticas más devastadoras para las empresas de todo el mundo. Este artículo explora cómo los ataques de ransomware están afectando a diferentes industrias, desde grandes corporaciones hasta pequeñas y medianas empresas, y ofrece estrategias y soluciones para mitigar estos riesgos y proteger la infraestructura digital.
 
-## [Microsoft aborda fallos críticos en Azure AI Face Service y Microsoft Account]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#microsoft-aborda-fallos-cr%C3%ADticos-en-azure-ai-face-service-y-microsoft-account)
+## [Vulnerabilidad en 7-Zip explotada para distribuir malware en Ucrania]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#vulnerabilidad-en-7-zip-explotada-para-distribuir-malware-en-ucrania)
 
-Microsoft ha lanzado parches para solucionar dos vulnerabilidades críticas en Azure AI Face Service y Microsoft Account, que podrían permitir a un actor malicioso escalar sus privilegios bajo ciertas condiciones. Este artículo examina los detalles de estas vulnerabilidades, las soluciones propuestas y los beneficios esperados de estas acciones.
+Una reciente vulnerabilidad de seguridad parcheada en la herramienta de compresión 7-Zip ha sido explotada en la naturaleza para entregar el malware SmokeLoader. Esta brecha, identificada como CVE-2025-0411, permite a los atacantes remotos eludir las protecciones de marca de la web (MotW) y ejecutar código arbitrario en el contexto del usuario actual. A continuación, se detallan los aspectos más importantes de esta amenaza y las medidas de mitigación recomendadas.
 
-## [Nuevas medidas de protección contra el robo de dispositivos Android]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#nuevas-medidas-de-protecci%C3%B3n-contra-el-robo-de-dispositivos-android)
+## [Aumento de ciberataques a infraestructuras críticas]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#aumento-de-ciberataques-a-infraestructuras-cr%C3%ADticas)
 
-En la era digital actual, la seguridad de los dispositivos móviles es crucial debido a la cantidad de datos sensibles que almacenamos en ellos. Google ha anunciado la implementación de nuevas características de protección contra el robo en dispositivos Android, que incluyen la verificación de identidad y el bloqueo de detección de robo. Estas medidas buscan ofrecer una mayor protección a los usuarios, asegurando que sus datos permanezcan seguros incluso en caso de robo del dispositivo.
+Las infraestructuras críticas están siendo objeto de un incremento alarmante en ciberataques, poniendo en riesgo servicios esenciales como energía, agua y transporte. Estos ataques no solo afectan la operatividad de estos servicios, sino que también pueden tener consecuencias catastróficas para la seguridad nacional y la economía. En este artículo, exploramos las tácticas empleadas por los atacantes, los sectores más vulnerables y las medidas que se están implementando para mitigar estos riesgos.
 
-## [La creciente amenaza de las vulnerabilidades explotadas en la naturaleza en 2024]({{ site.baseurl }}/ciber/newsletter/2025/2025-6/#la-creciente-amenaza-de-las-vulnerabilidades-explotadas-en-la-naturaleza-en-2024)
+## [Ciberataque masivo: Fuerza bruta para vulnerar dispositivos de red]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#ciberataque-masivo-fuerza-bruta-para-vulnerar-dispositivos-de-red)
 
-En el año 2024, se ha registrado un aumento significativo en el número de vulnerabilidades explotadas activamente, alcanzando un total de 768 CVEs identificadas. Este incremento del 20% respecto al año anterior subraya la necesidad urgente de mejorar las prácticas de ciberseguridad y la vigilancia constante. Este artículo profundiza en las tendencias observadas, los actores detrás de estas explotaciones y las medidas que las organizaciones deben tomar para protegerse.
+En las últimas semanas, se ha identificado un ataque de fuerza bruta a gran escala que emplea casi 2.8 millones de direcciones IP para intentar adivinar las credenciales de una amplia variedad de dispositivos de red. Este artículo examina el impacto de estos ataques y ofrece recomendaciones para protegerse contra ellos.
 
 ---
 
