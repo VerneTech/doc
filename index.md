@@ -31,11 +31,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 7 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 8 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 7]({{ site.baseurl }}/ciber/newsletter/img/2025/7/7-0.png){: .css-imagen-cabecera}
+![Week 8]({{ site.baseurl }}/ciber/newsletter/img/2025/8/8-0.png){: .css-imagen-cabecera}
 
-En un entorno digital cada vez más hostil, la ciberseguridad sigue siendo una prioridad para empresas, gobiernos y usuarios. Este mes, analizamos las amenazas más recientes y su impacto en la seguridad de la información. Desde vulnerabilidades críticas en plataformas como Zimbra y 7-Zip hasta el avance del phishing con deepfakes y ataques masivos de fuerza bruta, la evolución de las ciberamenazas es innegable. También exploramos cómo el ransomware sigue afectando al sector empresarial, el aumento de ataques a infraestructuras críticas y las estrategias que los ciberdelincuentes utilizan para distribuir malware a través de falsos sitios web. En este conjunto de artículos, ofrecemos un panorama detallado de estas amenazas emergentes y las mejores prácticas para mitigar riesgos en un mundo digital en constante cambio.
+En un entorno digital cada vez más amenazante, la ciberseguridad continúa siendo un desafío prioritario para empresas, gobiernos y usuarios. Este mes, analizamos las amenazas más recientes y su impacto en la seguridad de la información. Desde el auge de los ataques telefónicos dirigidos (TOAD) hasta vulnerabilidades críticas en Amazon Machine Image (AMI) de AWS, los ciberdelincuentes están aprovechando nuevas técnicas para comprometer sistemas y datos. Además, exploramos cómo la inteligencia artificial generativa está potenciando ataques de ingeniería social cada vez más sofisticados, el incremento del smishing dirigido a usuarios de peajes y la creciente explotación de dispositivos móviles vulnerables. También abordamos la importancia de la autenticación multifactor (MFA) como una barrera esencial contra el acceso no autorizado.
 
 ## Suscribirse
 

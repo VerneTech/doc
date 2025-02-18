@@ -7,33 +7,33 @@ has_children: true
 
 # Últimos artículos
 
-## [Zimbra lanza actualizaciones críticas para corregir vulnerabilidades de seguridad en su software de colaboración]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#zimbra-lanza-actualizaciones-cr%C3%ADticas-para-corregir-vulnerabilidades-de-seguridad-en-su-software-de-colaboraci%C3%B3n)
+## [La nueva táctica de los ciberdelincuentes: Ataques telefónicos dirigidos]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#la-nueva-t%C3%A1ctica-de-los-ciberdelincuentes-ataques-telef%C3%B3nicos-dirigidos)
 
-Zimbra ha lanzado actualizaciones de software para abordar fallos críticos de seguridad en su software de colaboración, que, si se explotan con éxito, podrían resultar en la divulgación de información bajo ciertas condiciones. Este artículo examina las vulnerabilidades descubiertas, sus implicaciones y las soluciones propuestas por Zimbra para mitigar los riesgos asociados.
+La seguridad móvil ha pasado a ser una prioridad debido al incremento de técnicas sofisticadas empleadas por los ciberdelincuentes. Una de las más recientes y preocupantes es el uso de ataques telefónicos dirigidos, conocidos como TOAD (Telephone-Oriented Attack Delivery). En este artículo, analizamos la reciente implementación de medidas de seguridad en Android 16 Beta 2 para contrarrestar estos ataques, y ofrecemos recomendaciones para protegerse contra este tipo de amenazas.
 
-## [La evolución del phishing: De los mensajes fraudulentos a las deepfakes]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#la-evoluci%C3%B3n-del-phishing-de-los-mensajes-fraudulentos-a-las-deepfakes)
+## [Vulnerabilidad en Amazon Machine Image permite ejecución de código remoto en AWS]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#vulnerabilidad-en-amazon-machine-image-permite-ejecuci%C3%B3n-de-c%C3%B3digo-remoto-en-aws)
 
-En la era digital, el phishing ha evolucionado desde simples correos electrónicos fraudulentos hasta sofisticadas técnicas que incluyen deepfakes y clonación de voz. Este artículo explora cómo estas nuevas tácticas están impactando a las empresas y ofrece recomendaciones para que los líderes de ciberseguridad puedan responder eficazmente a estas amenazas emergentes.
+Investigadores de ciberseguridad han revelado un nuevo tipo de ataque de confusión de nombre llamado whoAMI, que permite a cualquiera que publique una Amazon Machine Image (AMI) con un nombre específico ejecutar código dentro de la cuenta de Amazon Web Services (AWS).
 
-## [Falsos sitios web de Google Chrome distribuyen el troyano ValleyRAT]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#falsos-sitios-web-de-google-chrome-distribuyen-el-troyano-valleyrat)
+## [El auge de la inteligencia artificial generativa en los ataques de ingeniería social]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#el-auge-de-la-inteligencia-artificial-generativa-en-los-ataques-de-ingenier%C3%ADa-social)
 
-Un nuevo informe de investigación revela cómo los atacantes han utilizado falsos sitios web de Google Chrome para distribuir instaladores maliciosos de un troyano de acceso remoto llamado **ValleyRAT**. Detectado por primera vez en 2023, este malware ha sido vinculado a un grupo de amenazas conocido como **Silver Fox**, que ha centrado sus ataques principalmente en regiones de habla china. Este artículo analiza cómo los atacantes están explotando la confianza en los sitios legítimos para infiltrar malware y robar información sensible.
+La inteligencia artificial generativa (GenAI) está transformando rápidamente el panorama de la ciberseguridad. Los ciberdelincuentes están aprovechando estas tecnologías avanzadas para llevar a cabo ataques de ingeniería social más realistas y sofisticados. Este artículo explora cómo la GenAI está siendo utilizada para crear señuelos más convincentes y qué medidas pueden adoptar las organizaciones para protegerse.
 
-## [El impacto creciente del ransomware en el sector empresarial]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#el-impacto-creciente-del-ransomware-en-el-sector-empresarial)
+## [Nueva Estrategia de Ataque: Smishing Dirigido a Usuarios de Peajes]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#nueva-estrategia-de-ataque-smishing-dirigido-a-usuarios-de-peajes)
 
-En los últimos años, el ransomware se ha convertido en una de las amenazas cibernéticas más devastadoras para las empresas de todo el mundo. Este artículo explora cómo los ataques de ransomware están afectando a diferentes industrias, desde grandes corporaciones hasta pequeñas y medianas empresas, y ofrece estrategias y soluciones para mitigar estos riesgos y proteger la infraestructura digital.
+En los últimos meses, Estados Unidos ha experimentado un aumento considerable en los mensajes de texto fraudulentos que se hacen pasar por operadores de peajes. Estos mensajes buscan engañar a los usuarios para que proporcionen información sensible, como datos de tarjetas de pago y contraseñas de un solo uso. Este artículo explora la naturaleza de estas estafas y ofrece recomendaciones para protegerse contra ellas.
 
-## [Vulnerabilidad en 7-Zip explotada para distribuir malware en Ucrania]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#vulnerabilidad-en-7-zip-explotada-para-distribuir-malware-en-ucrania)
+## [El auge de los ataques de ingeniería social potenciados por la inteligencia artificial]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#el-auge-de-los-ataques-de-ingenier%C3%ADa-social-potenciados-por-la-inteligencia-artificial)
 
-Una reciente vulnerabilidad de seguridad parcheada en la herramienta de compresión 7-Zip ha sido explotada en la naturaleza para entregar el malware SmokeLoader. Esta brecha, identificada como CVE-2025-0411, permite a los atacantes remotos eludir las protecciones de marca de la web (MotW) y ejecutar código arbitrario en el contexto del usuario actual. A continuación, se detallan los aspectos más importantes de esta amenaza y las medidas de mitigación recomendadas.
+La inteligencia artificial (IA) está transformando la manera en que operan las empresas y cómo los usuarios interactúan con aplicaciones, dispositivos y servicios. Sin embargo, junto con sus beneficios, la IA también trae consigo nuevos desafíos de seguridad, especialmente relacionados con la identidad. Este artículo aborda estos retos y ofrece soluciones para enfrentarlos de manera eficaz con la ayuda de Okta.
 
-## [Aumento de ciberataques a infraestructuras críticas]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#aumento-de-ciberataques-a-infraestructuras-cr%C3%ADticas)
+## [La importancia de la autenticación multifactor en la protección empresarial]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#la-importancia-de-la-autenticaci%C3%B3n-multifactor-en-la-protecci%C3%B3n-empresarial)
 
-Las infraestructuras críticas están siendo objeto de un incremento alarmante en ciberataques, poniendo en riesgo servicios esenciales como energía, agua y transporte. Estos ataques no solo afectan la operatividad de estos servicios, sino que también pueden tener consecuencias catastróficas para la seguridad nacional y la economía. En este artículo, exploramos las tácticas empleadas por los atacantes, los sectores más vulnerables y las medidas que se están implementando para mitigar estos riesgos.
+La autenticación multifactor (MFA) se ha convertido rápidamente en un estándar para proteger las cuentas empresariales. A pesar de su eficacia, la implementación de soluciones MFA puede ser complicada debido a la diversidad de diseños y enfoques. En este artículo, exploraremos las razones por las cuales la MFA no se implementa de manera universal, sus beneficios y los desafíos asociados con su despliegue.
 
-## [Ciberataque masivo: Fuerza bruta para vulnerar dispositivos de red]({{ site.baseurl }}/ciber/newsletter/2025/2025-7/#ciberataque-masivo-fuerza-bruta-para-vulnerar-dispositivos-de-red)
+## [Ciberataques dirigidos a dispositivos móviles vulnerables]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#ciberataques-dirigidos-a-dispositivos-m%C3%B3viles-vulnerables)
 
-En las últimas semanas, se ha identificado un ataque de fuerza bruta a gran escala que emplea casi 2.8 millones de direcciones IP para intentar adivinar las credenciales de una amplia variedad de dispositivos de red. Este artículo examina el impacto de estos ataques y ofrece recomendaciones para protegerse contra ellos.
+Los ataques cibernéticos a dispositivos móviles han ido en aumento, afectando tanto a usuarios individuales como a empresas. Estos ataques buscan explotar vulnerabilidades en sistemas operativos y aplicaciones para obtener acceso no autorizado a datos sensibles. Este artículo examina cómo se llevan a cabo estos ataques, las brechas de seguridad que aprovechan y las medidas que se pueden tomar para protegerse.
 
 ---
 
