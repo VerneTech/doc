@@ -31,11 +31,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 8 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 9 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 8]({{ site.baseurl }}/ciber/newsletter/img/2025/8/8-0.png){: .css-imagen-cabecera}
+![Week 9]({{ site.baseurl }}/ciber/newsletter/img/2025/9/9-0.png){: .css-imagen-cabecera}
 
-En un entorno digital cada vez más amenazante, la ciberseguridad continúa siendo un desafío prioritario para empresas, gobiernos y usuarios. Este mes, analizamos las amenazas más recientes y su impacto en la seguridad de la información. Desde el auge de los ataques telefónicos dirigidos (TOAD) hasta vulnerabilidades críticas en Amazon Machine Image (AMI) de AWS, los ciberdelincuentes están aprovechando nuevas técnicas para comprometer sistemas y datos. Además, exploramos cómo la inteligencia artificial generativa está potenciando ataques de ingeniería social cada vez más sofisticados, el incremento del smishing dirigido a usuarios de peajes y la creciente explotación de dispositivos móviles vulnerables. También abordamos la importancia de la autenticación multifactor (MFA) como una barrera esencial contra el acceso no autorizado.
+En un entorno digital cada vez más complejo, las amenazas cibernéticas siguen evolucionando y afectando tanto a usuarios individuales como a grandes empresas. Este mes, destacamos varias preocupaciones clave en el ámbito de la ciberseguridad. En primer lugar, el aumento del smishing dirigido a usuarios de peajes en EE.UU. pone en riesgo la información personal y financiera de las víctimas. A su vez, una nueva vulnerabilidad en la nube ha sido descubierta, afectando a grandes empresas y poniendo en riesgo su información. El ransomware continúa siendo una amenaza grave, especialmente en infraestructuras críticas, donde su impacto es devastador. Además, el auge del malware Snake Keylogger y una nueva amenaza dirigida a macOS, FrigidStealer, demuestran cómo los ciberdelincuentes utilizan nuevas tácticas y plataformas para distribuir su malware. Finalmente, la decisión de Microsoft de finalizar el soporte para Exchange Server 2016 y 2019 obliga a las empresas a prepararse para el cambio, ya que no habrá actualizaciones ni parches después de octubre de 2025. En este panorama de amenazas emergentes, es crucial implementar estrategias adecuadas para protegerse y mitigar riesgos en un mundo cada vez más interconectado.
 
 ## Suscribirse
 
