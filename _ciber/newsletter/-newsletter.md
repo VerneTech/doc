@@ -7,36 +7,30 @@ has_children: true
 
 # Últimos artículos
 
-## [La nueva táctica de los ciberdelincuentes: Ataques telefónicos dirigidos]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#la-nueva-t%C3%A1ctica-de-los-ciberdelincuentes-ataques-telef%C3%B3nicos-dirigidos)
+## [El ascenso del smishing: Mensajes de peajes fraudulentos en EE.UU.]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#el-ascenso-del-smishing-mensajes-de-peajes-fraudulentos-en-eeuu)
 
-La seguridad móvil ha pasado a ser una prioridad debido al incremento de técnicas sofisticadas empleadas por los ciberdelincuentes. Una de las más recientes y preocupantes es el uso de ataques telefónicos dirigidos, conocidos como TOAD (Telephone-Oriented Attack Delivery). En este artículo, analizamos la reciente implementación de medidas de seguridad en Android 16 Beta 2 para contrarrestar estos ataques, y ofrecemos recomendaciones para protegerse contra este tipo de amenazas.
+El aumento de los mensajes de texto fraudulentos en Estados Unidos, que aparentan ser de operadores de peajes como E-ZPass, está causando preocupación entre los ciudadanos. Estos mensajes advierten sobre multas por tarifas no pagadas y buscan obtener datos personales y financieros de las víctimas. Este artículo examina la naturaleza de estas estafas, su conexión con kits de phishing comerciales en China y ofrece recomendaciones sobre cómo protegerse.
 
-## [Vulnerabilidad en Amazon Machine Image permite ejecución de código remoto en AWS]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#vulnerabilidad-en-amazon-machine-image-permite-ejecuci%C3%B3n-de-c%C3%B3digo-remoto-en-aws)
+## [Nueva vulnerabilidad en la nube que afecta a grandes empresas]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#nueva-vulnerabilidad-en-la-nube-que-afecta-a-grandes-empresas)
 
-Investigadores de ciberseguridad han revelado un nuevo tipo de ataque de confusión de nombre llamado whoAMI, que permite a cualquiera que publique una Amazon Machine Image (AMI) con un nombre específico ejecutar código dentro de la cuenta de Amazon Web Services (AWS).
+En los últimos días, se ha descubierto una nueva vulnerabilidad en los sistemas de seguridad en la nube que podría poner en riesgo la información de grandes empresas. Este fallo de seguridad ha sido detectado por expertos en ciberseguridad y se encuentra en proceso de mitigación. En este artículo, analizamos los detalles de la vulnerabilidad, su impacto potencial y las medidas que las empresas pueden tomar para protegerse.
 
-## [El auge de la inteligencia artificial generativa en los ataques de ingeniería social]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#el-auge-de-la-inteligencia-artificial-generativa-en-los-ataques-de-ingenier%C3%ADa-social)
+## [La creciente amenaza del ransomware en la infraestructura crítica]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#la-creciente-amenaza-del-ransomware-en-la-infraestructura-cr%C3%ADtica)
 
-La inteligencia artificial generativa (GenAI) está transformando rápidamente el panorama de la ciberseguridad. Los ciberdelincuentes están aprovechando estas tecnologías avanzadas para llevar a cabo ataques de ingeniería social más realistas y sofisticados. Este artículo explora cómo la GenAI está siendo utilizada para crear señuelos más convincentes y qué medidas pueden adoptar las organizaciones para protegerse.
+En los últimos años, el ransomware ha evolucionado hasta convertirse en una de las amenazas cibernéticas más graves, especialmente para la infraestructura crítica. Este artículo se adentra en las dinámicas de estos ataques, los sectores más afectados y las estrategias que las organizaciones pueden adoptar para mitigar los riesgos. También se examinan casos recientes y se ofrecen recomendaciones para fortalecer la seguridad cibernética en infraestructuras vitales.
 
-## [Nueva Estrategia de Ataque: Smishing Dirigido a Usuarios de Peajes]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#nueva-estrategia-de-ataque-smishing-dirigido-a-usuarios-de-peajes)
+## [Microsoft anuncia el fin del soporte para Exchange Server 2016 y 2019]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#microsoft-anuncia-el-fin-del-soporte-para-exchange-server-2016-y-2019)
 
-En los últimos meses, Estados Unidos ha experimentado un aumento considerable en los mensajes de texto fraudulentos que se hacen pasar por operadores de peajes. Estos mensajes buscan engañar a los usuarios para que proporcionen información sensible, como datos de tarjetas de pago y contraseñas de un solo uso. Este artículo explora la naturaleza de estas estafas y ofrece recomendaciones para protegerse contra ellas.
+Microsoft ha comunicado oficialmente que el soporte para Exchange Server 2016 y Exchange Server 2019 finalizará el 14 de octubre de 2025. Esta noticia obliga a las empresas a prepararse para la transición a otras soluciones, ya que después de esta fecha no habrá parches de seguridad, correcciones de errores ni soporte técnico disponible. En este artículo, examinaremos las implicaciones de esta decisión, los riesgos de seguir utilizando Exchange sin soporte y las opciones disponibles para garantizar la continuidad y seguridad del negocio.
 
-## [El auge de los ataques de ingeniería social potenciados por la inteligencia artificial]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#el-auge-de-los-ataques-de-ingenier%C3%ADa-social-potenciados-por-la-inteligencia-artificial)
+## [El aumento de smishing dirigido a usuarios de peajes en Estados Unidos]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#el-aumento-de-smishing-dirigido-a-usuarios-de-peajes-en-estados-unidos)
 
-La inteligencia artificial (IA) está transformando la manera en que operan las empresas y cómo los usuarios interactúan con aplicaciones, dispositivos y servicios. Sin embargo, junto con sus beneficios, la IA también trae consigo nuevos desafíos de seguridad, especialmente relacionados con la identidad. Este artículo aborda estos retos y ofrece soluciones para enfrentarlos de manera eficaz con la ayuda de Okta.
+En los últimos meses, se ha detectado un incremento alarmante en los mensajes de texto fraudulentos (smishing) dirigidos a los usuarios de operadores de peajes en Estados Unidos, como E-ZPass. Estos mensajes engañosos advierten sobre multas por tarifas de peaje no pagadas, con el objetivo de obtener datos personales y financieros de las víctimas. Este artículo examina la evolución de estas estafas y proporciona recomendaciones para protegerse contra ellas.
 
-## [La importancia de la autenticación multifactor en la protección empresarial]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#la-importancia-de-la-autenticaci%C3%B3n-multifactor-en-la-protecci%C3%B3n-empresarial)
+## [Auge del malware Snake Keylogger: Nuevas tácticas y objetivos]({{ site.baseurl }}/ciber/newsletter/auge-malware-snake-keylogger2025/2025-9/#auge-del-malware-snake-keylogger-nuevas-t%C3%A1cticas-y-objetivos)
 
-La autenticación multifactor (MFA) se ha convertido rápidamente en un estándar para proteger las cuentas empresariales. A pesar de su eficacia, la implementación de soluciones MFA puede ser complicada debido a la diversidad de diseños y enfoques. En este artículo, exploraremos las razones por las cuales la MFA no se implementa de manera universal, sus beneficios y los desafíos asociados con su despliegue.
+El malware Snake Keylogger ha evolucionado y está causando estragos en varias regiones del mundo, incluyendo España. Este malware, conocido por robar información sensible de los usuarios, ha estado detrás de más de 280 millones de intentos de infección bloqueados desde principios de año. Este artículo profundiza en las tácticas y técnicas utilizadas por esta nueva variante y ofrece recomendaciones para protegerse contra este tipo de amenazas.
 
-## [Ciberataques dirigidos a dispositivos móviles vulnerables]({{ site.baseurl }}/ciber/newsletter/2025/2025-8/#ciberataques-dirigidos-a-dispositivos-m%C3%B3viles-vulnerables)
+## [Nueva Amenaza de Malware: FrigidStealer Ataca macOS]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#nueva-amenaza-de-malware-frigidstealer-ataca-macos)
 
-Los ataques cibernéticos a dispositivos móviles han ido en aumento, afectando tanto a usuarios individuales como a empresas. Estos ataques buscan explotar vulnerabilidades en sistemas operativos y aplicaciones para obtener acceso no autorizado a datos sensibles. Este artículo examina cómo se llevan a cabo estos ataques, las brechas de seguridad que aprovechan y las medidas que se pueden tomar para protegerse.
-
----
-
-# Artículos antiguos
-
-¿Te has perdido alguna semana y quieres recordarla? No dudes en usar nuestro archivo para ello.
+Los investigadores de ciberseguridad han detectado una nueva campaña que utiliza inyecciones web para distribuir un nuevo malware dirigido a macOS llamado FrigidStealer. Esta actividad ha sido atribuida a un actor de amenazas previamente no documentado conocido como TA2727. Este artículo examina los detalles de esta amenaza y proporciona recomendaciones para protegerse contra ella.
