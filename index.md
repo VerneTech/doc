@@ -31,11 +31,11 @@ No te pierdas nuestras secciones:
 
 En esta sección, te traemos las noticias más recientes y relevantes del mundo de la ciberseguridad. Mantente al día con los eventos y desarrollos que han marcado la última semana.
 
-### [¡Semana 10 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
+### [¡Semana 11 publicada!]({{ site.baseurl }}/ciber/newsletter/-newsletter/)
 
-![Week 10]({{ site.baseurl }}/ciber/newsletter/img/2025/10/10-0.png){: .css-imagen-cabecera}
+![Week 11]({{ site.baseurl }}/ciber/newsletter/img/2025/11/11-0.png){: .css-imagen-cabecera}
 
-En un panorama digital cada vez más amenazante, los ciberataques contra infraestructuras críticas están en aumento, afectando sectores esenciales como la energía, el transporte y la salud. Este mes, destacamos varios desafíos clave en la ciberseguridad. En primer lugar, el ransomware continúa siendo una amenaza persistente, con ataques dirigidos a infraestructuras críticas que pueden generar graves interrupciones y pérdidas económicas. Europa enfrenta un incremento significativo de ciberataques en sectores estratégicos, lo que pone en riesgo su estabilidad y seguridad. Además, la evolución del spyware LightSpy ha ampliado sus capacidades para extraer datos de redes sociales, lo que supone un peligro para la privacidad de los usuarios. Por otro lado, el crecimiento del Internet de las Cosas (IoT) en infraestructuras críticas ha generado nuevas vulnerabilidades, impulsando la necesidad de reforzar su seguridad. Ante este panorama, la adopción de medidas proactivas y estrategias de protección es fundamental para mitigar los riesgos en un mundo cada vez más digitalizado.
+En un entorno digital cada vez más vulnerable, los ciberataques están evolucionando rápidamente. Este mes, destacamos varios riesgos clave en ciberseguridad. En primer lugar, se ha descubierto una técnica que permite a extensiones maliciosas suplantar complementos instalados en navegadores, lo que representa una amenaza para los usuarios. Además, los ataques de phishing en EE. UU. han aumentado debido a nuevos kits fraudulentos provenientes de China, que suplantan operadores de peajes. La seguridad en la nube se ha vuelto esencial, ya que los riesgos de protección de datos crecen con su adopción. También, una nueva campaña de malware disfraza un minero de criptomonedas para infectar a los usuarios. Finalmente, los ataques de malvertising y smishing siguen siendo amenazas crecientes. En este contexto, es crucial adoptar estrategias de protección efectivas para mitigar los riesgos.
 
 ## Suscribirse
 
