@@ -7,34 +7,30 @@ has_children: true
 
 # Últimos artículos
 
-## [El ascenso del smishing: Mensajes de peajes fraudulentos en EE.UU.]({{ site.baseurl }}/ciber/newsletter/2025/2025-9/#el-ascenso-del-smishing-mensajes-de-peajes-fraudulentos-en-eeuu)
+## [Nueva técnica de extensión maliciosa que suplanta cualquier complemento instalado]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#nueva-t%C3%A9cnica-de-extensi%C3%B3n-maliciosa-que-suplanta-cualquier-complemento-instalado)
 
-El aumento de los mensajes de texto fraudulentos en Estados Unidos, que aparentan ser de operadores de peajes como E-ZPass, está causando preocupación entre los ciudadanos. Estos mensajes advierten sobre multas por tarifas no pagadas y buscan obtener datos personales y financieros de las víctimas. Este artículo examina la naturaleza de estas estafas, su conexión con kits de phishing comerciales en China y ofrece recomendaciones sobre cómo protegerse.
+Los investigadores de ciberseguridad han descubierto una técnica novedosa que permite a una extensión de navegador web maliciosa suplantar cualquier complemento instalado. Este artículo explora el mecanismo de ataque, sus implicaciones y las medidas preventivas que los usuarios pueden tomar para protegerse.
 
-## [Ciberataques a infraestructuras críticas: un desafío creciente]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#la-importancia-de-la-ciberseguridad-en-la-era-digital)
+## [Aumento de ataques de phishing en Estados Unidos debido a nuevos kits fraudulentos]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#aumento-de-ataques-de-phishing-en-estados-unidos-debido-a-nuevos-kits-fraudulentos)
 
-Las infraestructuras críticas, como el suministro eléctrico, el agua potable y los sistemas de transporte, son fundamentales para el funcionamiento de la sociedad moderna. Sin embargo, estas infraestructuras están cada vez más amenazadas por ciberataques sofisticados que pueden causar interrupciones significativas y daños económicos. Este artículo explora los riesgos asociados a estos ataques y ofrece recomendaciones para mejorar la seguridad de las infraestructuras críticas.
+Recientemente, se ha observado un incremento notable en los ataques de phishing por SMS en Estados Unidos, donde los delincuentes suplantan a operadores de peajes para engañar a los ciudadanos. Este aumento coincide con la aparición de nuevas características en kits de phishing comerciales provenientes de China. En este artículo se explora la naturaleza de estas estafas y se ofrecen recomendaciones para protegerse de ellas.
 
-## [La creciente amenaza del ransomware en las infraestructuras críticas]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#nueva-amenaza-cibern%C3%A9tica-malware-en-dispositivos-iot)
+## [La importancia de la seguridad en la nube en la era digital]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#la-importancia-de-la-seguridad-en-la-nube-en-la-era-digital)
 
-En los últimos meses, las infraestructuras críticas han sido objetivo de numerosos ataques de ransomware, afectando a sectores clave como la energía, el transporte y la salud. Este artículo analiza las tácticas utilizadas por los ciberdelincuentes y ofrece recomendaciones para proteger estos sistemas vitales.
+La seguridad en la nube se ha convertido en una prioridad para empresas y organizaciones de todo el mundo. Con la creciente adopción de soluciones basadas en la nube, los riesgos asociados a la protección de datos y la gestión de la información se han multiplicado. En este artículo, exploraremos los desafíos y las mejores prácticas para garantizar la seguridad en la nube, proporcionando estrategias y recomendaciones para proteger los datos y mantener la integridad de la infraestructura digital.
 
-## [Aumento de ciberataques a infraestructuras críticas en Europa]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#el-auge-de-los-ataques-de-phishing-sms-en-estados-unidos)
+## [Nueva campaña de malware masivo infecta a usuarios con un minero de criptomonedas llamado SilentCryptoMiner]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#nueva-campa%C3%B1a-de-malware-masivo-infecta-a-usuarios-con-un-minero-de-criptomonedas-llamado-silentcryptominer)
 
-Las infraestructuras críticas en Europa están experimentando un aumento significativo en los ciberataques. Estos ataques, dirigidos principalmente a redes de energía, sistemas de transporte y servicios de agua, ponen en riesgo la estabilidad y seguridad de la región. Este artículo explora las tácticas utilizadas por los atacantes, las vulnerabilidades explotadas y las medidas propuestas para reforzar la ciberseguridad en estos sectores vitales.
+Los usuarios de internet están siendo atacados por una nueva campaña de malware que disfraza un minero de criptomonedas como una herramienta para eludir bloqueos y restricciones en servicios online. Esta táctica, observada por la empresa rusa de ciberseguridad Kaspersky, se aprovecha de la confianza de los usuarios en programas de desvío de paquetes de Windows.
 
-## [Actualización Crítica en Spyware LightSpy para la Extracción de Datos de Redes Sociales]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#actualizaci%C3%B3n-cr%C3%ADtica-en-spyware-lightspy-para-la-extracci%C3%B3n-de-datos-de-redes-sociales)
+## [Ciberataque masivo mediante malvertising impacta a más de un millón de dispositivos globalmente]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#ciberataque-masivo-mediante-malvertising-impacta-a-m%C3%A1s-de-un-mill%C3%B3n-de-dispositivos-globalmente)
 
-El spyware LightSpy ha evolucionado significativamente, incorporando nuevas funcionalidades que permiten la extracción de datos de redes sociales como Facebook e Instagram. Este artículo explora las capacidades ampliadas del malware, los riesgos asociados y las medidas que las organizaciones pueden tomar para protegerse.
+En diciembre de 2024, Microsoft reveló detalles de una campaña de malvertising a gran escala que ha afectado a más de un millón de dispositivos en todo el mundo. Este ataque oportunista busca robar información sensible utilizando sitios web de streaming ilegales y plataformas como GitHub, Discord y Dropbox para distribuir malware. Este artículo detalla la naturaleza de la campaña, las tácticas empleadas y las recomendaciones para protegerse.
 
-## [Avances en la Seguridad IoT para la Protección de Infraestructuras Críticas]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#cibercriminales-de-corea-del-norte-detr%C3%A1s-del-robo-de-15-mil-millones-en-criptomonedas)
+## [La evolución de los ataques de smishing y cómo protegerse]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#la-evoluci%C3%B3n-de-los-ataques-de-smishing-y-c%C3%B3mo-protegerse)
 
-La seguridad en el Internet de las Cosas (IoT) se ha convertido en una prioridad para la protección de infraestructuras críticas. A medida que más dispositivos IoT se integran en sistemas esenciales como el suministro de energía y agua, se incrementan también los riesgos de ciberataques. Este artículo explora las últimas innovaciones en seguridad IoT, así como las mejores prácticas para salvaguardar estos sistemas vitales.
+En Estados Unidos, ha habido un aumento significativo en los mensajes de texto fraudulentos que imitan a operadores de peajes como E-ZPass. Estos mensajes buscan engañar a los destinatarios para que proporcionen información personal y financiera. Este artículo explora la naturaleza de estos ataques y ofrece recomendaciones para protegerse de ellos.
 
-## [Aumento de Ciberataques a Infraestructuras Críticas en Europa]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#la-importancia-de-la-seguridad-zero-trust-en-la-era-de-los-ciberataques)
+## [Ciberataques mediante dispositivos USB: riesgos y cómo protegerse]({{ site.baseurl }}/ciber/newsletter/2025/2025-11/#ciberataques-mediante-dispositivos-usb-riesgos-y-c%C3%B3mo-protegerse)
 
-La seguridad de las infraestructuras críticas en Europa está siendo desafiada por un aumento significativo de ciberataques. Estos ataques están dirigidos a sectores vitales como la energía, el transporte y la salud, poniendo en riesgo la estabilidad y seguridad del continente. En este artículo se exploran los métodos más comunes utilizados por los atacantes, las vulnerabilidades explotadas y las medidas que las organizaciones pueden implementar para fortalecer su defensa cibernética.
-
-## [El auge de los ciberataques a infraestructuras críticas en 2023]({{ site.baseurl }}/ciber/newsletter/2025/2025-10/#la-creciente-amenaza-de-los-ataques-de-ransomware-en-la-infraestructura-cr%C3%ADtica)
-
-En los últimos meses, se ha detectado un aumento alarmante en el número de ciberataques dirigidos a infraestructuras críticas a nivel global. Estos ataques, que van desde el secuestro de redes de energía hasta la interrupción de servicios de agua, representan una amenaza significativa para la seguridad nacional y la estabilidad económica. Este artículo explora las tácticas empleadas por los atacantes, las vulnerabilidades explotadas y las medidas de mitigación recomendadas para proteger estos activos vitales.
+Los ataques con dispositivos USB representan un riesgo significativo para la ciberseguridad, aprovechando el uso cotidiano de estos para entregar malware y evadir las medidas tradicionales de seguridad en redes. Este artículo analiza los métodos utilizados por los atacantes, el proceso de infección y las soluciones para protegerse contra estos ataques, destacando el uso de la plataforma de seguridad Wazuh.
